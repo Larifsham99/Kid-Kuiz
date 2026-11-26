@@ -6,7 +6,7 @@ import { pauseMenu } from '../pause.js';
 import { ENGINES } from '../engines/index.js';
 import { MODES, generateLevel, makeRound, TIERS } from '../modes/index.js';
 import { PRAISE, ENCOURAGE, ISLAMIC_PRAISE, ISLAMIC_ENCOURAGE } from '../data/content.js';
-import { speak, stopSpeak, sfx, playSound, speakWord, haptic, voicePack } from '../audio.js';
+import { speak, stopSpeak, sfx, playSound, speakWord, haptic, voicePack, hasClip } from '../audio.js';
 import { TALK, pick, echoable } from '../talk.js';
 import { ribbon, selfieButton, praiseGate, breakStreak, getStreak, winBar } from '../cheer.js';
 import { icon } from '../icons.js';
@@ -260,7 +260,8 @@ function showLevelDone({ p, mode, level, stars, rewards, totalMistakes, special 
   // supaya suara kekal konsisten apabila pakej suara rakaman digunakan)
   const alh = settings().islamic !== false;
   const msg = totalMistakes === 0 ? pick(TALK.doneAll) : pick(TALK.done);
-  const nameLine = !voicePack() && Math.random() < 0.35 ? ` ${pick(TALK.doneName(callOf(p)))}` : '';
+  const nl = pick(TALK.doneName(callOf(p)));
+  const nameLine = (settings().voiceEngine === 'peranti' || hasClip(nl)) && Math.random() < 0.35 ? ` ${nl}` : '';
   speak(`${alh ? 'Alhamdulillah! ' : ''}${msg}${nameLine}`, { mood: 'pujian' });
   const content = h('div', { style: { display: 'flex', flexDirection: 'column', gap: '14px', alignItems: 'center' } },
     h('div', { class: 'win-head' },

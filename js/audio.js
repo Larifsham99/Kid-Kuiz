@@ -132,6 +132,14 @@ export async function loadVoicePack(base = 'audio/ms-MY/') {
 }
 export const voicePack = () => pack;
 const usePack = () => pack && prefs().voiceEngine !== 'peranti';
+// Lalai: hanya rakaman VO dimainkan; ayat yang belum dirakam senyap (tiada suara peranti).
+// Ibu bapa boleh pilih 'peranti' di Tetapan untuk suara telefon.
+const recOnly = () => prefs().voiceEngine !== 'peranti';
+// semua ayat dalam teks ini ada rakaman?
+export function hasClip(text) {
+  if (!pack) return false;
+  return splitSentences(normalizeMalay(String(text), { letters: false })).every((s) => !!findClip(s));
+}
 async function clipUrl(file) {
   if (clipCache.has(file)) return clipCache.get(file);
   const res = await fetch(pack.base + file); // fetch penuh (bukan julat) supaya boleh di-cache untuk luar talian
@@ -222,6 +230,7 @@ export function speak(text, { lang, rate, interrupt = true, mood = 'arahan' } = 
         const ok = await playClip(file, { rate: vp.base / 0.88, id });
         if (ok !== false) return;
       }
+      if (recOnly()) return; // tiada rakaman: senyap
       if (typeof speechSynthesis !== 'undefined') await sayOne(lang === 'en' ? part : letterize(part), { lang, rate: r, pitch: vp.pitch, id });
     }), Promise.resolve()).catch(() => {});
   } catch { return Promise.resolve(); }

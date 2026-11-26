@@ -28,7 +28,7 @@ const sentence = man.clips[keys[0]] && keys[0];
 const run = async (text) => pg.evaluate(async (t) => { window.__log = []; await window.__dc.speak(t); return window.__log; }, text);
 let log = await run(`${sentence} Ini ayat tanpa rakaman.`);
 ok(log[0] === 'klip:blob:', `ayat berklip dimainkan daripada fail audio (${sentence})`);
-ok(log[1] === 'tts:Ini ayat tanpa rakaman.', 'ayat tanpa klip jatuh balik ke suara peranti');
+ok(log.length === 1, 'lalai "rakaman sahaja": ayat tanpa klip senyap (tiada suara peranti)');
 await pg.evaluate(() => { window.__dc.getState().settings.voiceEngine = 'peranti'; });
 log = await run(sentence);
 ok(log.length === 1 && log[0].startsWith('tts:'), 'tetapan "Suara peranti" menggunakan suara telefon');

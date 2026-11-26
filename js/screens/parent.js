@@ -200,7 +200,7 @@ function enginePanel(s) {
   const st = h('div', { class: 'muted', style: { fontSize: '13px' } }, `${pk.voice || 'Suara neural'} · ${pk.count} ayat dirakam`);
   return h('div', {},
     h('div', { class: 'toggle-row' }, h('div', {}, 'Enjin suara', st),
-      (() => { const e = h('select', { style: { fontSize: '16px', padding: '8px', borderRadius: '10px' } }, h('option', { value: 'auto', selected: s.voiceEngine !== 'peranti' }, 'Suara neural (disyorkan)'), h('option', { value: 'peranti', selected: s.voiceEngine === 'peranti' }, 'Suara peranti')); e.addEventListener('change', () => { s.voiceEngine = e.value; save(); speak(SAMPLE); }); return e; })()),
+      (() => { const e = h('select', { style: { fontSize: '16px', padding: '8px', borderRadius: '10px' } }, h('option', { value: 'auto', selected: s.voiceEngine !== 'peranti' }, 'Rakaman VO sahaja (disyorkan)'), h('option', { value: 'peranti', selected: s.voiceEngine === 'peranti' }, 'Rakaman + suara telefon untuk ayat belum dirakam')); e.addEventListener('change', () => { s.voiceEngine = e.value; save(); speak(SAMPLE); }); return e; })()),
     (() => {
       const b = h('button', { class: 'btn small green', type: 'button' }, '⬇ Muat turun suara untuk luar talian');
       b.addEventListener('click', async () => { b.disabled = true; const n = await downloadVoicePack((d, t) => { b.textContent = `Memuat turun ${d}/${t}...`; }); b.textContent = `✅ ${n} klip suara sedia untuk luar talian`; });

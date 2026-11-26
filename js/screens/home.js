@@ -8,7 +8,7 @@ import { AVATARS, CHARACTERS, DOA } from '../data/content.js';
 import { icon } from '../icons.js';
 import { avatarEl, statPills, guide, parentGate } from './shared.js';
 import { dailySet } from './daily.js';
-import { speak, sfx, voicePack } from '../audio.js';
+import { speak, sfx, voicePack, hasClip } from '../audio.js';
 import { limitSeconds } from './timeout.js';
 import { DEMO, DEMO_MAX, SALES_URL } from '../demo.js';
 import { BRAND, brandLogo, shade } from '../brand.js';
@@ -63,7 +63,7 @@ export function homeScreen() {
   const lv = playerLevel(p);
   const d = dailySet(p);
   const scr = h('div', { class: 'screen bj-home' }, h('div', { class: 'bj-stage', 'aria-hidden': 'true' }));
-  later(() => speak(voicePack() && settings().voiceEngine !== 'peranti' ? greet('') : greet(callOf(p))), 400);
+  later(() => { const g = greet(callOf(p)); speak(settings().voiceEngine === 'peranti' || hasClip(g) ? g : greet('')); }, 400);
   if (!pathHeroInfo(p).st.cur) later(() => speak('Tekan butang Mula untuk memulakan Laluan Bijak!'), 3200);
 
   // ---- kepala: logo, bintang, pemain ----
