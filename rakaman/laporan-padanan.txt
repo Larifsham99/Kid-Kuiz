@@ -1,0 +1,306 @@
+2361/2650 ayat diletakkan (2346 sepadan terus, 15 diisi antara jiran); 289 tiada dalam audio
+
+ISI    0.44  skrip: Teksi.  |  didengar: taxi.
+ISI    0.47  skrip: Koleksi.  |  didengar: Collection.
+ISI    0.89  skrip: Warnakan bot layar ikut warna kegemaran kamu!  |  didengar: Warna kan buat layar warna kegemaran kamu.
+ISI    0.97  skrip: El untuk Lebah.  |  didengar: L untuk lebach.
+ISI    0.42  skrip: O untuk Oren.  |  didengar: Vuuuun! Warna
+ISI    0.40  skrip: Warnakan muka kucing dulu, ya.  |  didengar: warna kuning warna pintu dengan warna chocolate warna pintu dulu, mı ikut
+ISI    0.50  skrip: Warnakan pisang dulu, ya.  |  didengar: warna kegemaran kamu dulu ya warna kegemaran kamu
+ISI    0.73  skrip: Warnakan sayap atas kiri dulu, ya.  |  didengar: warna umu warna sayap atas kiri
+ISI    0.64  skrip: Warnakan sinar dulu, ya.  |  didengar: umu warna sinar dengan
+ISI    0.53  skrip: Ini warna kuning.  |  didengar: Warna kan mata
+ISI    0.46  skrip: Ini warna merah jambu.  |  didengar: dengan warna putih.
+ISI    0.50  skrip: Ghain.  |  didengar: semakin
+ISI    0.40  skrip: Nabi Yusuf.  |  didengar: semua dulu
+ISI    0.40  skrip: Huruf Ro.  |  didengar: dulu ya
+ISI    0.47  skrip: Doa doa untuk ibu bapa.  |  didengar: Lobak. M untuk monyet.
+TOLAK  0.00  skrip: Aummm!  |  didengar: 
+TOLAK  0.00  skrip: Mooo!  |  didengar: 
+TOLAK  0.00  skrip: Unta tinggal di mana, ya?  |  didengar: 
+TOLAK  0.00  skrip: Litar Kampung, level tiga puluh enam.  |  didengar: 
+TOLAK  0.00  skrip: Bandar Warna, level empat puluh satu.  |  didengar: 
+TOLAK  0.00  skrip: Bandar Warna, level empat puluh dua.  |  didengar: 
+TOLAK  0.00  skrip: Bandar Warna, level empat puluh tiga.  |  didengar: 
+TOLAK  0.00  skrip: Berapa pensel?  |  didengar: 
+TOLAK  0.00  skrip: Bandar Warna, level empat puluh empat.  |  didengar: 
+TOLAK  0.00  skrip: Cari komet!  |  didengar: 
+TOLAK  0.00  skrip: Cari bentuk bujur!  |  didengar: 
+TOLAK  0.00  skrip: Angkasa Ria, level empat puluh enam.  |  didengar: 
+TOLAK  0.00  skrip: Angkasa Ria, level empat puluh tujuh.  |  didengar: 
+TOLAK  0.00  skrip: Cari bumi!  |  didengar: 
+TOLAK  0.00  skrip: Lolipop, donat, coklat dan biskut.  |  didengar: 
+TOLAK  0.00  skrip: Selesaikan sepuluh level di Angkasa Ria dahulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Tapak Binaan Cilik, level dua puluh lapan.  |  didengar: 
+TOLAK  0.00  skrip: Tapak Binaan Cilik, level dua puluh sembilan.  |  didengar: 
+TOLAK  0.00  skrip: Ada sembilan kereta.  |  didengar: 
+TOLAK  0.00  skrip: Tapak Binaan Cilik, level tiga puluh.  |  didengar: 
+TOLAK  0.00  skrip: Tapak Binaan Cilik, level tiga puluh dua.  |  didengar: 
+TOLAK  0.00  skrip: Tapak Binaan Cilik, level tiga puluh tiga.  |  didengar: 
+TOLAK  0.00  skrip: Kumpul dua ratus dua puluh lima bintang untuk membuka kereta ini.  |  didengar: 
+TOLAK  0.00  skrip: Itu bukan el.  |  didengar: 
+TOLAK  0.00  skrip: Jim.  |  didengar: 
+TOLAK  0.00  skrip: Beee!  |  didengar: 
+TOLAK  0.00  skrip: Ini epal.  |  didengar: 
+TOLAK  0.00  skrip: Ini feri.  |  didengar: 
+TOLAK  0.00  skrip: Ini gelas.  |  didengar: 
+TOLAK  0.00  skrip: Ini gitar.  |  didengar: 
+TOLAK  0.00  skrip: Jom surih huruf ai guna jari.  |  didengar: 
+TOLAK  0.00  skrip: Jom surih huruf vi guna jari.  |  didengar: 
+TOLAK  0.00  skrip: Jom surih huruf dabel yu guna jari.  |  didengar: 
+TOLAK  0.00  skrip: Jom surih nombor tujuh guna jari.  |  didengar: 
+TOLAK  0.00  skrip: Aiskrim.  |  didengar: 
+TOLAK  0.00  skrip: Pi untuk Pisang.  |  didengar: 
+TOLAK  0.00  skrip: Pak, pak, pak!  |  didengar: 
+TOLAK  0.00  skrip: Permainan ini sedang dikunci oleh ibu bapa.  |  didengar: 
+TOLAK  0.00  skrip: Pokok besar.  |  didengar: 
+TOLAK  0.00  skrip: Pokok kecil.  |  didengar: 
+TOLAK  0.00  skrip: Priiit!  |  didengar: 
+TOLAK  0.00  skrip: Prok, prok, prok!  |  didengar: 
+TOLAK  0.00  skrip: Ar untuk Rama-rama.  |  didengar: 
+TOLAK  0.00  skrip: Rintik, rintik,.  |  didengar: 
+TOLAK  0.00  skrip: Es untuk Siput.  |  didengar: 
+TOLAK  0.00  skrip: Sekolah.  |  didengar: 
+TOLAK  0.00  skrip: Sembilan ekor rama-rama, tambah satu ekor lagi.  |  didengar: 
+TOLAK  0.00  skrip: Susun pazel Roket di angkasa.  |  didengar: 
+TOLAK  0.00  skrip: Syuuu, syuuu,.  |  didengar: 
+TOLAK  0.00  skrip: Ti untuk Tikus.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level ei, bi, si Ceria untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Asah Minda untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Bijak Mengelaskan untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Cari Bayang untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Dunia Haiwan untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Dunia Nombor untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Ingatan Hebat untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Kehidupan Harian untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Maze Pengembaraan untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Misi Pengembaraan untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Pazel Pintar untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Seni dan Mewarna untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Si Cilik Soleh untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Teka Bunyi untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tamatkan semua level Warna dan Bentuk untuk mendapat sijil.  |  didengar: 
+TOLAK  0.00  skrip: Tik, tok, tik, tok!  |  didengar: 
+TOLAK  0.00  skrip: Yu untuk Ular.  |  didengar: 
+TOLAK  0.00  skrip: Vi untuk Van.  |  didengar: 
+TOLAK  0.00  skrip: Violin.  |  didengar: 
+TOLAK  0.00  skrip: Dabel yu untuk Wau.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan api dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan badan bas dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan badan bot dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan badan dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan badan ikan dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan badan kereta dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan badan roket dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan batang dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan batang pokok dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan belon kanan dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan belon kiri dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan belon tengah dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan bendera dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan buah dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan buah epal dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan buah strawberi dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan bumbung dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan cangkerang dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan cerobong dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan dinding dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan ekor dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan hidung dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan hujung pisang dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan isi tembikai dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan kaki dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan kepala dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan kulit tembikai dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan laut dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan layar dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan mata dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan sayap bawah kanan dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan sayap bawah kiri dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan telinga kanan dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan telinga kiri dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Warnakan tengah bunga dulu, ya.  |  didengar: 
+TOLAK  0.00  skrip: Wiu, wiu!  |  didengar: 
+TOLAK  0.00  skrip: Wuuu,.  |  didengar: 
+TOLAK  0.00  skrip: Wai untuk Yoyo.  |  didengar: 
+TOLAK  0.00  skrip: Zed untuk Zirafah.  |  didengar: 
+TOLAK  0.00  skrip: Cuba cari warna biru.  |  didengar: 
+TOLAK  0.00  skrip: Cuba cari warna hijau.  |  didengar: 
+TOLAK  0.00  skrip: Cuba cari warna hitam.  |  didengar: 
+TOLAK  0.00  skrip: Cuba cari warna merah jambu.  |  didengar: 
+TOLAK  0.00  skrip: Cuba cari warna merah.  |  didengar: 
+TOLAK  0.00  skrip: Cuba cari warna oren.  |  didengar: 
+TOLAK  0.00  skrip: Cuba cari warna putih.  |  didengar: 
+TOLAK  0.00  skrip: Cuba cari warna ungu.  |  didengar: 
+TOLAK  0.00  skrip: Ini warna biru.  |  didengar: 
+TOLAK  0.00  skrip: Ini warna putih.  |  didengar: 
+TOLAK  0.00  skrip: Ini warna ungu.  |  didengar: 
+TOLAK  0.00  skrip: Wisel.  |  didengar: 
+TOLAK  0.00  skrip: Telefon.  |  didengar: 
+TOLAK  0.00  skrip: Beriman kepada malaikat.  |  didengar: 
+TOLAK  0.00  skrip: Beri biru.  |  didengar: 
+TOLAK  0.00  skrip: Beriman kepada Allah.  |  didengar: 
+TOLAK  0.00  skrip: Guruh.  |  didengar: 
+TOLAK  0.00  skrip: Loceng pintu.  |  didengar: 
+TOLAK  0.00  skrip: Huruf vi kecil.  |  didengar: 
+TOLAK  0.00  skrip: Bangun tidur.  |  didengar: 
+TOLAK  0.00  skrip: Dengan nama Allah.  |  didengar: 
+TOLAK  0.00  skrip: Huruf ar kecil.  |  didengar: 
+TOLAK  0.00  skrip: Aku memohon keampunan-Mu.  |  didengar: 
+TOLAK  0.00  skrip: Huruf ai kecil.  |  didengar: 
+TOLAK  0.00  skrip: Huruf en kecil.  |  didengar: 
+TOLAK  0.00  skrip: Huruf yu kecil.  |  didengar: 
+TOLAK  0.00  skrip: Huruf wai kecil.  |  didengar: 
+TOLAK  0.00  skrip: Masuk tandas.  |  didengar: 
+TOLAK  0.00  skrip: Nabi Soleh.  |  didengar: 
+TOLAK  0.00  skrip: Zho.  |  didengar: 
+TOLAK  0.00  skrip: Doa untuk ibu bapa.  |  didengar: 
+TOLAK  0.00  skrip: Huruf si kecil.  |  didengar: 
+TOLAK  0.00  skrip: Segala puji bagi Allah.  |  didengar: 
+TOLAK  0.00  skrip: Seluar.  |  didengar: 
+TOLAK  0.00  skrip: Ketuk dan minta izin.  |  didengar: 
+TOLAK  0.00  skrip: Salam.  |  didengar: 
+TOLAK  0.00  skrip: Timun.  |  didengar: 
+TOLAK  0.00  skrip: Wah, bulan!  |  didengar: 
+TOLAK  0.00  skrip: Wah, ikan!  |  didengar: 
+TOLAK  0.00  skrip: Wah, rama-rama!  |  didengar: 
+TOLAK  0.00  skrip: Wah, rumah!  |  didengar: 
+TOLAK  0.00  skrip: Wah, segi empat!  |  didengar: 
+TOLAK  0.00  skrip: Wah, segi tiga!  |  didengar: 
+TOLAK  0.00  skrip: Yu.  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level ei, bi, si Ceria!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Asah Minda!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Bijak Mengelaskan!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Cari Bayang!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Dunia Haiwan!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Dunia Nombor!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Ingatan Hebat!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Kehidupan Harian!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Maze Pengembaraan!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Misi Pengembaraan!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Pazel Pintar!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Seni dan Mewarna!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Si Cilik Soleh!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Teka Bunyi!  |  didengar: 
+TOLAK  0.00  skrip: Kamu sudah tamatkan semua level Warna dan Bentuk!  |  didengar: 
+TOLAK  0.00  skrip: Tema Batik Laut!  |  didengar: 
+TOLAK  0.00  skrip: Tema Kampung Ceria!  |  didengar: 
+TOLAK  0.00  skrip: Tema Klasik Lembut!  |  didengar: 
+TOLAK  0.00  skrip: Tema Kuih-muih!  |  didengar: 
+TOLAK  0.00  skrip: Tema Malam Bulan!  |  didengar: 
+TOLAK  0.00  skrip: Tema Songket Diraja!  |  didengar: 
+TOLAK  0.00  skrip: Tema Taman Masjid!  |  didengar: 
+TOLAK  0.00  skrip: Wah, payung!  |  didengar: 
+TOLAK  0.00  skrip: Mula dari kanan.  |  didengar: 
+TOLAK  0.00  skrip: Membasuh muka (dengan niat).  |  didengar: 
+TOLAK  0.00  skrip: Menunaikan solat lima waktu.  |  didengar: 
+TOLAK  0.00  skrip: Susun rukun Iman mengikut urutan.  |  didengar: 
+TOLAK  0.00  skrip: Membasuh kedua-dua kaki hingga buku lali.  |  didengar: 
+TOLAK  0.00  skrip: Susun rukun Islam mengikut urutan.  |  didengar: 
+TOLAK  0.00  skrip: Cari pasangan huruf hijaiyah yang sama.  |  didengar: 
+TOLAK  0.00  skrip: Menunaikan haji bagi yang mampu.  |  didengar: 
+TOLAK  0.00  skrip: Tonton televisyen.  |  didengar: 
+TOLAK  0.00  skrip: Beriman kepada hari akhirat.  |  didengar: 
+TOLAK  0.00  skrip: Qof.  |  didengar: 
+TOLAK  0.00  skrip: Wahai Tuhanku, ampunkanlah aku dan kedua ibu bapaku.  |  didengar: 
+TOLAK  0.00  skrip: Wahai Tuhanku, tambahkanlah ilmuku.  |  didengar: 
+TOLAK  0.00  skrip: Mim.  |  didengar: 
+TOLAK  0.00  skrip: Nun.  |  didengar: 
+TOLAK  0.00  skrip: Wau.  |  didengar: 
+TOLAK  0.00  skrip: Dengan nama-Mu ya Allah, aku mati dan aku hidup.  |  didengar: 
+TOLAK  0.00  skrip: Doa ini bermaksud: Dengan nama Allah, aku bertawakal kepada Allah; tiada daya dan kekuatan melainkan dengan Allah.  |  didengar: 
+TOLAK  0.00  skrip: Pilih doa sebelum memulakan sesuatu, atau sebelum makan.  |  didengar: 
+TOLAK  0.00  skrip: Sebelum makan, kita membaca,.  |  didengar: 
+TOLAK  0.00  skrip: Fa.  |  didengar: 
+TOLAK  0.00  skrip: Hamzah.  |  didengar: 
+TOLAK  0.00  skrip: Nabi Lut.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Ba.  |  didengar: 
+TOLAK  0.00  skrip: Susun nama nabi mengikut urutan, bermula dengan Nabi Soleh.  |  didengar: 
+TOLAK  0.00  skrip: Ya Allah, aku berlindung kepada-Mu daripada syaitan lelaki dan perempuan.  |  didengar: 
+TOLAK  0.00  skrip: Apabila menerima hadiah, kita ucapkan,.  |  didengar: 
+TOLAK  0.00  skrip: Apakah rukun Iman yang pertama?  |  didengar: 
+TOLAK  0.00  skrip: Apakah rukun Islam yang kedua?  |  didengar: 
+TOLAK  0.00  skrip: Cari huruf Ain!  |  didengar: 
+TOLAK  0.00  skrip: Cari huruf Ro!  |  didengar: 
+TOLAK  0.00  skrip: Doa ini bermaksud: Segala puji bagi Allah yang menghidupkan kami setelah mematikan kami, dan kepada-Nya kami kembali.  |  didengar: 
+TOLAK  0.00  skrip: Doa ini bermaksud: Wahai Tuhanku, ampunkanlah aku dan kedua ibu bapaku.  |  didengar: 
+TOLAK  0.00  skrip: Masuk ke tandas, kita mulakan dengan kaki,.  |  didengar: 
+TOLAK  0.00  skrip: Nabi Ayub.  |  didengar: 
+TOLAK  0.00  skrip: Pilih doa bangun tidur.  |  didengar: 
+TOLAK  0.00  skrip: Pilih doa doa untuk ibu bapa.  |  didengar: 
+TOLAK  0.00  skrip: Pilih doa sebelum belajar.  |  didengar: 
+TOLAK  0.00  skrip: Pilih doa sebelum tidur.  |  didengar: 
+TOLAK  0.00  skrip: Sebelum masuk bilik orang, kita,.  |  didengar: 
+TOLAK  0.00  skrip: Segala puji bagi Allah yang menghidupkan kami setelah mematikan kami, dan kepada-Nya kami kembali.  |  didengar: 
+TOLAK  0.00  skrip: Selepas makan, kita mengucap,.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Alif.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Zho.  |  didengar: 
+TOLAK  0.00  skrip: Susun nama nabi mengikut urutan, bermula dengan Nabi Ismail.  |  didengar: 
+TOLAK  0.00  skrip: Tho.  |  didengar: 
+TOLAK  0.00  skrip: Apabila berjumpa kawan, kita memberi,.  |  didengar: 
+TOLAK  0.00  skrip: Apabila bersalah, kita ucapkan,.  |  didengar: 
+TOLAK  0.00  skrip: Apabila orang tua bercakap, kita,.  |  didengar: 
+TOLAK  0.00  skrip: Apakah rukun Iman yang kedua?  |  didengar: 
+TOLAK  0.00  skrip: Apakah rukun Iman yang ketiga?  |  didengar: 
+TOLAK  0.00  skrip: Apakah rukun Islam yang keempat?  |  didengar: 
+TOLAK  0.00  skrip: Apakah rukun Islam yang kelima?  |  didengar: 
+TOLAK  0.00  skrip: Apakah rukun Islam yang ketiga?  |  didengar: 
+TOLAK  0.00  skrip: Cari huruf Alif!  |  didengar: 
+TOLAK  0.00  skrip: Cari huruf Dal!  |  didengar: 
+TOLAK  0.00  skrip: Cari huruf Kaf!  |  didengar: 
+TOLAK  0.00  skrip: Cari huruf Sod!  |  didengar: 
+TOLAK  0.00  skrip: Cari huruf Zho!  |  didengar: 
+TOLAK  0.00  skrip: Dengan nama Allah, aku bertawakal kepada Allah; tiada daya dan kekuatan melainkan dengan Allah.  |  didengar: 
+TOLAK  0.00  skrip: Dengar dan cari: Nabi Hud.  |  didengar: 
+TOLAK  0.00  skrip: Dengar dan cari: Nabi Ibrahim.  |  didengar: 
+TOLAK  0.00  skrip: Dengar dan cari: Nabi Ilyasa.  |  didengar: 
+TOLAK  0.00  skrip: Dengar dan cari: Nabi Isa.  |  didengar: 
+TOLAK  0.00  skrip: Dengar dan cari: Nabi Soleh.  |  didengar: 
+TOLAK  0.00  skrip: Dengar dan cari: Nabi Yahya.  |  didengar: 
+TOLAK  0.00  skrip: Doa ini bermaksud: Segala puji bagi Allah.  |  didengar: 
+TOLAK  0.00  skrip: Doa ini bermaksud: Ya Allah, aku berlindung kepada-Mu daripada syaitan lelaki dan perempuan.  |  didengar: 
+TOLAK  0.00  skrip: Ejek.  |  didengar: 
+TOLAK  0.00  skrip: Huruf Ain.  |  didengar: 
+TOLAK  0.00  skrip: Maksudnya, Segala puji bagi Allah.  |  didengar: 
+TOLAK  0.00  skrip: Masuk ke rumah, kita mulakan dengan kaki,.  |  didengar: 
+TOLAK  0.00  skrip: Pilih doa keluar tandas.  |  didengar: 
+TOLAK  0.00  skrip: Pilih doa masuk tandas.  |  didengar: 
+TOLAK  0.00  skrip: Pilih doa selepas makan.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Fa.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Ha.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Kho.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Lam.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Mim.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Nun.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Qof.  |  didengar: 
+TOLAK  0.00  skrip: Susun huruf hijaiyah mengikut urutan, bermula dengan Tho.  |  didengar: 
+TOLAK  0.00  skrip: Susun nama nabi mengikut urutan, bermula dengan Nabi Hud.  |  didengar: 
+TOLAK  0.00  skrip: Susun nama nabi mengikut urutan, bermula dengan Nabi Ishak.  |  didengar: 
+TOLAK  0.00  skrip: Susun nama nabi mengikut urutan, bermula dengan Nabi Lut.  |  didengar: 
+TOLAK  0.00  skrip: Susun nama nabi mengikut urutan, bermula dengan Nabi Nuh.  |  didengar: 
+TOLAK  0.00  skrip: Susun nama nabi mengikut urutan, bermula dengan Nabi Yaakub.  |  didengar: 
+TOLAK  0.00  skrip: Susun nama nabi mengikut urutan, bermula dengan Nabi Yusuf.  |  didengar: 
+TOLAK  0.00  skrip: Terus masuk.  |  didengar: 
+TOLAK  0.00  skrip: Doa bangun tidur.  |  didengar: 
+TOLAK  0.00  skrip: Doa keluar rumah.  |  didengar: 
+TOLAK  0.00  skrip: Doa keluar tandas.  |  didengar: 
+TOLAK  0.00  skrip: Doa masuk tandas.  |  didengar: 
+TOLAK  0.00  skrip: Doa sebelum belajar.  |  didengar: 
+TOLAK  0.00  skrip: Doa sebelum memulakan sesuatu, atau sebelum makan.  |  didengar: 
+TOLAK  0.00  skrip: Doa sebelum tidur.  |  didengar: 
+TOLAK  0.00  skrip: Doa selepas bersin.  |  didengar: 
+TOLAK  0.00  skrip: Doa selepas makan.  |  didengar: 
+TOLAK  0.00  skrip: Huruf Alif.  |  didengar: 
+TOLAK  0.00  skrip: Huruf Dal.  |  didengar: 
+TOLAK  0.00  skrip: Huruf Kaf.  |  didengar: 
+TOLAK  0.00  skrip: Huruf Sod.  |  didengar: 
+TOLAK  0.00  skrip: Huruf Zho.  |  didengar: 
+TOLAK  0.00  skrip: Jelir lidah.  |  didengar: 
+TOLAK  0.00  skrip: Maksudnya, Aku memohon keampunan-Mu.  |  didengar: 
+TOLAK  0.00  skrip: Maksudnya, Dengan nama Allah, aku bertawakal kepada Allah; tiada daya dan kekuatan melainkan dengan Allah.  |  didengar: 
+TOLAK  0.00  skrip: Maksudnya, Dengan nama Allah.  |  didengar: 
+TOLAK  0.00  skrip: Maksudnya, Dengan nama-Mu ya Allah, aku mati dan aku hidup.  |  didengar: 
+TOLAK  0.00  skrip: Maksudnya, Segala puji bagi Allah yang menghidupkan kami setelah mematikan kami, dan kepada-Nya kami kembali.  |  didengar: 
+TOLAK  0.00  skrip: Maksudnya, Wahai Tuhanku, ampunkanlah aku dan kedua ibu bapaku.  |  didengar: 
+TOLAK  0.00  skrip: Maksudnya, Wahai Tuhanku, tambahkanlah ilmuku.  |  didengar: 
+TOLAK  0.00  skrip: Maksudnya, Ya Allah, aku berlindung kepada-Mu daripada syaitan lelaki dan perempuan.  |  didengar: 
