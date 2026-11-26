@@ -232,14 +232,15 @@ def main():
             j = j0
     # titik potong akhir
     db = load_db(audio)
-    good = [r for r in res if r['ok']]
+    good = sorted([r for r in res if r['ok']], key=lambda r: r['a'])  # jiran ikut masa dalam audio
     for q, r in enumerate(good):
         lo = good[q - 1]['b'] + 0.02 if q else 0
         hi = good[q + 1]['a'] - 0.02 if q + 1 < len(good) else len(db) / 100
         # jika ada perkataan Whisper (tidak dipadankan) di antara, jangan melepasinya
         a, b = snap(db, r['a'], r['b'], lo, hi)
         r['cut'] = [max(lo, a - 0.05), min(hi, b + 0.08)]
-    nok = len(good)
+        if r['cut'][1] - r['cut'][0] < 0.15: r['ok'] = False; r['why'] = 'bertindih'  # tidak sah: jangan potong
+    nok = sum(1 for r in res if r['ok'])
     nfill = sum(1 for r in res if r.get('filled'))
     rep = [f'{nok}/{len(lines)} ayat diletakkan ({nok - nfill} sepadan terus, {nfill} diisi antara jiran); {len(lines) - nok} tiada dalam audio\n']
     for r in res:
