@@ -134,6 +134,7 @@ function session({ title, charId, color, rounds, onComplete, exitTo, tag }) {
       const talk = praiseGate();
       if (!talk) { later2(() => sfx.yay(), 260); if (getStreak() >= 3) later2(() => sfx.streak(getStreak()), 620); }
       const line = talk ? (e ? `${e}! ${praise}` : praise) : e ? `${e}!` : '';
+      if (talk && settings().voiceEngine !== 'peranti' && !hasClip(line)) later2(() => sfx.yay(), 260); // pujian belum dirakam
       const spoken = line ? speak(line, { mood: 'pujian' }) : Promise.resolve();
       confetti(12, ['⭐', '✨', '🌟']);
       save();

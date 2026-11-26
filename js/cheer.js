@@ -5,7 +5,7 @@
 //  Ayat diambil daripada senarai yang sudah dirakam (PRAISE / ENCOURAGE / TALK).
 // =====================================================================
 import { h } from './ui.js';
-import { speak } from './audio.js';
+import { speak, hasClip } from './audio.js';
 import { settings } from './store.js';
 import { PRAISE, ENCOURAGE, ISLAMIC_PRAISE, ISLAMIC_ENCOURAGE } from './data/content.js';
 import { TALK } from './talk.js';
@@ -47,7 +47,9 @@ export function cheer(kind = 'good', { perfect = false } = {}) {
     return speak(`${islamic() ? 'Alhamdulillah! ' : ''}${msg}`, { mood: 'pujian' });
   }
   if (!praiseGate()) { sfx.yay(); if (streak >= 3) setTimeout(() => sfx.streak(streak), 320); return Promise.resolve(); }
-  return speak(praiseText(), { mood: 'pujian' });
+  const t = praiseText();
+  if (settings().voiceEngine !== 'peranti' && !hasClip(t)) sfx.yay(); // pujian belum dirakam: bunyi 'yeay'
+  return speak(t, { mood: 'pujian' });
 }
 
 // Reben bersayap dengan bintang besar (gaya sambutan BIJAKU)

@@ -135,6 +135,16 @@ const usePack = () => pack && prefs().voiceEngine !== 'peranti';
 // Lalai: hanya rakaman VO dimainkan; ayat yang belum dirakam senyap (tiada suara peranti).
 // Ibu bapa boleh pilih 'peranti' di Tetapan untuk suara telefon.
 const recOnly = () => prefs().voiceEngine !== 'peranti';
+// Ayat tanpa rakaman: senyap, tetapi tunggu tempoh bacaan supaya cerita/pujian/peralihan
+// tidak meluru (anak & ibu bapa sempat membaca teks di skrin). ~75 ms setiap aksara.
+async function readPause(text, id) {
+  const ms = Math.max(1200, String(text).length * 75) * (globalThis.__dcTimeScale || 1);
+  const end = Date.now() + ms;
+  while (Date.now() < end) {
+    if (id !== speakSeq) return; // diganggu oleh ucapan baharu
+    await new Promise((res) => setTimeout(res, Math.min(100, end - Date.now())));
+  }
+}
 // semua ayat dalam teks ini ada rakaman?
 export function hasClip(text) {
   if (!pack) return false;
@@ -230,7 +240,7 @@ export function speak(text, { lang, rate, interrupt = true, mood = 'arahan' } = 
         const ok = await playClip(file, { rate: vp.base / 0.88, id });
         if (ok !== false) return;
       }
-      if (recOnly()) return; // tiada rakaman: senyap
+      if (recOnly()) { await readPause(part, id); return; } // tiada rakaman: senyap + masa membaca
       if (typeof speechSynthesis !== 'undefined') await sayOne(lang === 'en' ? part : letterize(part), { lang, rate: r, pitch: vp.pitch, id });
     }), Promise.resolve()).catch(() => {});
   } catch { return Promise.resolve(); }
