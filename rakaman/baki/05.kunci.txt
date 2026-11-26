@@ -1,86 +1,79 @@
-Cari gambar yang bermula dengan huruf O!
-Cari nombor tiga!
-Kutip dua huruf I!
-Litar Kampung, level tiga puluh dua.
-Jom eja rusa.
-Litar Kampung, level tiga puluh tiga.
-Jom eja kuda.
-Cari gambar yang bermula dengan huruf A!
-Litar Kampung, level tiga puluh empat.
-Litar Kampung, level tiga puluh lima.
-Litar Kampung, level tiga puluh enam.
-Cari huruf G!
-Tangan bermula dengan huruf apa?
-Litar Kampung, level tiga puluh tujuh.
-Cari gambar yang bermula dengan huruf Y!
-Litar Kampung, level tiga puluh lapan.
-Cari nombor lapan!
-Pilih laluan warna hijau!
-Litar Kampung, level tiga puluh sembilan.
-Cari nombor empat!
-Berapa ikan?
-Litar Kampung, level empat puluh.
-Kutip tiga bunga!
-Jom eja oren.
-Litar Kampung, level empat puluh satu.
-Jom eja daun.
-Litar Kampung, level empat puluh dua.
-Litar Kampung, level empat puluh tiga.
-Jom eja lori.
-Litar Kampung, level empat puluh empat.
-Zirafah bermula dengan huruf apa?
-Kutip tiga pensel!
-Litar Kampung, level empat puluh lima.
-Cari huruf Z!
-Litar Kampung, level empat puluh enam.
-Pilih laluan warna ungu!
-Cari huruf Y!
-Nanas bermula dengan huruf apa?
-Litar Kampung, level empat puluh tujuh.
-Jom eja bulan.
-Litar Kampung, level empat puluh lapan.
-Jom eja elang.
-Kutip dua huruf L!
-Gitar bermula dengan huruf apa?
-Litar Kampung, level empat puluh sembilan.
-Berapa oren?
-Litar Kampung, level lima puluh.
-Jom eja topi.
-Kutip lima belon!
-Lembah Buah.
-Tembikai, pisang, strawberi dan sungai jus.
-Selesaikan sepuluh level di Litar Kampung dahulu, ya.
-Lembah Buah, level satu.
-Cari epal!
-Lembah Buah, level dua.
-Pilih laluan warna merah jambu!
-Lembah Buah, level tiga.
-Kutip dua belon!
-Lembah Buah, level empat.
-Pilih yang paling kecil!
-Lembah Buah, level lima.
-Cari kenderaan!
-Lembah Buah, level enam.
-dua tambah tiga, jadi berapa?
-Lembah Buah, level tujuh.
-Cari benda berwarna kuning!
-Lembah Buah, level lapan.
-Cari ceri!
-Lembah Buah, level sembilan.
-Lembah Buah, level sepuluh.
-Kutip dua ikan!
-Lembah Buah, level sebelas.
-Cari sayur!
-Lembah Buah, level dua belas.
-Kutip empat strawberi!
-Lembah Buah, level tiga belas.
-tiga tambah tiga, jadi berapa?
-Kutip dua epal!
-Lembah Buah, level empat belas.
-Cari benda berwarna coklat!
-Lembah Buah, level lima belas.
-Cari buah!
-Cari nanas!
-Lembah Buah, level enam belas.
-Lembah Buah, level tujuh belas.
-Lembah Buah, level lapan belas.
+Platform, duri, spring dan blok retak.
+Jom bina!
+Pilih blok.
+Kemudian tekan pulau.
+Ikut gambar pelan, ya.
+Bina Huruf L seperti pelan!
+Bina Pagar Kayu!
+Ada dua tingkat.
+Tekan anak panah untuk naik tingkat.
+Bina Bunga Merah!
+Ada tiga tingkat.
+Bina Menara Batu!
+Ada empat tingkat.
+Bina Meja!
+Bina Kerusi!
+Bina Pokok!
+Bina Kereta!
+Bina Roket!
+Sekarang tiada pelan tingkat.
+Lihat model 3D yang berputar, kemudian bina sama sepertinya!
+Lihat model 3D, kemudian bina Piramid!
+Lihat model 3D, kemudian bina Lampu Isyarat!
+Lihat model 3D, kemudian bina Jambatan!
+Lihat model 3D, kemudian bina Kek Hari Jadi!
+Lihat model 3D, kemudian bina Robot!
+Lihat model 3D, kemudian bina Surau Kecil!
+Lihat model 3D, kemudian bina Kapal!
+Lihat model 3D, kemudian bina Menara Jam!
+Lihat model 3D, kemudian bina Rumah Dua Tingkat!
+Cabaran Arkitek!
+Binaan lebih besar.
+Putar paparan dan teliti setiap tingkat.
+Cabaran Arkitek: bina Istana Kecil!
+Cabaran Arkitek: bina Kereta Api!
+Cabaran Arkitek: bina Pokok Besar!
+Cabaran Arkitek: bina Roket Besar!
+Cabaran Arkitek: bina Piramid Tangga!
+Cabaran Arkitek: bina Robot Besar!
+Cabaran Arkitek: bina Taman Bunga!
+Cabaran Arkitek: bina Kapal Layar Besar!
+Cabaran Arkitek: bina Istana Mawar!
+Jom jadi Pemburu Warna!
+Tekan Buka kamera.
+Tekan gambar yang berwarna merah.
+Tekan gambar yang berwarna kuning.
+Tekan gambar yang berwarna hijau.
+Tekan gambar yang berwarna biru.
+Tekan gambar yang berwarna coklat.
+Tekan gambar yang berwarna ungu.
+Tekan gambar yang berwarna merah jambu.
+Tekan gambar yang berwarna oren.
+Tekan gambar yang berwarna putih.
+Tekan gambar yang berwarna hitam.
+Pegang telefon dengan selesa, seperti sedang membaca.
+Tok, tok, tok!
+Datuk datang ke rumah.
+Mimi nampak Datuk di pintu.
+Apa yang Mimi patut buat?
+Nasi sudah terhidang.
+Bobo lapar.
+Bobo mahu mula makan.
+Bagaimana Bobo patut makan?
+Coco ada dua keping biskut.
+Dino tidak ada bekal hari ini.
+Apa yang Coco patut buat?
+Lala habis minum air kotak.
+Kotak kosong ada di tangan Lala.
+Di mana Lala patut buang kotak itu?
+Dino sudah siap basuh tangan.
+Tetapi air paip masih mengalir.
+Apa yang Dino patut buat?
+Bobo membina menara blok yang tinggi.
+Alamak!
+Lala terlanggar menara itu.
+Apa yang Lala patut buat?
+Ibu membawa banyak pinggan.
+Pinggan itu berat.
+Bola Bobo terkena pasu bunga.
+Pasu itu pecah.

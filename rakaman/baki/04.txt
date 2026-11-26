@@ -1,271 +1,190 @@
-[warmly] Warnakan buah epal dengan warna merah.
+[warmly] Mula dengan membaca Bismillah.
 
 
-Warnakan hidung dengan warna merah jambu.
+Basuh kedua-dua tapak tangan, tiga kali.
 
 
-Yang mana satu bukan tumbuhan?
+Berkumur-kumur, tiga kali.
 
 
-Gunung.
+Masukkan sedikit air ke hidung, kemudian hembus.
 
 
-Mahkota.
+Tiga kali.
 
 
-Main lagi.
+Basuh muka tiga kali, sambil berniat di dalam hati: Sahaja aku mengangkat hadas kecil kerana Allah Taala.
 
 
-Makan kentang goreng.
+Basuh tangan kanan hingga ke siku, tiga kali.
 
 
-Nombor empat.
+Sekarang tangan kiri pula, hingga ke siku.
 
 
-Nombor tujuh.
+Sapu sebahagian kepala dengan tangan yang basah.
 
 
-Udang kecil.
+Sapu kedua-dua telinga.
 
 
-Yoyo.
+Basuh kaki kanan hingga ke buku lali, tiga kali.
 
 
-Litar Kampung.
+Akhir sekali, kaki kiri hingga ke buku lali.
 
 
-Rumah kampung, sawah dan pokok kelapa.
+Wuduk sudah selesai.
 
 
-Level juara!
+Jom baca doa selepas wuduk.
 
 
-Sedia?
+Tertib ialah salah satu rukun wuduk.
 
 
-Litar Kampung, level satu.
+Susun tiga langkah ini ikut urutan yang betul!
 
 
-Cari huruf i!
+Baca Bismillah.
 
 
-Litar Kampung, level dua.
+Basuh tapak tangan.
 
 
-Cari gambar yang bermula dengan huruf Heish!
+Satu lagi!
 
 
-Litar Kampung, level tiga.
+Susun ikut tertib.
 
 
-Cari nombor dua!
+Sapu telinga.
 
 
-Litar Kampung, level empat.
+Basuh kaki kanan hingga buku lali.
 
 
-Kutip satu oren!
+Sapu sebahagian kepala.
 
 
-Elak halangan di hadapan!
+Susun empat langkah ini ikut urutan yang betul!
 
 
-Litar Kampung, level lima.
+Basuh tangan kiri hingga siku.
 
 
-Pilih laluan warna biru!
+Basuh muka dan berniat.
 
 
-Kutip dua bintang!
+Basuh tangan kanan hingga siku.
 
 
-Litar Kampung, level enam.
+Basuh kaki kiri hingga buku lali.
 
 
-Jom eja ubi.
+Susun lima langkah ini ikut urutan yang betul!
 
 
-Tekan huruf mengikut urutan.
+Masukkan air ke hidung.
 
 
-Litar Kampung, level tujuh.
+Berkumur.
 
 
-Litar Kampung, level lapan.
+Susun enam langkah ini ikut urutan yang betul!
 
 
-Litar Kampung, level sembilan.
+Susun tujuh langkah ini ikut urutan yang betul!
 
 
-Cari gambar yang bermula dengan huruf en!
+Selepas baca bismillah, apa langkah seterusnya?
 
 
-Litar Kampung, level sepuluh.
+Selepas basuh tapak tangan, apa langkah seterusnya?
 
 
-Cari nombor lima!
+Selepas basuh tangan kanan hingga siku, apa langkah seterusnya?
 
 
-Litar Kampung, level sebelas.
+Selepas basuh tangan kiri hingga siku, apa langkah seterusnya?
 
 
-Pilih laluan warna merah!
+Selepas sapu sebahagian kepala, apa langkah seterusnya?
 
 
-Kutip tiga belon!
+Selepas basuh muka dan berniat, apa langkah seterusnya?
 
 
-Litar Kampung, level dua belas.
+Selepas basuh kaki kiri hingga buku lali, apa langkah seterusnya?
 
 
-Kutip tiga telur!
+Selepas sapu telinga, apa langkah seterusnya?
 
 
-Pilih laluan warna coklat!
+Antara tiga ini, yang mana wajib dalam wuduk?
 
 
-Litar Kampung, level tiga belas.
+Bantu robot ambil bintang!
 
 
-Feri bermula dengan huruf apa?
+Tekan anak panah.
 
 
-Jom eja api.
+Kemudian tekan Jalan.
 
 
-Kutip tiga bintang!
+Bawa robot ke bintang.
 
 
-Litar Kampung, level empat belas.
+Susun anak panah, kemudian tekan Jalan!
 
 
-Berapa kereta?
+Ada halangan di papan.
 
 
-Kira dan pilih nombornya.
+Susun anak panah supaya robot sampai ke bintang tanpa terlanggar!
 
 
-Litar Kampung, level lima belas.
+Kutip semua bateri dahulu, kemudian bawa robot ke bintang.
 
 
-Cari huruf kei!
+Tekan anak panah untuk melompat!
 
 
-Cari nombor enam!
+Bawa watak kamu ke trofi.
 
 
-Litar Kampung, level enam belas.
+Jangan jatuh ke dalam air!
 
 
-Kutip tiga pisang!
+Lompat ke trofi!
 
 
-Cari gambar yang bermula dengan huruf em!
+Kutip permata biru kalau boleh.
 
 
-Litar Kampung, level tujuh belas.
+Blok retak akan runtuh.
 
 
-Cari nombor satu!
+Jangan berhenti di atasnya, terus lompat!
 
 
-Kutip dua huruf ef!
+Pulau Lava!
 
 
-Litar Kampung, level lapan belas.
+Tunggu platform kayu datang dekat, lompat naik, kemudian lompat turun di blok seterusnya.
 
 
-Zebra bermula dengan huruf apa?
+Hati-hati dengan duri dan lava!
 
 
-Kutip tiga kura-kura!
+Tunggu masa yang sesuai, baru lompat.
 
 
-Litar Kampung, level sembilan belas.
+Pulau Awan!
 
 
-Pilih laluan warna oren!
+Pijak spring merah untuk melompat jauh ke hadapan.
 
 
-Cari huruf si!
-
-
-Litar Kampung, level dua puluh.
-
-
-Jom eja jam.
-
-
-Litar Kampung, level dua puluh satu.
-
-
-Pilih laluan warna kuning!
-
-
-Litar Kampung, level dua puluh dua.
-
-
-Cari huruf vi!
-
-
-Berapa telur?
-
-
-Litar Kampung, level dua puluh tiga.
-
-
-Gigi bermula dengan huruf apa?
-
-
-Kutip empat bintang!
-
-
-Litar Kampung, level dua puluh empat.
-
-
-Berapa rama-rama?
-
-
-Litar Kampung, level dua puluh lima.
-
-
-Berapa bola?
-
-
-Litar Kampung, level dua puluh enam.
-
-
-Jom eja feri.
-
-
-Litar Kampung, level dua puluh tujuh.
-
-
-Cari gambar yang bermula dengan huruf ar!
-
-
-Jom eja dram.
-
-
-Litar Kampung, level dua puluh lapan.
-
-
-Litar Kampung, level dua puluh sembilan.
-
-
-Berapa bunga?
-
-
-Cari huruf ti!
-
-
-Litar Kampung, level tiga puluh.
-
-
-Wang bermula dengan huruf apa?
-
-
-Jom eja wau.
-
-
-Litar Kampung, level tiga puluh satu.
+Cabaran terakhir!

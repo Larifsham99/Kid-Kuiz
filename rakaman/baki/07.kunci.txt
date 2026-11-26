@@ -1,82 +1,71 @@
-Siapa yang tinggal di darat dan tidak boleh terbang?
-Hutan Haiwan, level sembilan.
-Hutan Haiwan, level sepuluh.
-Itik suka makan apa?
-Hutan Haiwan, level sebelas.
-Cari gajah!
-Hutan Haiwan, level dua belas.
-Kutip tiga kek cawan!
-Hutan Haiwan, level tiga belas.
-Siapa yang tinggal di dalam air?
-Hutan Haiwan, level empat belas.
-Hutan Haiwan, level lima belas.
-Hutan Haiwan, level enam belas.
-Zebra suka makan apa?
-Cari kuda!
-Hutan Haiwan, level tujuh belas.
-Ini anak itik.
-Cari rama-rama!
-Hutan Haiwan, level lapan belas.
-Cari kambing!
-Hutan Haiwan, level sembilan belas.
-Cari unta!
-Hutan Haiwan, level dua puluh.
-Cari katak!
-Hutan Haiwan, level dua puluh satu.
-Hutan Haiwan, level dua puluh dua.
-Ikan paus suka makan apa?
-Cari sotong!
-Hutan Haiwan, level dua puluh tiga.
-Hutan Haiwan, level dua puluh empat.
-Anjing suka makan apa?
-Berapa anak ayam?
-Cari harimau!
-Hutan Haiwan, level dua puluh lima.
-Kutip dua bola!
-Cari monyet!
-Hutan Haiwan, level dua puluh enam.
-Cari ikan!
-Kutip dua anak ayam!
-Hutan Haiwan, level dua puluh tujuh.
-Hutan Haiwan, level dua puluh lapan.
-Kutip lima oren!
-Tikus suka makan apa?
-Hutan Haiwan, level dua puluh sembilan.
-Panda suka makan apa?
-Hutan Haiwan, level tiga puluh.
-Burung suka makan apa?
-Berapa bintang?
-Hutan Haiwan, level tiga puluh satu.
-Kutip lima bunga!
-Hutan Haiwan, level tiga puluh dua.
-Hutan Haiwan, level tiga puluh tiga.
-Cari lebah!
-Hutan Haiwan, level tiga puluh empat.
-Ayam suka makan apa?
-Hutan Haiwan, level tiga puluh lima.
-Zirafah suka makan apa?
-Hutan Haiwan, level tiga puluh enam.
-Kutip empat pensel!
-Hutan Haiwan, level tiga puluh tujuh.
-Katak suka makan apa?
-Hutan Haiwan, level tiga puluh lapan.
-Kutip lima kumbang!
-Hutan Haiwan, level tiga puluh sembilan.
-Hutan Haiwan, level empat puluh.
-Ikan suka makan apa?
-Hutan Haiwan, level empat puluh satu.
-Hutan Haiwan, level empat puluh dua.
-Hutan Haiwan, level empat puluh tiga.
-Hutan Haiwan, level empat puluh empat.
-Ikan lumba-lumba suka makan apa?
-Hutan Haiwan, level empat puluh lima.
-Hutan Haiwan, level empat puluh enam.
-Cari itik!
-Kutip dua kereta!
-Hutan Haiwan, level empat puluh tujuh.
-Hutan Haiwan, level empat puluh lapan.
-Hutan Haiwan, level empat puluh sembilan.
-Hutan Haiwan, level lima puluh.
-Udang suka makan apa?
-Bandar Warna.
-Bangunan mainan, lampu isyarat dan jalan pelangi.
+tiga belas ringgit.
+sebelas ringgit.
+lima belas ringgit.
+enam belas ringgit.
+empat belas ringgit.
+Biru campur kuning, jadi hijau!
+Merah campur kuning, jadi oren!
+Merah campur biru, jadi ungu!
+Merah campur putih, jadi merah jambu!
+Kayu timbul di atas air!
+Kunci tenggelam ke dasar!
+Bola plastik timbul di atas air!
+Sepana tenggelam ke dasar!
+Daun timbul di atas air!
+Kelapa timbul di atas air!
+Batu tenggelam ke dasar!
+Itik getah timbul di atas air!
+Telur tenggelam ke dasar!
+Botol plastik kosong timbul di atas air!
+Gunting tenggelam ke dasar!
+Pensel timbul di atas air!
+Tepat!
+Daun dan itik getah timbul!
+Bulu burung dan epal timbul!
+Span dan bulu burung timbul!
+Kelapa timbul!
+Epal timbul!
+Epal tidak melekat pada magnet.
+Peniti diperbuat daripada besi, jadi ia melekat pada magnet!
+Kertas tidak melekat pada magnet.
+Gunting diperbuat daripada besi, jadi ia melekat pada magnet!
+Itik getah tidak melekat pada magnet.
+Gelas tidak melekat pada magnet.
+Paku diperbuat daripada besi, jadi ia melekat pada magnet!
+Klip kertas diperbuat daripada besi, jadi ia melekat pada magnet!
+Kayu tidak melekat pada magnet.
+Bola plastik tidak melekat pada magnet.
+Skru diperbuat daripada besi, jadi ia melekat pada magnet!
+Pemadam tidak melekat pada magnet.
+Sepana melekat pada magnet!
+Paku melekat pada magnet!
+Peniti dan klip kertas melekat pada magnet!
+Sepana dan skru melekat pada magnet!
+Klip kertas melekat pada magnet!
+Alhamdulillah, wuduk kamu sudah sempurna!
+Tertib!
+Semua langkah tersusun dengan betul.
+Selepas itu, basuh tapak tangan.
+Selepas itu, berkumur.
+Selepas itu, basuh tangan kiri hingga siku.
+Selepas itu, sapu sebahagian kepala.
+Selepas itu, sapu telinga.
+Selepas itu, basuh tangan kanan hingga siku.
+Selepas itu, baca doa selepas wuduk.
+Selepas itu, basuh kaki kanan hingga buku lali.
+Basuh kaki kiri hingga buku lali ialah rukun wuduk.
+Basuh tangan kanan hingga siku ialah rukun wuduk.
+Basuh kaki kanan hingga buku lali ialah rukun wuduk.
+Sapu sebahagian kepala ialah rukun wuduk.
+Basuh tangan kiri hingga siku ialah rukun wuduk.
+Basuh muka dan berniat ialah rukun wuduk.
+Checkpoint!
+Kalau jatuh, kamu mula semula di sini.
+Kamu sampai ke trofi!
+Wah!
+Jalan Batu kamu sama seperti pelan.
+Arkitek hebat!
+Huruf L kamu sama seperti pelan.
+Pagar Kayu kamu sama seperti pelan.
+Bunga Merah kamu sama seperti pelan.
+Menara Batu kamu sama seperti pelan.

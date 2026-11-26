@@ -1,64 +1,59 @@
-Selepas itu, apa pula?
-Taman Dinosor, level tiga.
-Taman Dinosor, level empat.
-Ingat urutan ini: bunga, kek cawan, bola.
-Taman Dinosor, level lima.
-Taman Dinosor, level enam.
-Semua ini buah-buahan, kecuali satu.
-Cari yang lain!
-Taman Dinosor, level tujuh.
-Taman Dinosor, level lapan.
-Taman Dinosor, level sembilan.
-Taman Dinosor, level sepuluh.
-Ingat urutan ini: bintang, kek cawan, bola.
-Taman Dinosor, level sebelas.
-Taman Dinosor, level dua belas.
-Semua ini haiwan, kecuali satu.
-Taman Dinosor, level tiga belas.
-Ingat urutan ini: bunga, anak ayam, kumbang.
-Taman Dinosor, level empat belas.
-Ingat urutan ini: pensel, telur, belon.
-Taman Dinosor, level lima belas.
-Taman Dinosor, level enam belas.
-Ingat urutan ini: kura-kura, pensel, bunga.
-Taman Dinosor, level tujuh belas.
-Taman Dinosor, level lapan belas.
-Taman Dinosor, level sembilan belas.
-Ingat urutan ini: anak ayam, ikan, pensel.
-Taman Dinosor, level dua puluh.
-Taman Dinosor, level dua puluh satu.
-Semua ini sayur-sayuran, kecuali satu.
-Taman Dinosor, level dua puluh dua.
-Ingat urutan ini: strawberi, pensel, telur.
-Taman Dinosor, level dua puluh tiga.
-Semua ini kenderaan, kecuali satu.
-Taman Dinosor, level dua puluh empat.
-Ingat urutan ini: kura-kura, pisang, ikan.
-Taman Dinosor, level dua puluh lima.
-Taman Dinosor, level dua puluh enam.
-Taman Dinosor, level dua puluh tujuh.
-Taman Dinosor, level dua puluh lapan.
-Ingat urutan ini: anak ayam, kumbang, bintang.
-Taman Dinosor, level dua puluh sembilan.
-Taman Dinosor, level tiga puluh.
-Taman Dinosor, level tiga puluh satu.
-Ingat urutan ini: bunga, bola, pisang.
-Taman Dinosor, level tiga puluh dua.
-Taman Dinosor, level tiga puluh tiga.
-Ingat urutan ini: belon, kumbang, pisang.
-Taman Dinosor, level tiga puluh empat.
-Ingat urutan ini: strawberi, kereta, epal.
-Taman Dinosor, level tiga puluh lima.
-Ingat urutan ini: kumbang, epal, rama-rama.
-Taman Dinosor, level tiga puluh enam.
-Ingat urutan ini: kek cawan, kura-kura, bunga.
-Taman Dinosor, level tiga puluh tujuh.
-Taman Dinosor, level tiga puluh lapan.
-Ingat urutan ini: bunga, kumbang, bola.
-Taman Dinosor, level tiga puluh sembilan.
-Taman Dinosor, level empat puluh.
-Ingat urutan ini: oren, strawberi, belon.
-Taman Dinosor, level empat puluh satu.
-Ingat urutan ini: kek cawan, bunga, strawberi, ikan.
-Taman Dinosor, level empat puluh dua.
-Ingat urutan ini: kereta, bola, pisang, kumbang.
+Nenek gembira dikunjungi cucu.
+Kita menziarahi saudara yang sakit.
+Adik berhenti menangis dan tersenyum.
+Kita sayang dan menjaga adik.
+Pokok segar semula.
+Bunga pun mekar!
+Kita menjaga tumbuhan ciptaan Allah.
+Mereka jadi kawan baik!
+Jangan mengejek.
+Semua orang boleh jadi kawan.
+Pakcik membalas senyuman.
+Senyum itu sedekah.
+Senyuman kepada orang lain ialah satu kebaikan.
+Kamu amanah!
+Kita pulangkan barang milik orang lain.
+Bobo solat bersama ayah.
+Apabila azan, kita bersiap untuk solat.
+Tiada makanan dibazirkan.
+Ambil makanan secukupnya.
+Jangan membazir.
+Ayah gembira mendengar jawapan yang sopan.
+Kita bercakap dengan sopan kepada ibu bapa.
+Main bersama lebih seronok!
+Berkongsi mainan dengan kawan.
+Sedekah membantu orang lain.
+Bersedekah membantu orang yang memerlukan.
+Tangan bersih, badan sihat!
+Kebersihan sebahagian daripada iman.
+Basuh tangan sebelum makan.
+Dino turun dan memberi giliran kepada Lala.
+Bersabar menunggu giliran.
+Rekod baharu!
+Maksudnya: Dengan nama Allah, aku bertawakal kepada Allah; tiada daya dan kekuatan melainkan dengan Allah.
+Maksudnya: Segala puji bagi Allah yang menghidupkan kami setelah mematikan kami, dan kepada-Nya kami kembali.
+Maksudnya: Wahai Tuhanku, ampunkanlah aku dan kedua ibu bapaku.
+Maksudnya: Segala puji bagi Allah.
+Maksudnya: Ya Allah, aku berlindung kepada-Mu daripada syaitan lelaki dan perempuan.
+Sijil pencapaian A, B, C Ceria untuk Abang.
+Sijil pencapaian Dunia Nombor untuk Abang.
+Sijil pencapaian Warna dan Bentuk untuk Abang.
+Sijil pencapaian Teka Bunyi untuk Abang.
+Sijil pencapaian Pazel Pintar untuk Abang.
+Sijil pencapaian Ingatan Hebat untuk Abang.
+Sijil pencapaian Seni dan Mewarna untuk Abang.
+Sijil pencapaian Cari Bayang untuk Abang.
+Sijil pencapaian Maze Pengembaraan untuk Abang.
+Sijil pencapaian Kehidupan Harian untuk Abang.
+Sijil pencapaian Bijak Mengelaskan untuk Abang.
+Sijil pencapaian Si Cilik Soleh untuk Abang.
+Sijil pencapaian Dunia Haiwan untuk Abang.
+Sijil pencapaian Asah Minda untuk Abang.
+Sijil pencapaian Misi Pengembaraan untuk Abang.
+Sijil pencapaian A, B, C Ceria untuk Adik.
+Sijil pencapaian Dunia Nombor untuk Adik.
+Sijil pencapaian Warna dan Bentuk untuk Adik.
+Sijil pencapaian Teka Bunyi untuk Adik.
+Sijil pencapaian Pazel Pintar untuk Adik.
+Sijil pencapaian Ingatan Hebat untuk Adik.
+Sijil pencapaian Seni dan Mewarna untuk Adik.

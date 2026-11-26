@@ -1,91 +1,64 @@
-Warnakan buah epal dengan warna merah.
-Warnakan hidung dengan warna merah jambu.
-Yang mana satu bukan tumbuhan?
-Gunung
-Mahkota
-Main lagi
-Makan kentang goreng
-Nombor empat
-Nombor tujuh
-Udang kecil
-Yoyo
-Litar Kampung.
-Rumah kampung, sawah dan pokok kelapa.
-Level juara!
-Sedia?
-Litar Kampung, level satu.
-Cari huruf E!
-Litar Kampung, level dua.
-Cari gambar yang bermula dengan huruf H!
-Litar Kampung, level tiga.
-Cari nombor dua!
-Litar Kampung, level empat.
-Kutip satu oren!
-Elak halangan di hadapan!
-Litar Kampung, level lima.
-Pilih laluan warna biru!
-Kutip dua bintang!
-Litar Kampung, level enam.
-Jom eja ubi.
-Tekan huruf mengikut urutan.
-Litar Kampung, level tujuh.
-Litar Kampung, level lapan.
-Litar Kampung, level sembilan.
-Cari gambar yang bermula dengan huruf N!
-Litar Kampung, level sepuluh.
-Cari nombor lima!
-Litar Kampung, level sebelas.
-Pilih laluan warna merah!
-Kutip tiga belon!
-Litar Kampung, level dua belas.
-Kutip tiga telur!
-Pilih laluan warna coklat!
-Litar Kampung, level tiga belas.
-Feri bermula dengan huruf apa?
-Jom eja api.
-Kutip tiga bintang!
-Litar Kampung, level empat belas.
-Berapa kereta?
-Kira dan pilih nombornya.
-Litar Kampung, level lima belas.
-Cari huruf K!
-Cari nombor enam!
-Litar Kampung, level enam belas.
-Kutip tiga pisang!
-Cari gambar yang bermula dengan huruf M!
-Litar Kampung, level tujuh belas.
-Cari nombor satu!
-Kutip dua huruf F!
-Litar Kampung, level lapan belas.
-Zebra bermula dengan huruf apa?
-Kutip tiga kura-kura!
-Litar Kampung, level sembilan belas.
-Pilih laluan warna oren!
-Cari huruf C!
-Litar Kampung, level dua puluh.
-Jom eja jam.
-Litar Kampung, level dua puluh satu.
-Pilih laluan warna kuning!
-Litar Kampung, level dua puluh dua.
-Cari huruf V!
-Berapa telur?
-Litar Kampung, level dua puluh tiga.
-Gigi bermula dengan huruf apa?
-Kutip empat bintang!
-Litar Kampung, level dua puluh empat.
-Berapa rama-rama?
-Litar Kampung, level dua puluh lima.
-Berapa bola?
-Litar Kampung, level dua puluh enam.
-Jom eja feri.
-Litar Kampung, level dua puluh tujuh.
-Cari gambar yang bermula dengan huruf R!
-Jom eja dram.
-Litar Kampung, level dua puluh lapan.
-Litar Kampung, level dua puluh sembilan.
-Berapa bunga?
-Cari huruf T!
-Litar Kampung, level tiga puluh.
-Wang bermula dengan huruf apa?
-Jom eja wau.
-Litar Kampung, level tiga puluh satu.
+Mula dengan membaca Bismillah.
+Basuh kedua-dua tapak tangan, tiga kali.
+Berkumur-kumur, tiga kali.
+Masukkan sedikit air ke hidung, kemudian hembus.
+Tiga kali.
+Basuh muka tiga kali, sambil berniat di dalam hati: Sahaja aku mengangkat hadas kecil kerana Allah Taala.
+Basuh tangan kanan hingga ke siku, tiga kali.
+Sekarang tangan kiri pula, hingga ke siku.
+Sapu sebahagian kepala dengan tangan yang basah.
+Sapu kedua-dua telinga.
+Basuh kaki kanan hingga ke buku lali, tiga kali.
+Akhir sekali, kaki kiri hingga ke buku lali.
+Wuduk sudah selesai.
+Jom baca doa selepas wuduk.
+Tertib ialah salah satu rukun wuduk.
+Susun tiga langkah ini ikut urutan yang betul!
+Baca Bismillah
+Basuh tapak tangan
+Satu lagi!
+Susun ikut tertib.
+Sapu telinga
+Basuh kaki kanan hingga buku lali
+Sapu sebahagian kepala
+Susun empat langkah ini ikut urutan yang betul!
+Basuh tangan kiri hingga siku
+Basuh muka dan berniat
+Basuh tangan kanan hingga siku
+Basuh kaki kiri hingga buku lali
+Susun lima langkah ini ikut urutan yang betul!
+Masukkan air ke hidung
+Berkumur
+Susun enam langkah ini ikut urutan yang betul!
+Susun tujuh langkah ini ikut urutan yang betul!
+Selepas baca bismillah, apa langkah seterusnya?
+Selepas basuh tapak tangan, apa langkah seterusnya?
+Selepas basuh tangan kanan hingga siku, apa langkah seterusnya?
+Selepas basuh tangan kiri hingga siku, apa langkah seterusnya?
+Selepas sapu sebahagian kepala, apa langkah seterusnya?
+Selepas basuh muka dan berniat, apa langkah seterusnya?
+Selepas basuh kaki kiri hingga buku lali, apa langkah seterusnya?
+Selepas sapu telinga, apa langkah seterusnya?
+Antara tiga ini, yang mana wajib dalam wuduk?
+Bantu robot ambil bintang!
+Tekan anak panah.
+Kemudian tekan Jalan.
+Bawa robot ke bintang.
+Susun anak panah, kemudian tekan Jalan!
+Ada halangan di papan.
+Susun anak panah supaya robot sampai ke bintang tanpa terlanggar!
+Kutip semua bateri dahulu, kemudian bawa robot ke bintang.
+Tekan anak panah untuk melompat!
+Bawa watak kamu ke trofi.
+Jangan jatuh ke dalam air!
+Lompat ke trofi!
+Kutip permata biru kalau boleh.
+Blok retak akan runtuh.
+Jangan berhenti di atasnya, terus lompat!
+Pulau Lava!
+Tunggu platform kayu datang dekat, lompat naik, kemudian lompat turun di blok seterusnya.
+Hati-hati dengan duri dan lava!
+Tunggu masa yang sesuai, baru lompat.
+Pulau Awan!
+Pijak spring merah untuk melompat jauh ke hadapan.
+Cabaran terakhir!
