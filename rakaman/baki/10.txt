@@ -1,157 +1,226 @@
-[cheerfully] Sijil pencapaian Cari Bayang untuk Adik.
+[warmly] Taman Dinosor, level empat puluh tiga.
 
 
-Sijil pencapaian Maze Pengembaraan untuk Adik.
+Taman Dinosor, level empat puluh empat.
 
 
-Sijil pencapaian Kehidupan Harian untuk Adik.
+Ingat urutan ini: kek cawan, kereta, oren, ikan.
 
 
-Sijil pencapaian Bijak Mengelaskan untuk Adik.
+Taman Dinosor, level empat puluh lima.
 
 
-Sijil pencapaian Si Cilik Soleh untuk Adik.
+Taman Dinosor, level empat puluh enam.
 
 
-Sijil pencapaian Dunia Haiwan untuk Adik.
+Ingat urutan ini: strawberi, rama-rama, telur, anak ayam.
 
 
-Sijil pencapaian Asah Minda untuk Adik.
+Taman Dinosor, level empat puluh tujuh.
 
 
-Sijil pencapaian Misi Pengembaraan untuk Adik.
+Taman Dinosor, level empat puluh lapan.
 
 
-Sijil pencapaian ei, bi, si Ceria untuk Kakak.
+Taman Dinosor, level empat puluh sembilan.
 
 
-Sijil pencapaian Dunia Nombor untuk Kakak.
+Ingat urutan ini: strawberi, anak ayam, epal, pensel.
 
 
-Sijil pencapaian Warna dan Bentuk untuk Kakak.
+Taman Dinosor, level lima puluh.
 
 
-Sijil pencapaian Teka Bunyi untuk Kakak.
+Ingat urutan ini: oren, anak ayam, pensel, ikan.
 
 
-Sijil pencapaian Pazel Pintar untuk Kakak.
+Pulau Ombak.
 
 
-Sijil pencapaian Ingatan Hebat untuk Kakak.
+Pantai, penyu, batu karang dan rumah api.
 
 
-Sijil pencapaian Seni dan Mewarna untuk Kakak.
+Selesaikan sepuluh level di Taman Dinosor dahulu, ya.
 
 
-Sijil pencapaian Cari Bayang untuk Kakak.
+Pulau Ombak, level satu.
 
 
-Sijil pencapaian Maze Pengembaraan untuk Kakak.
+Pulau Ombak, level dua.
 
 
-Sijil pencapaian Kehidupan Harian untuk Kakak.
+Pulau Ombak, level tiga.
 
 
-Sijil pencapaian Bijak Mengelaskan untuk Kakak.
+Kutip dua segi tiga!
 
 
-Sijil pencapaian Si Cilik Soleh untuk Kakak.
+Pulau Ombak, level empat.
 
 
-Sijil pencapaian Dunia Haiwan untuk Kakak.
+Kutip satu kereta!
 
 
-Sijil pencapaian Asah Minda untuk Kakak.
+Pulau Ombak, level lima.
 
 
-Sijil pencapaian Misi Pengembaraan untuk Kakak.
+Pulau Ombak, level enam.
 
 
-Sijil pencapaian ei, bi, si Ceria untuk Beybi.
+Kenderaan mana yang terbang di udara?
 
 
-Sijil pencapaian Dunia Nombor untuk Beybi.
+Pulau Ombak, level tujuh.
 
 
-Sijil pencapaian Warna dan Bentuk untuk Beybi.
+Pulau Ombak, level lapan.
 
 
-Sijil pencapaian Teka Bunyi untuk Beybi.
+Pulau Ombak, level sembilan.
 
 
-Sijil pencapaian Pazel Pintar untuk Beybi.
+Cari bentuk bulatan!
 
 
-Sijil pencapaian Ingatan Hebat untuk Beybi.
+Pulau Ombak, level sepuluh.
 
 
-Sijil pencapaian Seni dan Mewarna untuk Beybi.
+Pulau Ombak, level sebelas.
 
 
-Sijil pencapaian Cari Bayang untuk Beybi.
+Kenderaan mana yang bergerak di jalan raya?
 
 
-Sijil pencapaian Maze Pengembaraan untuk Beybi.
+Pulau Ombak, level dua belas.
 
 
-Sijil pencapaian Kehidupan Harian untuk Beybi.
+Kenderaan mana yang bergerak di air?
 
 
-Sijil pencapaian Bijak Mengelaskan untuk Beybi.
+Pulau Ombak, level tiga belas.
 
 
-Sijil pencapaian Si Cilik Soleh untuk Beybi.
+Kutip empat kumbang!
 
 
-Sijil pencapaian Dunia Haiwan untuk Beybi.
+Pulau Ombak, level empat belas.
 
 
-Sijil pencapaian Asah Minda untuk Beybi.
+Kutip dua rama-rama!
 
 
-Sijil pencapaian Misi Pengembaraan untuk Beybi.
+Pulau Ombak, level lima belas.
 
 
-Sijil pencapaian ei, bi, si Ceria untuk Manja.
+Kutip dua segi empat sama!
 
 
-Sijil pencapaian Dunia Nombor untuk Manja.
+Pulau Ombak, level enam belas.
 
 
-Sijil pencapaian Warna dan Bentuk untuk Manja.
+Kutip tiga pokok!
 
 
-Sijil pencapaian Teka Bunyi untuk Manja.
+Pulau Ombak, level tujuh belas.
 
 
-Sijil pencapaian Pazel Pintar untuk Manja.
+Kutip dua kura-kura!
 
 
-Sijil pencapaian Ingatan Hebat untuk Manja.
+Pulau Ombak, level lapan belas.
 
 
-Sijil pencapaian Seni dan Mewarna untuk Manja.
+Cari lembu!
 
 
-Sijil pencapaian Cari Bayang untuk Manja.
+Pulau Ombak, level sembilan belas.
 
 
-Sijil pencapaian Maze Pengembaraan untuk Manja.
+Pulau Ombak, level dua puluh.
 
 
-Sijil pencapaian Kehidupan Harian untuk Manja.
+Pulau Ombak, level dua puluh satu.
 
 
-Sijil pencapaian Bijak Mengelaskan untuk Manja.
+Kutip empat hati!
 
 
-Sijil pencapaian Si Cilik Soleh untuk Manja.
+Pulau Ombak, level dua puluh dua.
 
 
-Sijil pencapaian Dunia Haiwan untuk Manja.
+Pulau Ombak, level dua puluh tiga.
 
 
-Sijil pencapaian Asah Minda untuk Manja.
+Cari biri-biri!
 
 
-Sijil pencapaian Misi Pengembaraan untuk Manja.
+Pulau Ombak, level dua puluh empat.
+
+
+Cari zirafah!
+
+
+Pulau Ombak, level dua puluh lima.
+
+
+Pulau Ombak, level dua puluh enam.
+
+
+Cari burung hantu!
+
+
+Kutip empat bulatan!
+
+
+Pulau Ombak, level dua puluh tujuh.
+
+
+Pulau Ombak, level dua puluh lapan.
+
+
+Cari burung!
+
+
+Pulau Ombak, level dua puluh sembilan.
+
+
+Pulau Ombak, level tiga puluh.
+
+
+Pulau Ombak, level tiga puluh satu.
+
+
+Pulau Ombak, level tiga puluh dua.
+
+
+Cari tikus!
+
+
+Pulau Ombak, level tiga puluh tiga.
+
+
+Kutip tiga anak ayam!
+
+
+Pulau Ombak, level tiga puluh empat.
+
+
+Pulau Ombak, level tiga puluh lima.
+
+
+Kutip lima bintang!
+
+
+Cari beruang!
+
+
+Pulau Ombak, level tiga puluh enam.
+
+
+Pulau Ombak, level tiga puluh tujuh.
+
+
+Pulau Ombak, level tiga puluh lapan.
+
+
+Cari zebra!

@@ -1,211 +1,244 @@
-[cheerfully] Tiga belas ringgit.
+[warmly] Siapa yang tinggal di darat dan tidak boleh terbang?
 
 
-Sebelas ringgit.
+Hutan Haiwan, level sembilan.
 
 
-Lima belas ringgit.
+Hutan Haiwan, level sepuluh.
 
 
-Enam belas ringgit.
+Itik suka makan apa?
 
 
-Empat belas ringgit.
+Hutan Haiwan, level sebelas.
 
 
-Biru campur kuning, jadi hijau!
+Cari gajah!
 
 
-Merah campur kuning, jadi oren!
+Hutan Haiwan, level dua belas.
 
 
-Merah campur biru, jadi ungu!
+Kutip tiga kek cawan!
 
 
-Merah campur putih, jadi merah jambu!
+Hutan Haiwan, level tiga belas.
 
 
-Kayu timbul di atas air!
+Siapa yang tinggal di dalam air?
 
 
-Kunci tenggelam ke dasar!
+Hutan Haiwan, level empat belas.
 
 
-Bola plastik timbul di atas air!
+Hutan Haiwan, level lima belas.
 
 
-Sepana tenggelam ke dasar!
+Hutan Haiwan, level enam belas.
 
 
-Daun timbul di atas air!
+Zebra suka makan apa?
 
 
-Kelapa timbul di atas air!
+Cari kuda!
 
 
-Batu tenggelam ke dasar!
+Hutan Haiwan, level tujuh belas.
 
 
-Itik getah timbul di atas air!
+Ini anak itik.
 
 
-Telur tenggelam ke dasar!
+Cari rama-rama!
 
 
-Botol plastik kosong timbul di atas air!
+Hutan Haiwan, level lapan belas.
 
 
-Gunting tenggelam ke dasar!
+Cari kambing!
 
 
-Pensel timbul di atas air!
+Hutan Haiwan, level sembilan belas.
 
 
-Tepat!
+Cari unta!
 
 
-Daun dan itik getah timbul!
+Hutan Haiwan, level dua puluh.
 
 
-Bulu burung dan epal timbul!
+Cari katak!
 
 
-Span dan bulu burung timbul!
+Hutan Haiwan, level dua puluh satu.
 
 
-Kelapa timbul!
+Hutan Haiwan, level dua puluh dua.
 
 
-Epal timbul!
+Ikan paus suka makan apa?
 
 
-Epal tidak melekat pada magnet.
+Cari sotong!
 
 
-Peniti diperbuat daripada besi, jadi ia melekat pada magnet!
+Hutan Haiwan, level dua puluh tiga.
 
 
-Kertas tidak melekat pada magnet.
+Hutan Haiwan, level dua puluh empat.
 
 
-Gunting diperbuat daripada besi, jadi ia melekat pada magnet!
+Anjing suka makan apa?
 
 
-Itik getah tidak melekat pada magnet.
+Berapa anak ayam?
 
 
-Gelas tidak melekat pada magnet.
+Cari harimau!
 
 
-Paku diperbuat daripada besi, jadi ia melekat pada magnet!
+Hutan Haiwan, level dua puluh lima.
 
 
-Klip kertas diperbuat daripada besi, jadi ia melekat pada magnet!
+Kutip dua bola!
 
 
-Kayu tidak melekat pada magnet.
+Cari monyet!
 
 
-Bola plastik tidak melekat pada magnet.
+Hutan Haiwan, level dua puluh enam.
 
 
-Skru diperbuat daripada besi, jadi ia melekat pada magnet!
+Cari ikan!
 
 
-Pemadam tidak melekat pada magnet.
+Kutip dua anak ayam!
 
 
-Sepana melekat pada magnet!
+Hutan Haiwan, level dua puluh tujuh.
 
 
-Paku melekat pada magnet!
+Hutan Haiwan, level dua puluh lapan.
 
 
-Peniti dan klip kertas melekat pada magnet!
+Kutip lima oren!
 
 
-Sepana dan skru melekat pada magnet!
+Tikus suka makan apa?
 
 
-Klip kertas melekat pada magnet!
+Hutan Haiwan, level dua puluh sembilan.
 
 
-Alhamdulillah, wuduk kamu sudah sempurna!
+Panda suka makan apa?
 
 
-Tertib!
+Hutan Haiwan, level tiga puluh.
 
 
-Semua langkah tersusun dengan betul.
+Burung suka makan apa?
 
 
-Selepas itu, basuh tapak tangan.
+Berapa bintang?
 
 
-Selepas itu, berkumur.
+Hutan Haiwan, level tiga puluh satu.
 
 
-Selepas itu, basuh tangan kiri hingga siku.
+Kutip lima bunga!
 
 
-Selepas itu, sapu sebahagian kepala.
+Hutan Haiwan, level tiga puluh dua.
 
 
-Selepas itu, sapu telinga.
+Hutan Haiwan, level tiga puluh tiga.
 
 
-Selepas itu, basuh tangan kanan hingga siku.
+Cari lebah!
 
 
-Selepas itu, baca doa selepas wuduk.
+Hutan Haiwan, level tiga puluh empat.
 
 
-Selepas itu, basuh kaki kanan hingga buku lali.
+Ayam suka makan apa?
 
 
-Basuh kaki kiri hingga buku lali ialah rukun wuduk.
+Hutan Haiwan, level tiga puluh lima.
 
 
-Basuh tangan kanan hingga siku ialah rukun wuduk.
+Zirafah suka makan apa?
 
 
-Basuh kaki kanan hingga buku lali ialah rukun wuduk.
+Hutan Haiwan, level tiga puluh enam.
 
 
-Sapu sebahagian kepala ialah rukun wuduk.
+Kutip empat pensel!
 
 
-Basuh tangan kiri hingga siku ialah rukun wuduk.
+Hutan Haiwan, level tiga puluh tujuh.
 
 
-Basuh muka dan berniat ialah rukun wuduk.
+Katak suka makan apa?
 
 
-Checkpoint!
+Hutan Haiwan, level tiga puluh lapan.
 
 
-Kalau jatuh, kamu mula semula di sini.
+Kutip lima kumbang!
 
 
-Kamu sampai ke trofi!
+Hutan Haiwan, level tiga puluh sembilan.
 
 
-Wah!
+Hutan Haiwan, level empat puluh.
 
 
-Jalan Batu kamu sama seperti pelan.
+Ikan suka makan apa?
 
 
-Arkitek hebat!
+Hutan Haiwan, level empat puluh satu.
 
 
-Huruf el kamu sama seperti pelan.
+Hutan Haiwan, level empat puluh dua.
 
 
-Pagar Kayu kamu sama seperti pelan.
+Hutan Haiwan, level empat puluh tiga.
 
 
-Bunga Merah kamu sama seperti pelan.
+Hutan Haiwan, level empat puluh empat.
 
 
-Menara Batu kamu sama seperti pelan.
+Ikan lumba-lumba suka makan apa?
+
+
+Hutan Haiwan, level empat puluh lima.
+
+
+Hutan Haiwan, level empat puluh enam.
+
+
+Cari itik!
+
+
+Kutip dua kereta!
+
+
+Hutan Haiwan, level empat puluh tujuh.
+
+
+Hutan Haiwan, level empat puluh lapan.
+
+
+Hutan Haiwan, level empat puluh sembilan.
+
+
+Hutan Haiwan, level lima puluh.
+
+
+Udang suka makan apa?
+
+
+Bandar Warna.
+
+
+Bangunan mainan, lampu isyarat dan jalan pelangi.

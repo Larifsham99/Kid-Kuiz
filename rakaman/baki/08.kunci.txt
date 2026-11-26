@@ -1,84 +1,76 @@
-Meja kamu sama seperti pelan.
-Kerusi kamu sama seperti pelan.
-Pokok kamu sama seperti pelan.
-Kereta kamu sama seperti pelan.
-Roket kamu sama seperti pelan.
-Rumah Kecil kamu sama seperti pelan.
-Piramid kamu sama seperti pelan.
-Lampu Isyarat kamu sama seperti pelan.
-Jambatan kamu sama seperti pelan.
-Kek Hari Jadi kamu sama seperti pelan.
-Robot kamu sama seperti pelan.
-Surau Kecil kamu sama seperti pelan.
-Kapal kamu sama seperti pelan.
-Menara Jam kamu sama seperti pelan.
-Rumah Dua Tingkat kamu sama seperti pelan.
-Rumah Kampung kamu sama seperti pelan.
-Istana Kecil kamu sama seperti pelan.
-Kereta Api kamu sama seperti pelan.
-Pokok Besar kamu sama seperti pelan.
-Roket Besar kamu sama seperti pelan.
-Piramid Tangga kamu sama seperti pelan.
-Robot Besar kamu sama seperti pelan.
-Taman Bunga kamu sama seperti pelan.
-Kapal Layar Besar kamu sama seperti pelan.
-Istana Mawar kamu sama seperti pelan.
-Red!
-Yellow!
-Green!
-Blue!
-Brown!
-Purple!
-Pink!
-Orange!
-Itu warna putih.
-White!
-Itu warna hitam.
-Black!
-Bola sampai ke penamat!
-Si Bulat sampai dengan selamat!
-Assalamualaikum, Datuk!
-Datuk tersenyum gembira.
-Apabila berjumpa, kita memberi salam.
-Bobo makan dengan tangan kanan.
-Sebelum makan, baca Bismillah.
-Kita makan dengan tangan kanan.
-Dino gembira.
-Terima kasih, Coco!
-Berkongsi membuatkan kawan gembira.
-Taman kekal bersih dan cantik!
-Buang sampah ke dalam tong sampah.
-Air tidak membazir.
-Pandai, Dino!
-Jangan membazir air.
-Bobo memaafkan Lala.
-Mereka bina bersama-sama!
-Apabila bersalah, kita minta maaf.
-Terima kasih, Mimi.
-Ibu sayang Mimi!
-Kita tolong ibu bapa di rumah.
-Ayah bangga kerana Bobo jujur.
-Kita sentiasa berkata benar.
-Kucing makan dengan gembira.
-Meow!
-Kita sayang haiwan.
-Sabar menunggu giliran.
-Hebat, Dino!
-Kita beratur dan tunggu giliran.
-Nenek tersenyum.
-Sama-sama, sayang.
-Apabila menerima sesuatu, ucapkan terima kasih.
-Mimi membaca doa, kemudian tidur dengan tenang.
-Sebelum tidur, kita membaca doa.
-Kawan menjawab, Yarhamukallah.
-Tutup mulut ketika bersin dan ucap Alhamdulillah.
-Coco dapat belajar banyak perkara!
-Kita mendengar ketika guru bercakap.
-Terima kasih, Lala.
-Dino rasa lebih baik.
-Kita menolong kawan yang dalam kesusahan.
-Bilik jadi kemas dan selamat!
-Selepas bermain, kita kemas semula.
-Masjid tenang.
-Semua orang dapat beribadah.
-Di masjid, kita tenang dan beradab.
+Selesaikan sepuluh level di Hutan Haiwan dahulu, ya.
+Bandar Warna, level satu.
+Bandar Warna, level dua.
+Cari bentuk segi empat sama!
+Bandar Warna, level tiga.
+Bandar Warna, level empat.
+Apa yang datang seterusnya?
+Bandar Warna, level lima.
+Bandar Warna, level enam.
+Bandar Warna, level tujuh.
+Cari bentuk bintang!
+Bandar Warna, level lapan.
+Bandar Warna, level sembilan.
+Bandar Warna, level sepuluh.
+Bandar Warna, level sebelas.
+Cari benda berwarna oren!
+Bandar Warna, level dua belas.
+Cari bentuk hati!
+Bandar Warna, level tiga belas.
+Bandar Warna, level empat belas.
+Bandar Warna, level lima belas.
+Berapa pisang?
+Bandar Warna, level enam belas.
+Bandar Warna, level tujuh belas.
+Kutip tiga segi empat sama!
+Bandar Warna, level lapan belas.
+Bandar Warna, level sembilan belas.
+Kutip tiga hati!
+Bandar Warna, level dua puluh.
+Bandar Warna, level dua puluh satu.
+Cari bentuk bulan sabit!
+Bandar Warna, level dua puluh dua.
+Kutip empat bulan sabit!
+Bandar Warna, level dua puluh tiga.
+Bandar Warna, level dua puluh empat.
+Kutip tiga segi tiga!
+Bandar Warna, level dua puluh lima.
+Cari nombor sembilan!
+Bandar Warna, level dua puluh enam.
+Bandar Warna, level dua puluh tujuh.
+Bandar Warna, level dua puluh lapan.
+Bandar Warna, level dua puluh sembilan.
+Bandar Warna, level tiga puluh.
+Kutip empat segi tiga!
+Bandar Warna, level tiga puluh satu.
+Bandar Warna, level tiga puluh dua.
+Bandar Warna, level tiga puluh tiga.
+Bandar Warna, level tiga puluh empat.
+Bandar Warna, level tiga puluh lima.
+Berapa kumbang?
+Cari bentuk segi tiga!
+Bandar Warna, level tiga puluh enam.
+Bandar Warna, level tiga puluh tujuh.
+Bandar Warna, level tiga puluh lapan.
+Bandar Warna, level tiga puluh sembilan.
+Bandar Warna, level empat puluh.
+Bandar Warna, level empat puluh satu.
+Bandar Warna, level empat puluh dua.
+Bandar Warna, level empat puluh tiga.
+Berapa pensel?
+Bandar Warna, level empat puluh empat.
+Kutip tiga bulatan!
+Bandar Warna, level empat puluh lima.
+Berapa kek cawan?
+Bandar Warna, level empat puluh enam.
+Cari nombor sepuluh!
+Bandar Warna, level empat puluh tujuh.
+Bandar Warna, level empat puluh lapan.
+Kutip dua bujur!
+Bandar Warna, level empat puluh sembilan.
+Bandar Warna, level lima puluh.
+Taman Dinosor.
+Dinosor comel, telur dan gunung berapi.
+Selesaikan sepuluh level di Bandar Warna dahulu, ya.
+Taman Dinosor, level satu.
+Taman Dinosor, level dua.

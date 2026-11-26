@@ -1,0 +1,538 @@
+[gently] Itu Kentang goreng.
+
+
+Itu Air bergas.
+
+
+Itu Gula-gula.
+
+
+Itu Air kosong.
+
+
+Itu Nasi.
+
+
+Itu kosong.
+
+
+Itu Bercakap dengan sopan.
+
+
+Cari huruf Heish.
+
+
+Itu Ketuk dan minta izin.
+
+
+Jom rehatkan mata, Abang!
+
+
+Jom rehatkan mata, Adik!
+
+
+Jom rehatkan mata, Beybi!
+
+
+Jom rehatkan mata, Manja!
+
+
+Jom rehatkan mata, Intan Payung!
+
+
+[cheerfully] Jam.
+
+
+Kaki.
+
+
+Lengan.
+
+
+Pear.
+
+
+Tangan.
+
+
+Anggur.
+
+
+Nanas.
+
+
+Kelapa.
+
+
+Mangga.
+
+
+Mulut.
+
+
+Gosok gigi.
+
+
+Kereta.
+
+
+Lidah.
+
+
+Strawberi.
+
+
+Ombak.
+
+
+Otak.
+
+
+Lobak merah.
+
+
+Telinga.
+
+
+Ceri.
+
+
+Anak anjing.
+
+
+Buluh.
+
+
+Cuci tangan.
+
+
+Madu.
+
+
+Ro.
+
+
+Anak biri-biri.
+
+
+Anak panda.
+
+
+Huruf kiu kecil.
+
+
+Jim.
+
+
+Rumput.
+
+
+Ba.
+
+
+Bas.
+
+
+Bot laju.
+
+
+Bunga.
+
+
+Daging.
+
+
+Huruf em kecil.
+
+
+Lori.
+
+
+Tsa.
+
+
+Tulang.
+
+
+Keju.
+
+
+Semut.
+
+
+Ain.
+
+
+Baju.
+
+
+Bulan.
+
+
+Huruf ei kecil.
+
+
+Huruf di kecil.
+
+
+Huruf kei kecil.
+
+
+Huruf el kecil.
+
+
+Basikal.
+
+
+Kanan.
+
+
+Keluar tandas.
+
+
+Kiri.
+
+
+Laut.
+
+
+Nabi Adam.
+
+
+Nabi Ismail.
+
+
+Sebelum tidur.
+
+
+Tangan hingga siku.
+
+
+Alif.
+
+
+Anak itik.
+
+
+Anak lembu.
+
+
+Huruf bi kecil.
+
+
+Huruf ef kecil.
+
+
+Huruf ji kecil.
+
+
+Kapal.
+
+
+Kapal layar.
+
+
+Kunci.
+
+
+Mandi.
+
+
+Muka.
+
+
+Nabi Ibrahim.
+
+
+Nabi Idris.
+
+
+Roket.
+
+
+Sampan.
+
+
+Sebelum belajar.
+
+
+Sod.
+
+
+Syin.
+
+
+Topi.
+
+
+Cuci dengan sabun.
+
+
+Huruf pi kecil.
+
+
+Kaki hingga buku lali.
+
+
+Keluar rumah.
+
+
+Potong kuku.
+
+
+Sarung tangan.
+
+
+Selipar.
+
+
+Stoking.
+
+
+Telur.
+
+
+Traktor.
+
+
+Zai.
+
+
+Anak gajah.
+
+
+Cili.
+
+
+Dua puluh lima.
+
+
+Gaun.
+
+
+Huruf jei kecil.
+
+
+Jaket.
+
+
+Kolam.
+
+
+Payung terjun.
+
+
+Sarang.
+
+
+Selepas makan.
+
+
+Yarhamukallah.
+
+
+Huruf i kecil.
+
+
+Kepala.
+
+
+Nabi Isa.
+
+
+Nabi Yunus.
+
+
+Dhod.
+
+
+Jagung.
+
+
+Nabi Ilyasa.
+
+
+Nabi Muhammad.
+
+
+Topi bunga.
+
+
+Ubi.
+
+
+Air bergas.
+
+
+Bercakap dengan sopan.
+
+
+Gitar.
+
+
+Gurun.
+
+
+Kentang goreng.
+
+
+Kutub.
+
+
+Lolipop.
+
+
+Nabi Sulaiman.
+
+
+Tisu, atau siku.
+
+
+Dadu.
+
+
+Elang.
+
+
+Flamingo.
+
+
+Gula-gula.
+
+
+Lampu.
+
+
+Nasi.
+
+
+Susu.
+
+
+Kamu juara Litar Kampung!
+
+
+Yu.
+
+
+Bi.
+
+
+Ai.
+
+
+Api!
+
+
+Ei.
+
+
+Pi.
+
+
+Jei.
+
+
+Em.
+
+
+Ef.
+
+
+i.
+
+
+Ar.
+
+
+Di.
+
+
+Dabel yu.
+
+
+Rusa!
+
+
+Es.
+
+
+Kei.
+
+
+o.
+
+
+En.
+
+
+El.
+
+
+Ji.
+
+
+Ti.
+
+
+Kamu juara Lembah Buah!
+
+
+Kamu juara Hutan Haiwan!
+
+
+Kamu juara Bandar Warna!
+
+
+Kamu juara Taman Dinosor!
+
+
+Seterusnya?
+
+
+Kek cawan!
+
+
+Pensel!
+
+
+Kamu juara Pulau Ombak!
+
+
+Kamu juara Angkasa Ria!
+
+
+Kamu juara Negeri Gula-gula!
+
+
+Kamu juara Tapak Binaan Cilik!
+
+
+Kamu juara Pulau Juara!
+
+
+Vi.
+
+
+Heish.
+
+
+Tomato Turbo.
+
+
+Kereta baharu, Tomato Turbo!
+
+
+Kamu dapat kereta baharu, Tomato Turbo!
+
+
+Pisang Kilat.
+
+
+Kereta baharu, Pisang Kilat!
+
+
+Kamu dapat kereta baharu, Pisang Kilat!
+
+
+Komet Biru.

@@ -1,0 +1,433 @@
+[warmly] Buka lima dunia untuk rim ini.
+
+
+Buka tujuh dunia untuk rim ini.
+
+
+Selamat pagi, Abang!
+
+
+Selamat tengah hari, Abang!
+
+
+Selamat petang, Abang!
+
+
+Selamat malam, Abang!
+
+
+Ini Laluan Bijak, Abang!
+
+
+Selamat pagi, Adik!
+
+
+Selamat tengah hari, Adik!
+
+
+Selamat petang, Adik!
+
+
+Selamat malam, Adik!
+
+
+Selamat pagi, Kakak!
+
+
+Selamat tengah hari, Kakak!
+
+
+Selamat petang, Kakak!
+
+
+Selamat malam, Kakak!
+
+
+Ini Laluan Bijak, Kakak!
+
+
+Selamat pagi, Beybi!
+
+
+Selamat tengah hari, Beybi!
+
+
+Selamat petang, Beybi!
+
+
+Selamat malam, Beybi!
+
+
+Ini Laluan Bijak, Beybi!
+
+
+Selamat pagi, Manja!
+
+
+Selamat tengah hari, Manja!
+
+
+Selamat petang, Manja!
+
+
+Selamat malam, Manja!
+
+
+Ini Laluan Bijak, Manja!
+
+
+Selamat pagi, Intan Payung!
+
+
+Selamat tengah hari, Intan Payung!
+
+
+Selamat petang, Intan Payung!
+
+
+Selamat malam, Intan Payung!
+
+
+Ini Laluan Bijak, Intan Payung!
+
+
+[gently] Itu i.
+
+
+Itu es.
+
+
+Itu Pokok.
+
+
+Itu Helikopter.
+
+
+Itu tiga.
+
+
+Itu dua.
+
+
+Itu bukan oren.
+
+
+Itu Oren.
+
+
+Itu Biru.
+
+
+Itu bukan bintang.
+
+
+Cari huruf yu.
+
+
+Cari huruf bi.
+
+
+Cari huruf ai.
+
+
+Itu Kanan.
+
+
+Itu Kiri.
+
+
+Itu kei.
+
+
+Itu bi.
+
+
+Itu Topi.
+
+
+Itu Nyamuk.
+
+
+Itu lima.
+
+
+Itu Merah.
+
+
+Itu Ungu.
+
+
+Itu bukan belon.
+
+
+Itu bukan telur.
+
+
+Itu Coklat.
+
+
+Itu yu.
+
+
+Itu Heish.
+
+
+Itu ef.
+
+
+Cari huruf ei.
+
+
+Cari huruf pi.
+
+
+Itu empat.
+
+
+Itu Terus masuk.
+
+
+Itu ei.
+
+
+Itu jei.
+
+
+Itu satu.
+
+
+Itu enam.
+
+
+Itu bukan pisang.
+
+
+Itu Roti.
+
+
+Itu Roket.
+
+
+Itu Monyet.
+
+
+Itu bukan ef.
+
+
+Itu pi.
+
+
+Itu zed.
+
+
+Itu bukan kura-kura.
+
+
+Itu Merah jambu.
+
+
+Itu Hijau.
+
+
+Itu en.
+
+
+Itu si.
+
+
+Itu vi.
+
+
+Cari huruf jei.
+
+
+Cari huruf em.
+
+
+Itu Ketawa.
+
+
+Itu Yarhamukallah.
+
+
+Itu Ejek.
+
+
+Itu Diam sahaja.
+
+
+Itu Mendengar.
+
+
+Itu Menyampuk.
+
+
+Itu Kuning.
+
+
+Itu ji.
+
+
+Itu ti.
+
+
+Itu di.
+
+
+Itu Marah.
+
+
+Itu tujuh.
+
+
+Itu lapan.
+
+
+Itu Terima kasih.
+
+
+Cari huruf ef.
+
+
+Cari huruf ar.
+
+
+Itu Ikan.
+
+
+Itu Burung.
+
+
+Itu Nanas.
+
+
+Itu Rumah.
+
+
+Cari huruf di.
+
+
+Itu Bismillah.
+
+
+Itu Tonton televisyen.
+
+
+Itu Lagu.
+
+
+Itu wai.
+
+
+Itu ai.
+
+
+Itu dabel yu.
+
+
+Cari huruf dabel yu.
+
+
+Itu Motosikal.
+
+
+Itu Orang utan.
+
+
+Itu sembilan.
+
+
+Itu bukan ai.
+
+
+Cari huruf es.
+
+
+Itu sepuluh.
+
+
+Itu Awan.
+
+
+Itu Lobak.
+
+
+Itu Bunga.
+
+
+Itu Terus tidur.
+
+
+Itu Alhamdulillah.
+
+
+Itu Minta maaf.
+
+
+Itu Jelir lidah.
+
+
+Itu em.
+
+
+Itu el.
+
+
+Itu Jambatan.
+
+
+Itu Tikus.
+
+
+Itu Yoyo.
+
+
+Itu ar.
+
+
+Itu bukan bunga.
+
+
+Cari huruf o.
+
+
+Cari huruf en.
+
+
+Itu Yu.
+
+
+Itu Cacing.
+
+
+Itu Aiskrim.
+
+
+Cari huruf el.
+
+
+Itu bukan pensel.
+
+
+Itu Lari.
+
+
+Itu Menjerit.
+
+
+Itu bukan el.
+
+
+Itu o.
+
+
+Itu Ceri.
+
+
+Itu Epal.
+
+
+Itu Katil.
+
+
+Itu Gajah.

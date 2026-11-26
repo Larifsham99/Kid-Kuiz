@@ -1,0 +1,463 @@
+[gently] Itu Kereta api.
+
+
+Itu warna merah jambu.
+
+
+Itu warna kuning.
+
+
+Itu Strawberi.
+
+
+Itu bukan ikan.
+
+
+Itu Kucing.
+
+
+Itu Ikan paus.
+
+
+Itu Bas.
+
+
+Itu Sotong.
+
+
+Itu Lada benggala.
+
+
+Itu bukan strawberi.
+
+
+Itu Teksi.
+
+
+Itu Unta.
+
+
+Itu Sawi.
+
+
+Itu bukan epal.
+
+
+Itu Ikan lumba-lumba.
+
+
+Itu Beruang.
+
+
+Itu Traktor.
+
+
+Itu warna ungu.
+
+
+Itu warna coklat.
+
+
+Itu Bawang putih.
+
+
+Itu Lori.
+
+
+Itu Kiwi.
+
+
+Itu Kelapa.
+
+
+Itu Beri biru.
+
+
+Itu Lembu.
+
+
+Itu Semut.
+
+
+Itu Lemon.
+
+
+Itu Anggur.
+
+
+Itu bukan rama-rama.
+
+
+Itu Tembikai.
+
+
+Itu Jagung.
+
+
+Itu warna biru.
+
+
+Itu warna merah.
+
+
+Itu Anak ayam.
+
+
+Itu Kelawar.
+
+
+Itu Kereta.
+
+
+Itu Kumbang.
+
+
+Itu warna oren.
+
+
+Itu Pic.
+
+
+Itu Pisang.
+
+
+Itu Kapal terbang.
+
+
+Itu Penguin.
+
+
+Itu Kereta polis.
+
+
+Itu Kereta bomba.
+
+
+Itu Timun.
+
+
+Itu Burung helang.
+
+
+Itu Kura-kura.
+
+
+Itu Brokoli.
+
+
+Itu warna hijau.
+
+
+Itu Mangga.
+
+
+Itu Cendawan.
+
+
+Itu Kentang.
+
+
+Itu Pear.
+
+
+Itu Bola.
+
+
+Itu Lebah.
+
+
+Itu Kunci.
+
+
+Itu Ambulans.
+
+
+Itu Udang.
+
+
+Itu Ikan yu.
+
+
+Itu Zirafah.
+
+
+Itu Rama-rama.
+
+
+Itu Kuda.
+
+
+Itu Daging.
+
+
+Itu bukan kek cawan.
+
+
+Itu Ketam.
+
+
+Itu Gurita.
+
+
+Itu Katak.
+
+
+Itu Ayam.
+
+
+Itu Burung hantu.
+
+
+Itu Itik.
+
+
+Itu Zebra.
+
+
+Itu Rumput.
+
+
+Itu Buah-buahan.
+
+
+Itu Madu.
+
+
+Itu Kambing.
+
+
+Itu Anjing.
+
+
+Itu Singa.
+
+
+Itu Buluh.
+
+
+Itu Udang kecil.
+
+
+Itu Serangga.
+
+
+Itu Harimau.
+
+
+Itu Tulang.
+
+
+Itu bukan bola.
+
+
+Itu bukan anak ayam.
+
+
+Itu Keju.
+
+
+Itu Lobak merah.
+
+
+Itu Daun.
+
+
+Itu Panda.
+
+
+Itu bukan kumbang.
+
+
+Itu Biri-biri.
+
+
+Itu bukan kereta.
+
+
+Itu Arnab.
+
+
+Itu Segi empat sama.
+
+
+Itu Bintang.
+
+
+Itu Segi tiga.
+
+
+Itu Hati.
+
+
+Itu bukan Segi empat sama.
+
+
+Itu Bulatan.
+
+
+Itu bukan Hati.
+
+
+Itu Berlian.
+
+
+Itu Bulan sabit.
+
+
+Itu bukan Bulan sabit.
+
+
+Itu bukan Segi tiga.
+
+
+Itu kek cawan.
+
+
+Itu bukan Bulatan.
+
+
+Itu bukan Bujur.
+
+
+Itu Gaul.
+
+
+Itu Kudup.
+
+
+Itu Gulung salji.
+
+
+Itu Menetas.
+
+
+Itu Bawang.
+
+
+Itu Manusia salji.
+
+
+Itu Gelap.
+
+
+Itu Biji benih.
+
+
+Itu Pokok kecil.
+
+
+Itu Cili.
+
+
+Itu Telur.
+
+
+Itu Bunga kembang.
+
+
+Itu Terung.
+
+
+Itu Salji turun.
+
+
+Itu Purnama.
+
+
+Itu Pokok besar.
+
+
+Itu Kepompong.
+
+
+Itu Makan.
+
+
+Itu Bahan.
+
+
+Itu Potong.
+
+
+Itu Sabit.
+
+
+Itu Kek siap.
+
+
+Itu Anak pokok.
+
+
+Itu Ulat.
+
+
+Itu Separuh.
+
+
+Itu Basikal.
+
+
+Itu Tunas.
+
+
+Itu Belon udara.
+
+
+Itu Kapal.
+
+
+Itu Bot laju.
+
+
+Itu bukan pokok.
+
+
+Itu Payung terjun.
+
+
+Itu Kapal layar.
+
+
+Itu Bujur.
+
+
+Itu Sampan.
+
+
+Itu Feri.
+
+
+Itu bukan Berlian.
+
+
+Itu Planet.
+
+
+Itu Komet.
+
+
+Itu Piring terbang.
+
+
+Itu Bumi.
+
+
+Itu belon.
+
+
+Itu Bulan.
+
+
+Itu Matahari.
+
+
+Itu Bakar.
+
+
+Itu Lolipop.
+
+
+Itu Donat.
+
+
+Itu Susu.

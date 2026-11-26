@@ -1,199 +1,268 @@
-[warmly] Kamu suka dipanggil apa?
+[warmly] Mana bentuk segi empat tepat?
 
 
-Pilih satu pulau.
+Mana gaun?
 
 
-Selamat datang ke Bijaku, Kakak!
+Mana gurita?
 
 
-Semua cabaran hari ini sudah selesai.
+Mana hidung?
 
 
-Wiu, wiu!
+Mana lebah?
 
 
-Selamat datang ke Bijaku, Adik!
+Mana nombor enam?
 
 
-Ini Laluan Bijak, Adik!
+Mana nombor lima?
 
 
-Setiap hari, ikut tiga langkah.
+Mana nombor satu?
 
 
-Tekan bulatan yang bersinar untuk mula.
+Mana nombor sembilan?
 
 
-Bobo mahu beli lobak merah satu ringgit.
+Mana nombor tiga?
 
 
-Tekan duit.
+Mana otak?
 
 
-Kemudian tekan Bayar!
+Mana satu lagi huruf i?
 
 
-Lala mahu beli kuih satu ringgit.
+Mana satu lagi huruf Heish?
 
 
-Bayar dengan tepat!
+Mana tangan?
 
 
-Mimi mahu beli susu satu ringgit.
+Mana warna ungu?
 
 
-Mimi mahu beli telur satu ringgit.
+Monyet suka makan saya.
 
 
-Coco mahu beli jagung dua ringgit.
+Mooo!
 
 
-Bobo mahu beli mangga dua ringgit.
+Nombor dua.
 
 
-Lala mahu beli mi tiga ringgit.
+Saya kuning dan panjang.
 
 
-Bobo mahu beli oren tiga ringgit.
+Saya membantu kamu melihat dalam gelap.
 
 
-Mimi mahu beli madu dua ringgit.
+Seluar pendek.
 
 
-Coco mahu beli telur empat ringgit.
+Siapa yang berbunyi, Hu, hu!
 
 
-Lala mahu beli kuih lima ringgit.
+Siapa yang berbunyi, Kuak, kuak!
 
 
-Dino mahu beli teh lima ringgit.
+Siapa yang berbunyi, Kuek, kuek!
 
 
-Dino mahu beli lobak merah empat ringgit.
+Teksi.
 
 
-Coco mahu beli nanas empat ringgit.
+Tikus suka makan apa, ya?
 
 
-Bobo mahu beli mangga lima ringgit.
+Tolong kumpul empat lobak merah untuk Mimi.
 
 
-Dino mahu beli oren lima ringgit.
+Tolong kumpul empat permata untuk Roket Dino.
 
 
-Mimi mahu beli madu lima ringgit.
+Tolong kumpul tiga cendawan untuk Coco.
 
 
-Bobo mahu beli madu empat ringgit.
+Tolong kumpul tiga tiram untuk Kura-kura.
 
 
-Coco mahu beli telur tujuh ringgit.
+Warnakan badan bas dengan warna kuning.
 
 
-Dino mahu beli oren enam ringgit.
+Warnakan belon kanan dengan warna biru.
 
 
-Mimi mahu beli oren lapan ringgit.
+Warnakan isi tembikai dengan warna merah.
 
 
-Dino mahu beli pisang tiga ringgit.
+Warnakan kereta ikut warna kegemaran kamu!
 
 
-Lala mahu beli teh sembilan ringgit.
+Yang mana satu boleh kita jumpa di angkasa?
 
 
-Mimi mahu beli lobak merah tiga ringgit.
+Yang mana satu boleh kita jumpa di ladang?
 
 
-Dino mahu beli tembikai tiga ringgit.
+Ada dua lemon yang menyorok.
 
 
-Lala mahu beli beras empat ringgit.
+Ada dua singa yang menyorok.
 
 
-Bobo mahu beli lobak merah lima ringgit.
+Ada epal yang menyorok.
 
 
-Mimi mahu beli roti lapan ringgit.
+Ada ikan lumba-lumba yang menyorok.
 
 
-Lala mahu beli kurma lapan ringgit.
+Ada panda yang menyorok.
 
 
-Coco mahu beli tembikai dua ringgit.
+Ada roket yang menyorok.
 
 
-Coco mahu beli kelapa sembilan ringgit.
+Ayam suka makan apa, ya?
 
 
-Mimi mahu beli madu lapan ringgit.
+Badan berpeluh selepas bermain.
 
 
-Lala mahu beli lobak merah sepuluh ringgit.
+Burung helang tinggal di mana, ya?
 
 
-Dino mahu beli jagung enam ringgit.
+Burung tinggal di mana, ya?
 
 
-Mimi mahu beli kuih sembilan ringgit.
+Cili bermula dengan huruf apa, ya?
 
 
-Coco mahu beli tembikai enam ringgit.
+Di mana Arnab?
 
 
-Mimi mahu beli kek sepuluh ringgit.
+Di mana Harimau?
 
 
-Lala mahu beli garam sepuluh ringgit.
+Di mana Kambing?
 
 
-Dino mahu beli tembikai sepuluh ringgit.
+Gambar mana yang bermula dengan si?
 
 
-Coco mahu beli kelapa sepuluh ringgit.
+Gambar mana yang bermula dengan di?
 
 
-Coco mahu beli susu dua belas ringgit.
+Gambar mana yang bermula dengan i?
 
 
-Mimi mahu beli anggur dua belas ringgit.
+Gambar mana yang bermula dengan ef?
 
 
-Bobo mahu beli susu enam ringgit.
+Gambar mana yang bermula dengan ji?
 
 
-Bobo mahu beli lobak merah tujuh ringgit.
+Gambar mana yang bermula dengan Heish?
 
 
-Dino mahu beli oren tiga belas ringgit.
+Gambar mana yang bermula dengan jei?
 
 
-Coco mahu beli kurma tujuh ringgit.
+Gambar mana yang bermula dengan el?
 
 
-Bobo mahu beli tembikai sebelas ringgit.
+Helikopter bermula dengan huruf apa, ya?
 
 
-Coco mahu beli mangga sepuluh ringgit.
+Ikan lumba-lumba tinggal di mana, ya?
 
 
-Lala mahu beli susu lima belas ringgit.
+Ikan paus tinggal di mana, ya?
 
 
-Dino mahu beli gula lima belas ringgit.
+Ini anak anjing.
 
 
-Lala mahu beli epal lima belas ringgit.
+Ini anak gajah.
 
 
-Coco mahu beli kuih sembilan ringgit.
+Ini cili.
 
 
-Coco mahu beli garam enam belas ringgit.
+Ini helikopter.
 
 
-Bobo mahu beli nanas dua belas ringgit.
+Ini huruf si.
 
 
-Lala mahu beli pisang lapan ringgit.
+Ini huruf ef.
+
+
+Ini huruf ji.
+
+
+Ini huruf ai.
+
+
+Ini huruf kei besar.
+
+
+Ini huruf el.
+
+
+Ini huruf em besar.
+
+
+Ini ombak.
+
+
+Itik bermula dengan huruf apa, ya?
+
+
+Itik tinggal di mana, ya?
+
+
+Jangan langgar ketulan ais, ya.
+
+
+Jom cari huruf di!
+
+
+Jom cari huruf ef!
+
+
+Jom cari huruf ji!
+
+
+Jom cari huruf el!
+
+
+Jom cari huruf em!
+
+
+Jom cari huruf kiu!
+
+
+Jom cari huruf es!
+
+
+Jom kira, ada berapa biji pisang?
+
+
+Jom surih huruf si guna jari.
+
+
+Jom surih huruf Heish guna jari.
+
+
+Jom surih huruf el guna jari.
+
+
+Jom surih huruf ti guna jari.
+
+
+Jom warnakan epal!
+
+
+Jom warnakan kereta!
