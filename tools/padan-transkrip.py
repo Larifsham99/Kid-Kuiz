@@ -40,6 +40,13 @@ def norm(s):
     s = ' '.join(HURUF.get(w, w) if len(w) == 1 else w for w in s.split())
     return re.sub(r'\s+', ' ', s).strip()
 
+NUMW = {'kosong', 'satu', 'dua', 'tiga', 'empat', 'lima', 'enam', 'tujuh', 'lapan', 'sembilan', 'sepuluh', 'sebelas', 'belas', 'puluh', 'ratus', 'seratus', 'ribu', 'seribu'}
+def numseq(s):
+    return [w for w in s.split() if w in NUMW]
+def same_num(line_norm, heard_norm):
+    # nombor mesti sama persis (level, harga, kiraan); ayat tanpa nombor tidak terjejas
+    return numseq(line_norm) == numseq(heard_norm)
+
 def script_lines(path):
     out = []
     for raw in open(path, encoding='utf-8').read().split('\n'):
@@ -120,13 +127,18 @@ def main():
             limit = anch[ak[nx]] if nx < len(ak) else len(sw)
             rng = range(max(p, anch[q] - 3), min(len(sw), anch[q] + 4)) if q in anch else range(p, min(len(sw), limit, p + 60))
             for i in rng:
-                for m in range(max(1, n - 2), n + 4):
+                for m in range(1, n + 4):
                     if i + m > len(sw): break
                     if WI[i + m - 1] - WI[i] != m - 1: break  # mesti perkataan bersebelahan dalam audio
-                    sc = SequenceMatcher(None, L, ' '.join(sw[i:i + m])).ratio() - (i - p) * 0.004
+                    c = ' '.join(sw[i:i + m])
+                    # panjang ikut aksara ("23" = "dua puluh tiga"), bukan bilangan perkataan
+                    if len(c) < 0.7 * len(L): continue
+                    if len(c) > 1.45 * len(L) + 3: break
+                    if not same_num(L, c): continue
+                    sc = SequenceMatcher(None, L, c).ratio() - (i - p) * 0.004
                     if sc > best[0]: best = (sc, i, m)
             sc, i, m = best
-            if i is not None and (sc >= 0.62 or (n <= 2 and sc >= 0.5)):
+            if i is not None and sc >= (0.82 if n <= 3 else 0.78):
                 out[li] = (WI[i], m, sc); p = i + m
         return out
 
@@ -154,9 +166,13 @@ def main():
         scores = []
         for i in range(len(W)):
             if i in used: continue
-            for m in range(max(1, n - 1), n + 3):
+            for m in range(1, n + 3):
                 if i + m > len(W) or any((i + q) in used for q in range(m)): break
-                scores.append((SequenceMatcher(None, L, ' '.join(wt[i:i + m])).ratio(), i, m))
+                c = ' '.join(wt[i:i + m])
+                if len(c) < 0.7 * len(L): continue
+                if len(c) > 1.45 * len(L) + 3: break
+                if not same_num(L, c): continue
+                scores.append((SequenceMatcher(None, L, c).ratio(), i, m))
         if not scores: continue
         scores.sort(reverse=True)
         sc, i, m = scores[0]
@@ -209,7 +225,9 @@ def main():
                 cand = ' '.join(wt[words[q]] for q in range(j0, j))
                 sim = SequenceMatcher(None, norm(lines[r['k']]), cand).ratio()
                 onom = bool(re.search(r'(.)\1\1', lines[r['k']].lower())) and j - j0 <= 2  # bunyi: "Mooo!", "Aummm!"
-                if sim >= 0.4 or onom:
+                Ln = norm(lines[r['k']])
+                full = len(cand) >= 0.75 * len(Ln)
+                if (sim >= 0.75 and full and same_num(Ln, cand)) or onom:
                     r.update({'ok': True, 'filled': True, 'score': round(sim, 3), 'a': W[words[j0]][0], 'b': W[words[j - 1]][1], 'heard': ' '.join(W[words[q]][2].strip() for q in range(j0, j)), 'i': words[j0], 'm': j - j0})
             j = j0
     # titik potong akhir
