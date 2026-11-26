@@ -98,6 +98,44 @@ def main():
             p = i + m
         else:
             res.append({'k': li, 'ok': False, 'score': round(sc, 3), 'heard': ' '.join(w[2].strip() for w in W[i:i + m]) if i is not None else ''})
+    # isi celah: ayat yang transkripnya kurang jelas (bunyi haiwan, nama huruf, sebutan lain)
+    # diletakkan pada perkataan di antara dua ayat jiran yang sudah disahkan, ikut panjang ayat.
+    k = 0
+    while k < len(res):
+        if res[k]['ok']: k += 1; continue
+        s = k
+        while k < len(res) and not res[k]['ok']: k += 1
+        run = res[s:k]
+        wa = res[s - 1]['i'] + res[s - 1]['m'] if s > 0 else 0
+        wb = res[k]['i'] if k < len(res) else len(W)
+        words = list(range(wa, wb))
+        if not words: continue
+        ln = [max(1, len(norm(lines[r['k']]))) for r in run]
+        wl = [max(1, len(wt[j])) for j in words]
+        nR, nW = len(run), len(words)
+        # DP: bahagikan perkataan berturutan kepada nR kumpulan (boleh kosong), kos = beza panjang aksara
+        INF = 1e9
+        dp = [[INF] * (nW + 1) for _ in range(nR + 1)]; bk = [[0] * (nW + 1) for _ in range(nR + 1)]
+        dp[0][0] = 0
+        for t in range(1, nR + 1):
+            for j in range(nW + 1):
+                for j0 in range(max(0, j - 12), j + 1):
+                    if dp[t - 1][j0] >= INF: continue
+                    got = sum(wl[j0:j]) + max(0, j - j0 - 1)
+                    c = dp[t - 1][j0] + (abs(got - ln[t - 1]) / ln[t - 1] if j > j0 else 3.0)
+                    if c < dp[t][j]: dp[t][j], bk[t][j] = c, j0
+        # perkataan berlebihan di hujung (bukan milik mana-mana ayat) dibenarkan dengan kos kecil
+        jbest = min(range(nW + 1), key=lambda j: dp[nR][j] + (nW - j) * 0.4)
+        j = jbest
+        for t in range(nR, 0, -1):
+            j0 = bk[t][j]; r = run[t - 1]
+            if j > j0:
+                cand = ' '.join(wt[words[q]] for q in range(j0, j))
+                sim = SequenceMatcher(None, norm(lines[r['k']]), cand).ratio()
+                lenok = abs(sum(wl[j0:j]) + (j - j0 - 1) - ln[t - 1]) / ln[t - 1] < 0.6
+                if sim >= 0.3 or lenok:
+                    r.update({'ok': True, 'filled': True, 'score': round(sim, 3), 'a': W[words[j0]][0], 'b': W[words[j - 1]][1], 'heard': ' '.join(W[words[q]][2].strip() for q in range(j0, j)), 'i': words[j0], 'm': j - j0})
+            j = j0
     # titik potong akhir
     db = load_db(audio)
     good = [r for r in res if r['ok']]
@@ -108,7 +146,10 @@ def main():
         a, b = snap(db, r['a'], r['b'], lo, hi)
         r['cut'] = [max(lo, a - 0.05), min(hi, b + 0.08)]
     nok = len(good)
-    rep = [f'{nok}/{len(lines)} ayat sepadan dengan transkrip ({len(lines) - nok} ditolak)\n']
+    nfill = sum(1 for r in res if r.get('filled'))
+    rep = [f'{nok}/{len(lines)} ayat diletakkan ({nok - nfill} sepadan terus, {nfill} diisi antara jiran); {len(lines) - nok} tiada dalam audio\n']
+    for r in res:
+        if r.get('filled'): rep.append(f"ISI    {r['score']:.2f}  skrip: {lines[r['k']]}  |  didengar: {r['heard']}")
     for r in res:
         if not r['ok']: rep.append(f"TOLAK  {r['score']:.2f}  skrip: {lines[r['k']]}  |  didengar: {r['heard']}")
     open('rakaman/laporan-padanan.txt', 'w', encoding='utf-8').write('\n'.join(rep) + '\n')
