@@ -1,235 +1,154 @@
-[warmly] Pulau Ombak, level tiga puluh sembilan.
+[cheerfully] Sijil pencapaian Asah Minda untuk Adik.
 
 
-Cari bentuk berlian!
+Sijil pencapaian Misi Pengembaraan untuk Adik.
 
 
-Kutip lima telur!
+Sijil pencapaian ei, bi, si Ceria untuk Kakak.
 
 
-Pulau Ombak, level empat puluh.
+Sijil pencapaian Dunia Nombor untuk Kakak.
 
 
-Kutip tiga epal!
+Sijil pencapaian Warna dan Bentuk untuk Kakak.
 
 
-Pulau Ombak, level empat puluh satu.
+Sijil pencapaian Teka Bunyi untuk Kakak.
 
 
-Kutip empat berlian!
+Sijil pencapaian Pazel Pintar untuk Kakak.
 
 
-Pulau Ombak, level empat puluh dua.
+Sijil pencapaian Ingatan Hebat untuk Kakak.
 
 
-Kutip dua oren!
+Sijil pencapaian Seni dan Mewarna untuk Kakak.
 
 
-Pulau Ombak, level empat puluh tiga.
+Sijil pencapaian Cari Bayang untuk Kakak.
 
 
-Pulau Ombak, level empat puluh empat.
+Sijil pencapaian Maze Pengembaraan untuk Kakak.
 
 
-Kutip empat segi empat sama!
+Sijil pencapaian Kehidupan Harian untuk Kakak.
 
 
-Pulau Ombak, level empat puluh lima.
+Sijil pencapaian Bijak Mengelaskan untuk Kakak.
 
 
-Kutip dua telur!
+Sijil pencapaian Si Cilik Soleh untuk Kakak.
 
 
-Pulau Ombak, level empat puluh enam.
+Sijil pencapaian Dunia Haiwan untuk Kakak.
 
 
-Pulau Ombak, level empat puluh tujuh.
+Sijil pencapaian Asah Minda untuk Kakak.
 
 
-Pulau Ombak, level empat puluh lapan.
+Sijil pencapaian Misi Pengembaraan untuk Kakak.
 
 
-Cari panda!
+Sijil pencapaian ei, bi, si Ceria untuk Beybi.
 
 
-Pulau Ombak, level empat puluh sembilan.
+Sijil pencapaian Dunia Nombor untuk Beybi.
 
 
-Pulau Ombak, level lima puluh.
+Sijil pencapaian Warna dan Bentuk untuk Beybi.
 
 
-Angkasa Ria.
+Sijil pencapaian Teka Bunyi untuk Beybi.
 
 
-Planet, bulan, bintang dan Ufo comel.
+Sijil pencapaian Pazel Pintar untuk Beybi.
 
 
-Selesaikan sepuluh level di Pulau Ombak dahulu, ya.
+Sijil pencapaian Ingatan Hebat untuk Beybi.
 
 
-Angkasa Ria, level satu.
+Sijil pencapaian Seni dan Mewarna untuk Beybi.
 
 
-Kutip dua bulatan!
+Sijil pencapaian Cari Bayang untuk Beybi.
 
 
-Angkasa Ria, level dua.
+Sijil pencapaian Maze Pengembaraan untuk Beybi.
 
 
-Angkasa Ria, level tiga.
+Sijil pencapaian Kehidupan Harian untuk Beybi.
 
 
-Angkasa Ria, level empat.
+Sijil pencapaian Bijak Mengelaskan untuk Beybi.
 
 
-Angkasa Ria, level lima.
+Sijil pencapaian Si Cilik Soleh untuk Beybi.
 
 
-Cari planet!
+Sijil pencapaian Dunia Haiwan untuk Beybi.
 
 
-Angkasa Ria, level enam.
+Sijil pencapaian Asah Minda untuk Beybi.
 
 
-Angkasa Ria, level tujuh.
+Sijil pencapaian Misi Pengembaraan untuk Beybi.
 
 
-Angkasa Ria, level lapan.
+Sijil pencapaian ei, bi, si Ceria untuk Manja.
 
 
-Angkasa Ria, level sembilan.
+Sijil pencapaian Dunia Nombor untuk Manja.
 
 
-Angkasa Ria, level sepuluh.
+Sijil pencapaian Warna dan Bentuk untuk Manja.
 
 
-Angkasa Ria, level sebelas.
+Sijil pencapaian Teka Bunyi untuk Manja.
 
 
-Dua tambah satu, jadi berapa?
+Sijil pencapaian Pazel Pintar untuk Manja.
 
 
-Kita tinggal di planet apa?
+Sijil pencapaian Ingatan Hebat untuk Manja.
 
 
-Angkasa Ria, level dua belas.
+Sijil pencapaian Seni dan Mewarna untuk Manja.
 
 
-Angkasa Ria, level tiga belas.
+Sijil pencapaian Cari Bayang untuk Manja.
 
 
-Angkasa Ria, level empat belas.
+Sijil pencapaian Maze Pengembaraan untuk Manja.
 
 
-Angkasa Ria, level lima belas.
+Sijil pencapaian Kehidupan Harian untuk Manja.
 
 
-Angkasa Ria, level enam belas.
+Sijil pencapaian Bijak Mengelaskan untuk Manja.
 
 
-Angkasa Ria, level tujuh belas.
+Sijil pencapaian Si Cilik Soleh untuk Manja.
 
 
-Cari roket!
+Sijil pencapaian Dunia Haiwan untuk Manja.
 
 
-Angkasa Ria, level lapan belas.
+Sijil pencapaian Asah Minda untuk Manja.
 
 
-Empat tambah empat, jadi berapa?
+Sijil pencapaian Misi Pengembaraan untuk Manja.
 
 
-Angkasa Ria, level sembilan belas.
+Sijil pencapaian ei, bi, si Ceria untuk Intan Payung.
 
 
-Satu tambah tiga, jadi berapa?
+Sijil pencapaian Dunia Nombor untuk Intan Payung.
 
 
-Angkasa Ria, level dua puluh.
+Sijil pencapaian Warna dan Bentuk untuk Intan Payung.
 
 
-Angkasa Ria, level dua puluh satu.
+Sijil pencapaian Teka Bunyi untuk Intan Payung.
 
 
-Angkasa Ria, level dua puluh dua.
-
-
-Angkasa Ria, level dua puluh tiga.
-
-
-Angkasa Ria, level dua puluh empat.
-
-
-Cari piring terbang!
-
-
-Berapa belon?
-
-
-Angkasa Ria, level dua puluh lima.
-
-
-Angkasa Ria, level dua puluh enam.
-
-
-Cari komet!
-
-
-Angkasa Ria, level dua puluh tujuh.
-
-
-Dua tambah empat, jadi berapa?
-
-
-Angkasa Ria, level dua puluh lapan.
-
-
-Angkasa Ria, level dua puluh sembilan.
-
-
-Berapa strawberi?
-
-
-Angkasawan naik apa ke angkasa?
-
-
-Angkasa Ria, level tiga puluh.
-
-
-Lima tambah satu, jadi berapa?
-
-
-Cari bintang!
-
-
-Angkasa Ria, level tiga puluh satu.
-
-
-Cari matahari!
-
-
-Angkasa Ria, level tiga puluh dua.
-
-
-Apa yang berkelip-kelip di langit malam?
-
-
-Tiga tambah dua, jadi berapa?
-
-
-Angkasa Ria, level tiga puluh tiga.
-
-
-Angkasa Ria, level tiga puluh empat.
-
-
-Kutip dua berlian!
-
-
-Angkasa Ria, level tiga puluh lima.
-
-
-Apa yang kita nampak di langit pada waktu malam?
-
-
-Angkasa Ria, level tiga puluh enam.
+Sijil pencapaian Pazel Pintar untuk Intan Payung.

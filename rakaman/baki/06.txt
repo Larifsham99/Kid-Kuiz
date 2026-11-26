@@ -1,247 +1,232 @@
-[warmly] Pilih yang paling besar!
+[warmly] Putar paparan dan teliti setiap tingkat.
 
 
-Cari anggur!
+Cabaran Arkitek: bina Istana Kecil!
 
 
-Lembah Buah, level sembilan belas.
+Cabaran Arkitek: bina Kereta Api!
 
 
-Kutip empat rama-rama!
+Cabaran Arkitek: bina Pokok Besar!
 
 
-Lembah Buah, level dua puluh.
+Cabaran Arkitek: bina Roket Besar!
 
 
-Empat tambah satu, jadi berapa?
+Cabaran Arkitek: bina Piramid Tangga!
 
 
-Lembah Buah, level dua puluh satu.
+Cabaran Arkitek: bina Robot Besar!
 
 
-Cari benda berwarna merah!
+Cabaran Arkitek: bina Taman Bunga!
 
 
-Lembah Buah, level dua puluh dua.
+Cabaran Arkitek: bina Kapal Layar Besar!
 
 
-Cari beri biru!
+Cabaran Arkitek: bina Istana Mawar!
 
 
-Cari haiwan!
+Jom jadi Pemburu Warna!
 
 
-Lembah Buah, level dua puluh tiga.
+Tekan Buka kamera.
 
 
-Lembah Buah, level dua puluh empat.
+Tekan gambar yang berwarna merah.
 
 
-Cari benda berwarna biru!
+Tekan gambar yang berwarna kuning.
 
 
-Kutip empat pisang!
+Tekan gambar yang berwarna hijau.
 
 
-Lembah Buah, level dua puluh lima.
+Tekan gambar yang berwarna biru.
 
 
-Cari kiwi!
+Tekan gambar yang berwarna coklat.
 
 
-Lembah Buah, level dua puluh enam.
+Tekan gambar yang berwarna ungu.
 
 
-Lembah Buah, level dua puluh tujuh.
+Tekan gambar yang berwarna merah jambu.
 
 
-Lima tambah dua, jadi berapa?
+Tekan gambar yang berwarna oren.
 
 
-Lembah Buah, level dua puluh lapan.
+Tekan gambar yang berwarna putih.
 
 
-Lembah Buah, level dua puluh sembilan.
+Tekan gambar yang berwarna hitam.
 
 
-Lembah Buah, level tiga puluh.
+Pegang telefon dengan selesa, seperti sedang membaca.
 
 
-Lima tambah empat, jadi berapa?
+Tok, tok, tok!
 
 
-Lembah Buah, level tiga puluh satu.
+Datuk datang ke rumah.
 
 
-Berapa pokok?
+Mimi nampak Datuk di pintu.
 
 
-Lembah Buah, level tiga puluh dua.
+Apa yang Mimi patut buat?
 
 
-Cari nombor tujuh!
+Nasi sudah terhidang.
 
 
-Lembah Buah, level tiga puluh tiga.
+Bobo lapar.
 
 
-Kutip empat oren!
+Bobo mahu mula makan.
 
 
-Cari benda berwarna ungu!
+Bagaimana Bobo patut makan?
 
 
-Lembah Buah, level tiga puluh empat.
+Coco ada dua keping biskut.
 
 
-Tiga tambah satu, jadi berapa?
+Dino tidak ada bekal hari ini.
 
 
-Lembah Buah, level tiga puluh lima.
+Apa yang Coco patut buat?
 
 
-Tiga tambah empat, jadi berapa?
+Lala habis minum air kotak.
 
 
-Cari oren!
+Kotak kosong ada di tangan Lala.
 
 
-Lembah Buah, level tiga puluh enam.
+Di mana Lala patut buang kotak itu?
 
 
-Cari pear!
+Dino sudah siap basuh tangan.
 
 
-Lembah Buah, level tiga puluh tujuh.
+Tetapi air paip masih mengalir.
 
 
-Satu tambah satu, jadi berapa?
+Apa yang Dino patut buat?
 
 
-Cari pic!
+Bobo membina menara blok yang tinggi.
 
 
-Lembah Buah, level tiga puluh lapan.
+Alamak!
 
 
-Lima tambah tiga, jadi berapa?
+Lala terlanggar menara itu.
 
 
-Cari pisang!
+Apa yang Lala patut buat?
 
 
-Lembah Buah, level tiga puluh sembilan.
+Ibu membawa banyak pinggan.
 
 
-Lembah Buah, level empat puluh.
+Pinggan itu berat.
 
 
-Empat tambah tiga, jadi berapa?
+Bola Bobo terkena pasu bunga.
 
 
-Lembah Buah, level empat puluh satu.
+Pasu itu pecah.
 
 
-Lembah Buah, level empat puluh dua.
+Ayah bertanya, siapa yang pecahkan pasu?
 
 
-Lembah Buah, level empat puluh tiga.
+Apa yang Bobo patut jawab?
 
 
-Lembah Buah, level empat puluh empat.
+Ada seekor kucing kecil di taman.
 
 
-Lembah Buah, level empat puluh lima.
+Kucing itu kelihatan lapar.
 
 
-Cari tembikai!
+Ramai orang sedang beratur untuk membayar.
 
 
-Kutip lima epal!
+Dino mahu membayar juga.
 
 
-Lembah Buah, level empat puluh enam.
+Nenek memberi Lala sebuah hadiah.
 
 
-Cari mangga!
+Hadiah itu berbalut cantik.
 
 
-Lembah Buah, level empat puluh tujuh.
+Apa yang Lala patut katakan?
 
 
-Cari benda berwarna hijau!
+Hari sudah malam.
 
 
-Cari lemon!
+Mimi sudah gosok gigi dan mahu tidur.
 
 
-Lembah Buah, level empat puluh lapan.
+Apa yang Mimi buat sebelum tidur?
 
 
-Kutip empat ikan!
+Hidung Bobo gatal.
 
 
-Lembah Buah, level empat puluh sembilan.
+Bobo mahu bersin.
 
 
-Cari benda berwarna merah jambu!
+Apa yang Bobo patut buat?
 
 
-Lembah Buah, level lima puluh.
+Cikgu sedang bercerita di hadapan kelas.
 
 
-Hutan Haiwan.
+Kawan-kawan duduk dengan baik.
 
 
-Gajah, monyet, air terjun dan jambatan.
+Dino berlari, kemudian terjatuh.
 
 
-Selesaikan sepuluh level di Lembah Buah dahulu, ya.
+Lutut Dino sakit.
 
 
-Hutan Haiwan, level satu.
+Dino sudah selesai bermain.
 
 
-Cari kelawar!
+Mainan bersepah di atas lantai.
 
 
-Hutan Haiwan, level dua.
+Bobo ikut ayah ke masjid.
 
 
-Siapa yang boleh terbang?
+Ramai orang sedang beribadah.
 
 
-Hutan Haiwan, level tiga.
+Bagaimana Bobo patut berkelakuan?
 
 
-Dengar bunyi ini.
+Nenek sedang demam.
 
 
-Siapa yang berbunyi begini?
+Ibu mengajak Coco pergi menziarahi nenek.
 
 
-Hutan Haiwan, level empat.
+Adik menangis kerana mainannya hilang.
 
 
-Harimau suka makan apa?
+Daun pokok bunga di taman layu.
 
 
-Hutan Haiwan, level lima.
+Hari sangat panas.
 
 
-Siapa ibunya?
-
-
-Hutan Haiwan, level enam.
-
-
-Kutip satu kek cawan!
-
-
-Hutan Haiwan, level tujuh.
-
-
-Cari ketam!
-
-
-Hutan Haiwan, level lapan.
+Ada kawan baru di kelas.

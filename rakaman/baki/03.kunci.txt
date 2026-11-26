@@ -1,85 +1,55 @@
-Jom warnakan kucing!
-Kawan kita, angkasawan, perlukan permata.
-Kawan kita, ayam, perlukan telur.
-Kawan kita, gurita, perlukan tiram.
-Kawan kita, kawan angkasa, perlukan bintang.
-Kawan kita, monyet, perlukan kacang.
-Kucing suka makan apa, ya?
-Kumpulan mana yang ada empat biji strawberi?
-Kumpulan mana yang ada enam biji telur?
-Kumpulan mana yang ada lapan ekor kumbang?
-Kumpulan mana yang ada lima biji telur?
-Kumpulan mana yang ada satu biji bola?
-Kumpulan mana yang ada satu biji pisang?
-Kumpulan mana yang ada sepuluh biji pisang?
-Kumpulan mana yang ada tujuh kuntum bunga?
-Kumpulan mana yang lebih banyak belon?
-Kumpulan mana yang lebih banyak kek cawan?
-Kumpulan mana yang lebih banyak oren?
-Kumpulan mana yang lebih banyak pisang?
-Kumpulan mana yang lebih sedikit pokok?
-Kura-kura tinggal di mana, ya?
-Lebah suka makan apa, ya?
-Lukis muka yang tersenyum!
-Mana anjing?
-Mana bayang burung hantu?
-Mana bayang ketam?
-Mana bayang roket?
-Mana bayang strawberi?
-Mana bayang tikus?
-Mana bayang zirafah?
-Mana burung helang?
-Mana burung?
-Mana huruf K kecil?
-Mana huruf M kecil?
-Mana ikan yu?
-Mana itik?
-Mana kelawar?
-Mana lidah?
-Mana mata?
-Mana mulut?
-Mana nombor empat?
-Mana nombor tujuh?
-Mana panda?
-Mana penguin?
-Mana reben yang paling panjang?
-Mana satu lagi huruf C?
-Mana satu lagi huruf F?
-Mana satu lagi huruf G?
-Mana satu lagi huruf I?
-Mana satu lagi huruf L?
-Mana singa?
-Mana stoking?
-Mana tikus?
-Mana topi?
-Mana yang lebih besar?
-Nombor enam
-Nombor lima
-Nombor satu
-Nombor sembilan
-Nombor tiga
-Ombak bermula dengan huruf apa, ya?
-Pesawat
-Pinggan
-Saya berbunyi kuak kuak.
-Saya bulat dan kamu sepak saya.
-Saya cair jika panas.
-Saya hijau dan suka melompat.
-Saya menunjukkan masa.
-Saya sejuk dan manis.
-Siapa yang berbunyi, Aummm!
-Siapa yang berbunyi, Mooo!
-Tangan terbuka
-Tolong kumpul empat komet untuk Roket Dino.
-Tolong kumpul empat kulit kerang untuk Kura-kura.
-Tolong kumpul tiga bulan untuk Roket Dino.
-Tolong kumpul tiga epal untuk Mimi.
-Tolong kumpul tiga komet untuk Roket Dino.
-Tolong kumpul tiga kulit kerang untuk Kura-kura.
-Tolong kumpul tiga strawberi untuk Coco.
-Tolong kumpul tiga telur untuk Mimi.
-Udang tinggal di mana, ya?
-Unta tinggal di mana, ya?
-Warnakan badan kereta dengan warna merah.
-Warnakan bas ikut warna kegemaran kamu!
-Warnakan bendera dengan warna merah.
+Bobo mahu beli madu empat ringgit.
+Coco mahu beli telur tujuh ringgit.
+Dino mahu beli oren enam ringgit.
+Mimi mahu beli oren lapan ringgit.
+Dino mahu beli pisang tiga ringgit.
+Lala mahu beli teh sembilan ringgit.
+Mimi mahu beli lobak merah tiga ringgit.
+Dino mahu beli tembikai tiga ringgit.
+Lala mahu beli beras empat ringgit.
+Bobo mahu beli lobak merah lima ringgit.
+Mimi mahu beli roti lapan ringgit.
+Lala mahu beli kurma lapan ringgit.
+Coco mahu beli tembikai dua ringgit.
+Coco mahu beli kelapa sembilan ringgit.
+Mimi mahu beli madu lapan ringgit.
+Lala mahu beli lobak merah sepuluh ringgit.
+Dino mahu beli jagung enam ringgit.
+Mimi mahu beli kuih sembilan ringgit.
+Coco mahu beli tembikai enam ringgit.
+Mimi mahu beli kek sepuluh ringgit.
+Lala mahu beli garam sepuluh ringgit.
+Dino mahu beli tembikai sepuluh ringgit.
+Coco mahu beli kelapa sepuluh ringgit.
+Coco mahu beli susu dua belas ringgit.
+Mimi mahu beli anggur dua belas ringgit.
+Bobo mahu beli susu enam ringgit.
+Bobo mahu beli lobak merah tujuh ringgit.
+Dino mahu beli oren tiga belas ringgit.
+Coco mahu beli kurma tujuh ringgit.
+Bobo mahu beli tembikai sebelas ringgit.
+Coco mahu beli mangga sepuluh ringgit.
+Lala mahu beli susu lima belas ringgit.
+Dino mahu beli gula lima belas ringgit.
+Lala mahu beli epal lima belas ringgit.
+Coco mahu beli kuih sembilan ringgit.
+Coco mahu beli garam enam belas ringgit.
+Bobo mahu beli nanas dua belas ringgit.
+Lala mahu beli pisang lapan ringgit.
+Coco mahu beli gula tujuh ringgit.
+Mimi mahu beli mi sembilan ringgit.
+Lala mahu beli mangga lapan ringgit.
+Coco mahu beli nanas tiga ringgit, dan lobak merah satu ringgit.
+Berapa jumlahnya?
+Bobo mahu beli ikan empat ringgit, dan kek dua ringgit.
+Mimi mahu beli mi empat ringgit, dan madu empat ringgit.
+Bobo mahu beli kelapa tiga ringgit, dan pisang lima ringgit.
+Mimi mahu beli oren empat ringgit, dan kurma dua ringgit.
+Lala mahu beli telur empat ringgit, dan roti lima ringgit.
+Bobo mahu beli anggur dua ringgit, dan nanas dua ringgit.
+Dino mahu beli kelapa satu ringgit, dan lobak merah empat ringgit.
+Lala mahu beli susu tiga ringgit, dan mi tiga ringgit.
+Coco mahu beli epal lima ringgit, dan kelapa satu ringgit.
+Lala mahu beli jagung dua ringgit, dan oren tiga ringgit.
+Bobo mahu beli kelapa tiga ringgit, dan tembikai empat ringgit.
+Bobo mahu beli mangga tiga ringgit, dan nanas lima ringgit.

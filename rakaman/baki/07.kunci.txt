@@ -1,82 +1,91 @@
-Siapa yang tinggal di darat dan tidak boleh terbang?
-Hutan Haiwan, level sembilan.
-Hutan Haiwan, level sepuluh.
-Itik suka makan apa?
-Hutan Haiwan, level sebelas.
-Cari gajah!
-Hutan Haiwan, level dua belas.
-Kutip tiga kek cawan!
-Hutan Haiwan, level tiga belas.
-Siapa yang tinggal di dalam air?
-Hutan Haiwan, level empat belas.
-Hutan Haiwan, level lima belas.
-Hutan Haiwan, level enam belas.
-Zebra suka makan apa?
-Cari kuda!
-Hutan Haiwan, level tujuh belas.
-Ini anak itik.
-Cari rama-rama!
-Hutan Haiwan, level lapan belas.
-Cari kambing!
-Hutan Haiwan, level sembilan belas.
-Cari unta!
-Hutan Haiwan, level dua puluh.
-Cari katak!
-Hutan Haiwan, level dua puluh satu.
-Hutan Haiwan, level dua puluh dua.
-Ikan paus suka makan apa?
-Cari sotong!
-Hutan Haiwan, level dua puluh tiga.
-Hutan Haiwan, level dua puluh empat.
-Anjing suka makan apa?
-Berapa anak ayam?
-Cari harimau!
-Hutan Haiwan, level dua puluh lima.
-Kutip dua bola!
-Cari monyet!
-Hutan Haiwan, level dua puluh enam.
-Cari ikan!
-Kutip dua anak ayam!
-Hutan Haiwan, level dua puluh tujuh.
-Hutan Haiwan, level dua puluh lapan.
-Kutip lima oren!
-Tikus suka makan apa?
-Hutan Haiwan, level dua puluh sembilan.
-Panda suka makan apa?
-Hutan Haiwan, level tiga puluh.
-Burung suka makan apa?
-Berapa bintang?
-Hutan Haiwan, level tiga puluh satu.
-Kutip lima bunga!
-Hutan Haiwan, level tiga puluh dua.
-Hutan Haiwan, level tiga puluh tiga.
-Cari lebah!
-Hutan Haiwan, level tiga puluh empat.
-Ayam suka makan apa?
-Hutan Haiwan, level tiga puluh lima.
-Zirafah suka makan apa?
-Hutan Haiwan, level tiga puluh enam.
-Kutip empat pensel!
-Hutan Haiwan, level tiga puluh tujuh.
-Katak suka makan apa?
-Hutan Haiwan, level tiga puluh lapan.
-Kutip lima kumbang!
-Hutan Haiwan, level tiga puluh sembilan.
-Hutan Haiwan, level empat puluh.
-Ikan suka makan apa?
-Hutan Haiwan, level empat puluh satu.
-Hutan Haiwan, level empat puluh dua.
-Hutan Haiwan, level empat puluh tiga.
-Hutan Haiwan, level empat puluh empat.
-Ikan lumba-lumba suka makan apa?
-Hutan Haiwan, level empat puluh lima.
-Hutan Haiwan, level empat puluh enam.
-Cari itik!
-Kutip dua kereta!
-Hutan Haiwan, level empat puluh tujuh.
-Hutan Haiwan, level empat puluh lapan.
-Hutan Haiwan, level empat puluh sembilan.
-Hutan Haiwan, level lima puluh.
-Udang suka makan apa?
-Bandar Warna.
-Bangunan mainan, lampu isyarat dan jalan pelangi.
+Kawan baru itu memakai cermin mata.
+Pakcik jiran sedang lalu di hadapan rumah.
+Mimi terjumpa sebatang pensel di lantai.
+Pensel itu milik Lala.
+Azan berkumandang.
+Sudah masuk waktu solat.
+Bobo sedang bermain.
+Dino mengambil nasi yang terlalu banyak.
+Dino sudah kenyang.
+Apa yang terbaik untuk lain kali?
+Ayah memanggil Lala dari dapur.
+Bagaimana Lala patut menjawab?
+Mimi ada bola baharu.
+Coco juga mahu bermain.
+Ada tabung derma di masjid.
+Ibu memberi Coco sekeping syiling.
+Apa yang Coco mahu buat?
+Bobo baru pulang dari bermain di luar.
+Tangan Bobo kotor.
+Apa yang Bobo buat sebelum makan?
+Dino sedang bermain buaian.
+Lala juga mahu naik buaian.
+Selamat datang ke Taman Akhlak!
+Jom pilih kebaikan, dan kebun kamu akan mekar.
+Cuba cari warna biru.
+Cuba cari warna coklat.
+Cuba cari warna hijau.
+Cuba cari warna hitam.
+Cuba cari warna kuning.
+Cuba cari warna merah jambu.
+Cuba cari warna merah.
+Cuba cari warna oren.
+Cuba cari warna putih.
+Cuba cari warna ungu.
+Ini warna biru.
+Ini warna hijau.
+Ini warna hitam.
+Hmm, kalau begitu, ada orang yang rasa sedih.
+Cuba pilih yang lain, ya.
+Hmm, kita makan dengan tangan kanan, ya.
+Hmm, taman jadi kotor.
+Hmm, air jadi membazir.
+Hmm, itu tidak benar.
+Hmm, kucing jadi takut dan sakit.
+Hmm, nanti Mimi penat esok.
+Hmm, kawan boleh jatuh sakit.
+Hmm, nanti ada orang tersadung.
+Hmm, pokok jadi rosak.
+Hmm, itu bukan milik kita.
+Hmm, waktu solat sudah tiba.
+Hmm, makanan jadi membazir.
+Hmm, hari ini kita mahu bersedekah.
+Hmm, kuman boleh masuk ke perut.
+Wisel
+Feri
+Zho
+satu ringgit.
+Betul, cukup-cukup!
+Tepat sekali!
+dua ringgit.
+tiga ringgit.
+empat ringgit.
+lima ringgit.
+tujuh ringgit.
+enam ringgit.
+lapan ringgit.
+sembilan ringgit.
+sepuluh ringgit.
+dua belas ringgit.
+tiga belas ringgit.
+sebelas ringgit.
+lima belas ringgit.
+enam belas ringgit.
+empat belas ringgit.
+Biru campur kuning, jadi hijau!
+Merah campur kuning, jadi oren!
+Merah campur biru, jadi ungu!
+Merah campur putih, jadi merah jambu!
+Kayu timbul di atas air!
+Kunci tenggelam ke dasar!
+Bola plastik timbul di atas air!
+Sepana tenggelam ke dasar!
+Daun timbul di atas air!
+Kelapa timbul di atas air!
+Batu tenggelam ke dasar!
+Itik getah timbul di atas air!
+Telur tenggelam ke dasar!
+Botol plastik kosong timbul di atas air!
+Gunting tenggelam ke dasar!
+Pensel timbul di atas air!
+Tepat!

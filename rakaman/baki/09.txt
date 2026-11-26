@@ -1,190 +1,262 @@
-[warmly] Selepas itu, apa pula?
+[cheerfully] Kereta Api kamu sama seperti pelan.
 
 
-Taman Dinosor, level tiga.
+Pokok Besar kamu sama seperti pelan.
 
 
-Taman Dinosor, level empat.
+Roket Besar kamu sama seperti pelan.
 
 
-Ingat urutan ini: bunga, kek cawan, bola.
+Piramid Tangga kamu sama seperti pelan.
 
 
-Taman Dinosor, level lima.
+Robot Besar kamu sama seperti pelan.
 
 
-Taman Dinosor, level enam.
+Taman Bunga kamu sama seperti pelan.
 
 
-Semua ini buah-buahan, kecuali satu.
+Kapal Layar Besar kamu sama seperti pelan.
 
 
-Cari yang lain!
+Istana Mawar kamu sama seperti pelan.
 
 
-Taman Dinosor, level tujuh.
+Red!
 
 
-Taman Dinosor, level lapan.
+Yellow!
 
 
-Taman Dinosor, level sembilan.
+Green!
 
 
-Taman Dinosor, level sepuluh.
+Blue!
 
 
-Ingat urutan ini: bintang, kek cawan, bola.
+Brown!
 
 
-Taman Dinosor, level sebelas.
+Purple!
 
 
-Taman Dinosor, level dua belas.
+Pink!
 
 
-Semua ini haiwan, kecuali satu.
+Orange!
 
 
-Taman Dinosor, level tiga belas.
+Itu warna putih.
 
 
-Ingat urutan ini: bunga, anak ayam, kumbang.
+White!
 
 
-Taman Dinosor, level empat belas.
+Itu warna hitam.
 
 
-Ingat urutan ini: pensel, telur, belon.
+Black!
 
 
-Taman Dinosor, level lima belas.
+Bola sampai ke penamat!
 
 
-Taman Dinosor, level enam belas.
+Si Bulat sampai dengan selamat!
 
 
-Ingat urutan ini: kura-kura, pensel, bunga.
+Assalamualaikum, Datuk!
 
 
-Taman Dinosor, level tujuh belas.
+Datuk tersenyum gembira.
 
 
-Taman Dinosor, level lapan belas.
+Apabila berjumpa, kita memberi salam.
 
 
-Taman Dinosor, level sembilan belas.
+Bobo makan dengan tangan kanan.
 
 
-Ingat urutan ini: anak ayam, ikan, pensel.
+Sebelum makan, baca Bismillah.
 
 
-Taman Dinosor, level dua puluh.
+Kita makan dengan tangan kanan.
 
 
-Taman Dinosor, level dua puluh satu.
+Dino gembira.
 
 
-Semua ini sayur-sayuran, kecuali satu.
+Terima kasih, Coco!
 
 
-Taman Dinosor, level dua puluh dua.
+Berkongsi membuatkan kawan gembira.
 
 
-Ingat urutan ini: strawberi, pensel, telur.
+Taman kekal bersih dan cantik!
 
 
-Taman Dinosor, level dua puluh tiga.
+Buang sampah ke dalam tong sampah.
 
 
-Semua ini kenderaan, kecuali satu.
+Air tidak membazir.
 
 
-Taman Dinosor, level dua puluh empat.
+Pandai, Dino!
 
 
-Ingat urutan ini: kura-kura, pisang, ikan.
+Jangan membazir air.
 
 
-Taman Dinosor, level dua puluh lima.
+Bobo memaafkan Lala.
 
 
-Taman Dinosor, level dua puluh enam.
+Mereka bina bersama-sama!
 
 
-Taman Dinosor, level dua puluh tujuh.
+Apabila bersalah, kita minta maaf.
 
 
-Taman Dinosor, level dua puluh lapan.
+Terima kasih, Mimi.
 
 
-Ingat urutan ini: anak ayam, kumbang, bintang.
+Ibu sayang Mimi!
 
 
-Taman Dinosor, level dua puluh sembilan.
+Kita tolong ibu bapa di rumah.
 
 
-Taman Dinosor, level tiga puluh.
+Ayah bangga kerana Bobo jujur.
 
 
-Taman Dinosor, level tiga puluh satu.
+Kita sentiasa berkata benar.
 
 
-Ingat urutan ini: bunga, bola, pisang.
+Kucing makan dengan gembira.
 
 
-Taman Dinosor, level tiga puluh dua.
+Meow!
 
 
-Taman Dinosor, level tiga puluh tiga.
+Kita sayang haiwan.
 
 
-Ingat urutan ini: belon, kumbang, pisang.
+Sabar menunggu giliran.
 
 
-Taman Dinosor, level tiga puluh empat.
+Hebat, Dino!
 
 
-Ingat urutan ini: strawberi, kereta, epal.
+Kita beratur dan tunggu giliran.
 
 
-Taman Dinosor, level tiga puluh lima.
+Nenek tersenyum.
 
 
-Ingat urutan ini: kumbang, epal, rama-rama.
+Sama-sama, sayang.
 
 
-Taman Dinosor, level tiga puluh enam.
+Apabila menerima sesuatu, ucapkan terima kasih.
 
 
-Ingat urutan ini: kek cawan, kura-kura, bunga.
+Mimi membaca doa, kemudian tidur dengan tenang.
 
 
-Taman Dinosor, level tiga puluh tujuh.
+Sebelum tidur, kita membaca doa.
 
 
-Taman Dinosor, level tiga puluh lapan.
+Kawan menjawab, Yarhamukallah.
 
 
-Ingat urutan ini: bunga, kumbang, bola.
+Tutup mulut ketika bersin dan ucap Alhamdulillah.
 
 
-Taman Dinosor, level tiga puluh sembilan.
+Coco dapat belajar banyak perkara!
 
 
-Taman Dinosor, level empat puluh.
+Kita mendengar ketika guru bercakap.
 
 
-Ingat urutan ini: oren, strawberi, belon.
+Terima kasih, Lala.
 
 
-Taman Dinosor, level empat puluh satu.
+Dino rasa lebih baik.
 
 
-Ingat urutan ini: kek cawan, bunga, strawberi, ikan.
+Kita menolong kawan yang dalam kesusahan.
 
 
-Taman Dinosor, level empat puluh dua.
+Bilik jadi kemas dan selamat!
 
 
-Ingat urutan ini: kereta, bola, pisang, kumbang.
+Selepas bermain, kita kemas semula.
+
+
+Masjid tenang.
+
+
+Semua orang dapat beribadah.
+
+
+Di masjid, kita tenang dan beradab.
+
+
+Nenek gembira dikunjungi cucu.
+
+
+Kita menziarahi saudara yang sakit.
+
+
+Adik berhenti menangis dan tersenyum.
+
+
+Kita sayang dan menjaga adik.
+
+
+Pokok segar semula.
+
+
+Bunga pun mekar!
+
+
+Kita menjaga tumbuhan ciptaan Allah.
+
+
+Mereka jadi kawan baik!
+
+
+Jangan mengejek.
+
+
+Semua orang boleh jadi kawan.
+
+
+Pakcik membalas senyuman.
+
+
+Senyum itu sedekah.
+
+
+Senyuman kepada orang lain ialah satu kebaikan.
+
+
+Kamu amanah!
+
+
+Kita pulangkan barang milik orang lain.
+
+
+Bobo solat bersama ayah.
+
+
+Apabila azan, kita bersiap untuk solat.
+
+
+Tiada makanan dibazirkan.
+
+
+Ambil makanan secukupnya.
+
+
+Jangan membazir.
+
+
+Ayah gembira mendengar jawapan yang sopan.

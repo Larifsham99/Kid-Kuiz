@@ -1,83 +1,78 @@
-Pilih yang paling besar!
-Cari anggur!
-Lembah Buah, level sembilan belas.
-Kutip empat rama-rama!
-Lembah Buah, level dua puluh.
-empat tambah satu, jadi berapa?
-Lembah Buah, level dua puluh satu.
-Cari benda berwarna merah!
-Lembah Buah, level dua puluh dua.
-Cari beri biru!
-Cari haiwan!
-Lembah Buah, level dua puluh tiga.
-Lembah Buah, level dua puluh empat.
-Cari benda berwarna biru!
-Kutip empat pisang!
-Lembah Buah, level dua puluh lima.
-Cari kiwi!
-Lembah Buah, level dua puluh enam.
-Lembah Buah, level dua puluh tujuh.
-lima tambah dua, jadi berapa?
-Lembah Buah, level dua puluh lapan.
-Lembah Buah, level dua puluh sembilan.
-Lembah Buah, level tiga puluh.
-lima tambah empat, jadi berapa?
-Lembah Buah, level tiga puluh satu.
-Berapa pokok?
-Lembah Buah, level tiga puluh dua.
-Cari nombor tujuh!
-Lembah Buah, level tiga puluh tiga.
-Kutip empat oren!
-Cari benda berwarna ungu!
-Lembah Buah, level tiga puluh empat.
-tiga tambah satu, jadi berapa?
-Lembah Buah, level tiga puluh lima.
-tiga tambah empat, jadi berapa?
-Cari oren!
-Lembah Buah, level tiga puluh enam.
-Cari pear!
-Lembah Buah, level tiga puluh tujuh.
-satu tambah satu, jadi berapa?
-Cari pic!
-Lembah Buah, level tiga puluh lapan.
-lima tambah tiga, jadi berapa?
-Cari pisang!
-Lembah Buah, level tiga puluh sembilan.
-Lembah Buah, level empat puluh.
-empat tambah tiga, jadi berapa?
-Lembah Buah, level empat puluh satu.
-Lembah Buah, level empat puluh dua.
-Lembah Buah, level empat puluh tiga.
-Lembah Buah, level empat puluh empat.
-Lembah Buah, level empat puluh lima.
-Cari tembikai!
-Kutip lima epal!
-Lembah Buah, level empat puluh enam.
-Cari mangga!
-Lembah Buah, level empat puluh tujuh.
-Cari benda berwarna hijau!
-Cari lemon!
-Lembah Buah, level empat puluh lapan.
-Kutip empat ikan!
-Lembah Buah, level empat puluh sembilan.
-Cari benda berwarna merah jambu!
-Lembah Buah, level lima puluh.
-Hutan Haiwan.
-Gajah, monyet, air terjun dan jambatan.
-Selesaikan sepuluh level di Lembah Buah dahulu, ya.
-Hutan Haiwan, level satu.
-Cari kelawar!
-Hutan Haiwan, level dua.
-Siapa yang boleh terbang?
-Hutan Haiwan, level tiga.
-Dengar bunyi ini.
-Siapa yang berbunyi begini?
-Hutan Haiwan, level empat.
-Harimau suka makan apa?
-Hutan Haiwan, level lima.
-Siapa ibunya?
-Hutan Haiwan, level enam.
-Kutip satu kek cawan!
-Hutan Haiwan, level tujuh.
-Cari ketam!
-Hutan Haiwan, level lapan.
+Putar paparan dan teliti setiap tingkat.
+Cabaran Arkitek: bina Istana Kecil!
+Cabaran Arkitek: bina Kereta Api!
+Cabaran Arkitek: bina Pokok Besar!
+Cabaran Arkitek: bina Roket Besar!
+Cabaran Arkitek: bina Piramid Tangga!
+Cabaran Arkitek: bina Robot Besar!
+Cabaran Arkitek: bina Taman Bunga!
+Cabaran Arkitek: bina Kapal Layar Besar!
+Cabaran Arkitek: bina Istana Mawar!
+Jom jadi Pemburu Warna!
+Tekan Buka kamera.
+Tekan gambar yang berwarna merah.
+Tekan gambar yang berwarna kuning.
+Tekan gambar yang berwarna hijau.
+Tekan gambar yang berwarna biru.
+Tekan gambar yang berwarna coklat.
+Tekan gambar yang berwarna ungu.
+Tekan gambar yang berwarna merah jambu.
+Tekan gambar yang berwarna oren.
+Tekan gambar yang berwarna putih.
+Tekan gambar yang berwarna hitam.
+Pegang telefon dengan selesa, seperti sedang membaca.
+Tok, tok, tok!
+Datuk datang ke rumah.
+Mimi nampak Datuk di pintu.
+Apa yang Mimi patut buat?
+Nasi sudah terhidang.
+Bobo lapar.
+Bobo mahu mula makan.
+Bagaimana Bobo patut makan?
+Coco ada dua keping biskut.
+Dino tidak ada bekal hari ini.
+Apa yang Coco patut buat?
+Lala habis minum air kotak.
+Kotak kosong ada di tangan Lala.
+Di mana Lala patut buang kotak itu?
+Dino sudah siap basuh tangan.
+Tetapi air paip masih mengalir.
+Apa yang Dino patut buat?
+Bobo membina menara blok yang tinggi.
+Alamak!
+Lala terlanggar menara itu.
+Apa yang Lala patut buat?
+Ibu membawa banyak pinggan.
+Pinggan itu berat.
+Bola Bobo terkena pasu bunga.
+Pasu itu pecah.
+Ayah bertanya, siapa yang pecahkan pasu?
+Apa yang Bobo patut jawab?
+Ada seekor kucing kecil di taman.
+Kucing itu kelihatan lapar.
+Ramai orang sedang beratur untuk membayar.
+Dino mahu membayar juga.
+Nenek memberi Lala sebuah hadiah.
+Hadiah itu berbalut cantik.
+Apa yang Lala patut katakan?
+Hari sudah malam.
+Mimi sudah gosok gigi dan mahu tidur.
+Apa yang Mimi buat sebelum tidur?
+Hidung Bobo gatal.
+Bobo mahu bersin.
+Apa yang Bobo patut buat?
+Cikgu sedang bercerita di hadapan kelas.
+Kawan-kawan duduk dengan baik.
+Dino berlari, kemudian terjatuh.
+Lutut Dino sakit.
+Dino sudah selesai bermain.
+Mainan bersepah di atas lantai.
+Bobo ikut ayah ke masjid.
+Ramai orang sedang beribadah.
+Bagaimana Bobo patut berkelakuan?
+Nenek sedang demam.
+Ibu mengajak Coco pergi menziarahi nenek.
+Adik menangis kerana mainannya hilang.
+Daun pokok bunga di taman layu.
+Hari sangat panas.
+Ada kawan baru di kelas.

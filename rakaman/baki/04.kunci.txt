@@ -1,91 +1,69 @@
-Warnakan buah epal dengan warna merah.
-Warnakan hidung dengan warna merah jambu.
-Yang mana satu bukan tumbuhan?
-Gunung
-Mahkota
-Main lagi
-Makan kentang goreng
-Nombor empat
-Nombor tujuh
-Udang kecil
-Yoyo
-Litar Kampung.
-Rumah kampung, sawah dan pokok kelapa.
-Level juara!
-Sedia?
-Litar Kampung, level satu.
-Cari huruf E!
-Litar Kampung, level dua.
-Cari gambar yang bermula dengan huruf H!
-Litar Kampung, level tiga.
-Cari nombor dua!
-Litar Kampung, level empat.
-Kutip satu oren!
-Elak halangan di hadapan!
-Litar Kampung, level lima.
-Pilih laluan warna biru!
-Kutip dua bintang!
-Litar Kampung, level enam.
-Jom eja ubi.
-Tekan huruf mengikut urutan.
-Litar Kampung, level tujuh.
-Litar Kampung, level lapan.
-Litar Kampung, level sembilan.
-Cari gambar yang bermula dengan huruf N!
-Litar Kampung, level sepuluh.
-Cari nombor lima!
-Litar Kampung, level sebelas.
-Pilih laluan warna merah!
-Kutip tiga belon!
-Litar Kampung, level dua belas.
-Kutip tiga telur!
-Pilih laluan warna coklat!
-Litar Kampung, level tiga belas.
-Feri bermula dengan huruf apa?
-Jom eja api.
-Kutip tiga bintang!
-Litar Kampung, level empat belas.
-Berapa kereta?
-Kira dan pilih nombornya.
-Litar Kampung, level lima belas.
-Cari huruf K!
-Cari nombor enam!
-Litar Kampung, level enam belas.
-Kutip tiga pisang!
-Cari gambar yang bermula dengan huruf M!
-Litar Kampung, level tujuh belas.
-Cari nombor satu!
-Kutip dua huruf F!
-Litar Kampung, level lapan belas.
-Zebra bermula dengan huruf apa?
-Kutip tiga kura-kura!
-Litar Kampung, level sembilan belas.
-Pilih laluan warna oren!
-Cari huruf C!
-Litar Kampung, level dua puluh.
-Jom eja jam.
-Litar Kampung, level dua puluh satu.
-Pilih laluan warna kuning!
-Litar Kampung, level dua puluh dua.
-Cari huruf V!
-Berapa telur?
-Litar Kampung, level dua puluh tiga.
-Gigi bermula dengan huruf apa?
-Kutip empat bintang!
-Litar Kampung, level dua puluh empat.
-Berapa rama-rama?
-Litar Kampung, level dua puluh lima.
-Berapa bola?
-Litar Kampung, level dua puluh enam.
-Jom eja feri.
-Litar Kampung, level dua puluh tujuh.
-Cari gambar yang bermula dengan huruf R!
-Jom eja dram.
-Litar Kampung, level dua puluh lapan.
-Litar Kampung, level dua puluh sembilan.
-Berapa bunga?
-Cari huruf T!
-Litar Kampung, level tiga puluh.
-Wang bermula dengan huruf apa?
-Jom eja wau.
-Litar Kampung, level tiga puluh satu.
+Mimi mahu beli lobak merah satu ringgit, dan mi satu ringgit.
+Dino mahu beli sayur lima ringgit, dan kuih empat ringgit.
+Mimi mahu beli gula lima ringgit, dan madu lapan ringgit.
+Dino mahu beli epal lima ringgit, dan telur sembilan ringgit.
+Lala mahu beli mi tiga ringgit, dan nanas lima ringgit.
+Mimi mahu beli oren enam ringgit, dan mi lapan ringgit.
+Lala mahu beli oren enam ringgit, dan beras enam ringgit.
+Dino mahu beli madu lapan ringgit, dan telur tujuh ringgit.
+Dino mahu beli anggur enam ringgit, dan tembikai tiga ringgit.
+Coco mahu beli roti tujuh ringgit, dan gula tiga ringgit.
+Lala mahu beli teh satu ringgit, dan mangga lapan ringgit.
+Coco mahu beli kek empat ringgit, dan lobak merah empat ringgit.
+Mimi mahu beli sayur tujuh ringgit, dan anggur dua ringgit.
+Bobo mahu beli kuih dua ringgit, dan pisang tiga ringgit.
+Lala mahu beli madu satu ringgit, dan sayur enam ringgit.
+Dino mahu beli kurma lapan ringgit, dan mangga tujuh ringgit.
+Mimi mahu beli madu sembilan ringgit, dan gula dua ringgit.
+Jom jadi saintis!
+Buat warna hijau.
+Pilih dua cat untuk dicampur.
+Buat warna oren!
+Pilih dua cat.
+Buat warna ungu!
+Buat warna merah jambu!
+Kayu.
+Timbul atau tenggelam?
+Cuba teka!
+Bola plastik.
+Sepana.
+Batu.
+Itik getah.
+Botol plastik kosong.
+Gunting.
+Benda mana yang akan timbul?
+Tekan semuanya, kemudian tekan Uji!
+Melekat pada magnet atau tidak?
+Peniti.
+Kertas.
+Paku.
+Klip kertas.
+Skru.
+Pemadam.
+Benda mana yang akan melekat pada magnet?
+Jom belajar berwuduk!
+Mula dengan membaca Bismillah.
+Basuh kedua-dua tapak tangan, tiga kali.
+Berkumur-kumur, tiga kali.
+Masukkan sedikit air ke hidung, kemudian hembus.
+Tiga kali.
+Basuh muka tiga kali, sambil berniat di dalam hati: Sahaja aku mengangkat hadas kecil kerana Allah Taala.
+Basuh tangan kanan hingga ke siku, tiga kali.
+Sekarang tangan kiri pula, hingga ke siku.
+Sapu sebahagian kepala dengan tangan yang basah.
+Sapu kedua-dua telinga.
+Basuh kaki kanan hingga ke buku lali, tiga kali.
+Akhir sekali, kaki kiri hingga ke buku lali.
+Wuduk sudah selesai.
+Jom baca doa selepas wuduk.
+Tertib ialah salah satu rukun wuduk.
+Susun tiga langkah ini ikut urutan yang betul!
+Baca Bismillah
+Basuh tapak tangan
+Satu lagi!
+Susun ikut tertib.
+Sapu telinga
+Basuh kaki kanan hingga buku lali
+Sapu sebahagian kepala
+Susun empat langkah ini ikut urutan yang betul!
+Basuh tangan kiri hingga siku

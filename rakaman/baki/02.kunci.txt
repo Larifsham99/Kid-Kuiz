@@ -1,90 +1,94 @@
-Mana bentuk segi empat tepat?
-Mana gaun?
-Mana gurita?
-Mana hidung?
-Mana lebah?
-Mana nombor enam?
-Mana nombor lima?
-Mana nombor satu?
-Mana nombor sembilan?
-Mana nombor tiga?
-Mana otak?
-Mana satu lagi huruf E?
-Mana satu lagi huruf H?
-Mana tangan?
-Mana warna ungu?
-Monyet suka makan saya.
-Mooo!
-Nombor dua
-Saya kuning dan panjang.
-Saya membantu kamu melihat dalam gelap.
-Seluar pendek
-Siapa yang berbunyi, Hu, hu!
-Siapa yang berbunyi, Kuak, kuak!
-Siapa yang berbunyi, Kuek, kuek!
-Teksi
-Tikus suka makan apa, ya?
-Tolong kumpul empat lobak merah untuk Mimi.
-Tolong kumpul empat permata untuk Roket Dino.
-Tolong kumpul tiga cendawan untuk Coco.
-Tolong kumpul tiga tiram untuk Kura-kura.
-Warnakan badan bas dengan warna kuning.
-Warnakan belon kanan dengan warna biru.
-Warnakan isi tembikai dengan warna merah.
-Warnakan kereta ikut warna kegemaran kamu!
-Yang mana satu boleh kita jumpa di angkasa?
-Yang mana satu boleh kita jumpa di ladang?
-Ada dua lemon yang menyorok.
-Ada dua singa yang menyorok.
-Ada epal yang menyorok.
-Ada ikan lumba-lumba yang menyorok.
-Ada panda yang menyorok.
-Ada roket yang menyorok.
-Ayam suka makan apa, ya?
-Badan berpeluh selepas bermain.
-Burung helang tinggal di mana, ya?
-Burung tinggal di mana, ya?
-Cili bermula dengan huruf apa, ya?
-Di mana Arnab?
-Di mana Harimau?
-Di mana Kambing?
-Gambar mana yang bermula dengan C?
-Gambar mana yang bermula dengan D?
-Gambar mana yang bermula dengan E?
-Gambar mana yang bermula dengan F?
-Gambar mana yang bermula dengan G?
-Gambar mana yang bermula dengan H?
-Gambar mana yang bermula dengan J?
-Gambar mana yang bermula dengan L?
-Helikopter bermula dengan huruf apa, ya?
-Ikan lumba-lumba tinggal di mana, ya?
-Ikan paus tinggal di mana, ya?
-Ini anak anjing.
-Ini anak gajah.
-Ini cili.
-Ini helikopter.
-Ini huruf C.
-Ini huruf F.
-Ini huruf G.
-Ini huruf I.
-Ini huruf K besar.
-Ini huruf L.
-Ini huruf M besar.
-Ini ombak.
-Itik bermula dengan huruf apa, ya?
-Itik tinggal di mana, ya?
-Jangan langgar ketulan ais, ya.
-Jom cari huruf D!
-Jom cari huruf F!
-Jom cari huruf G!
-Jom cari huruf L!
-Jom cari huruf M!
-Jom cari huruf Q!
-Jom cari huruf S!
-Jom kira, ada berapa biji pisang?
-Jom surih huruf C guna jari.
-Jom surih huruf H guna jari.
-Jom surih huruf L guna jari.
-Jom surih huruf T guna jari.
-Jom warnakan epal!
-Jom warnakan kereta!
+Selamat petang, Intan Payung!
+Selamat malam, Intan Payung!
+Ini Laluan Bijak, Intan Payung!
+Itu H.
+Itu Aiskrim.
+Itu Pic.
+Cari huruf H.
+Jom rehatkan mata, Abang!
+Jom rehatkan mata, Adik!
+Jom rehatkan mata, Beybi!
+Jom rehatkan mata, Manja!
+Jom rehatkan mata, Intan Payung!
+Jim
+Tsa
+Ain
+Dhod
+Api!
+E
+H
+Jip Hutan
+Pelekat wau
+Bila kita baca doa ini?
+Kho
+Terus tidur
+Maksudnya: Wahai Tuhanku, tambahkanlah ilmuku.
+Maksudnya: Aku memohon keampunan-Mu.
+Maksudnya: Dengan nama-Mu ya Allah, aku mati dan aku hidup.
+Maksudnya: Dengan nama Allah.
+Manusia salji
+Gaul
+Mula dengan H, ya.
+Naik bas
+Ngiau, ngiau!
+Ada sepuluh biji epal.
+Ini aiskrim.
+Ini coklat.
+Ini epal.
+Ini feri.
+Jom surih huruf I guna jari.
+Jom surih huruf V guna jari.
+Jom surih huruf W guna jari.
+Jom surih nombor tujuh guna jari.
+Mana bentuk bujur?
+Niu, niu, niu!
+Tekan semua huruf H yang kamu nampak!
+Warnakan badan dengan warna coklat.
+Warnakan belon kiri dengan warna merah.
+Aiskrim
+Datang lagi esok ya!
+E untuk Epal
+H untuk Harimau
+Hai Kakak!
+Jom dapatkan versi penuh Bijaku!
+Jom rehatkan mata, Kakak!
+Jom teroka Dunia Bijaku!
+Kamu suka dipanggil apa?
+Orang utan
+Permainan ini sedang dikunci oleh ibu bapa.
+Pilih satu pulau.
+Priiit!
+Prok, prok, prok!
+Selamat datang ke Bijaku, Kakak!
+Semua cabaran hari ini sudah selesai.
+Tamatkan semua level Asah Minda untuk mendapat sijil.
+Tik, tok, tik, tok!
+Wang
+Wiu, wiu!
+Wuuu,
+Y untuk Yoyo
+Z untuk Zirafah
+Selamat datang ke Bijaku, Adik!
+Ini Laluan Bijak, Adik!
+Setiap hari, ikut tiga langkah.
+Tekan bulatan yang bersinar untuk mula.
+Bobo mahu beli lobak merah satu ringgit.
+Tekan duit.
+Kemudian tekan Bayar!
+Lala mahu beli kuih satu ringgit.
+Bayar dengan tepat!
+Mimi mahu beli susu satu ringgit.
+Mimi mahu beli telur satu ringgit.
+Coco mahu beli jagung dua ringgit.
+Bobo mahu beli mangga dua ringgit.
+Lala mahu beli mi tiga ringgit.
+Bobo mahu beli oren tiga ringgit.
+Mimi mahu beli madu dua ringgit.
+Coco mahu beli telur empat ringgit.
+Lala mahu beli kuih lima ringgit.
+Dino mahu beli teh lima ringgit.
+Dino mahu beli lobak merah empat ringgit.
+Coco mahu beli nanas empat ringgit.
+Bobo mahu beli mangga lima ringgit.
+Dino mahu beli oren lima ringgit.
+Mimi mahu beli madu lima ringgit.

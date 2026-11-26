@@ -1,76 +1,56 @@
-Taman Dinosor, level empat puluh tiga.
-Taman Dinosor, level empat puluh empat.
-Ingat urutan ini: kek cawan, kereta, oren, ikan.
-Taman Dinosor, level empat puluh lima.
-Taman Dinosor, level empat puluh enam.
-Ingat urutan ini: strawberi, rama-rama, telur, anak ayam.
-Taman Dinosor, level empat puluh tujuh.
-Taman Dinosor, level empat puluh lapan.
-Taman Dinosor, level empat puluh sembilan.
-Ingat urutan ini: strawberi, anak ayam, epal, pensel.
-Taman Dinosor, level lima puluh.
-Ingat urutan ini: oren, anak ayam, pensel, ikan.
-Pulau Ombak.
-Pantai, penyu, batu karang dan rumah api.
-Selesaikan sepuluh level di Taman Dinosor dahulu, ya.
-Pulau Ombak, level satu.
-Pulau Ombak, level dua.
-Pulau Ombak, level tiga.
-Kutip dua segi tiga!
-Pulau Ombak, level empat.
-Kutip satu kereta!
-Pulau Ombak, level lima.
-Pulau Ombak, level enam.
-Kenderaan mana yang terbang di udara?
-Pulau Ombak, level tujuh.
-Pulau Ombak, level lapan.
-Pulau Ombak, level sembilan.
-Cari bentuk bulatan!
-Pulau Ombak, level sepuluh.
-Pulau Ombak, level sebelas.
-Kenderaan mana yang bergerak di jalan raya?
-Pulau Ombak, level dua belas.
-Kenderaan mana yang bergerak di air?
-Pulau Ombak, level tiga belas.
-Kutip empat kumbang!
-Pulau Ombak, level empat belas.
-Kutip dua rama-rama!
-Pulau Ombak, level lima belas.
-Kutip dua segi empat sama!
-Pulau Ombak, level enam belas.
-Kutip tiga pokok!
-Pulau Ombak, level tujuh belas.
-Kutip dua kura-kura!
-Pulau Ombak, level lapan belas.
-Cari lembu!
-Pulau Ombak, level sembilan belas.
-Pulau Ombak, level dua puluh.
-Pulau Ombak, level dua puluh satu.
-Kutip empat hati!
-Pulau Ombak, level dua puluh dua.
-Pulau Ombak, level dua puluh tiga.
-Cari biri-biri!
-Pulau Ombak, level dua puluh empat.
-Cari zirafah!
-Pulau Ombak, level dua puluh lima.
-Pulau Ombak, level dua puluh enam.
-Cari burung hantu!
-Kutip empat bulatan!
-Pulau Ombak, level dua puluh tujuh.
-Pulau Ombak, level dua puluh lapan.
-Cari burung!
-Pulau Ombak, level dua puluh sembilan.
-Pulau Ombak, level tiga puluh.
-Pulau Ombak, level tiga puluh satu.
-Pulau Ombak, level tiga puluh dua.
-Cari tikus!
-Pulau Ombak, level tiga puluh tiga.
-Kutip tiga anak ayam!
-Pulau Ombak, level tiga puluh empat.
-Pulau Ombak, level tiga puluh lima.
-Kutip lima bintang!
-Cari beruang!
-Pulau Ombak, level tiga puluh enam.
-Pulau Ombak, level tiga puluh tujuh.
-Pulau Ombak, level tiga puluh lapan.
-Cari zebra!
+Kita bercakap dengan sopan kepada ibu bapa.
+Main bersama lebih seronok!
+Berkongsi mainan dengan kawan.
+Sedekah membantu orang lain.
+Bersedekah membantu orang yang memerlukan.
+Tangan bersih, badan sihat!
+Kebersihan sebahagian daripada iman.
+Basuh tangan sebelum makan.
+Dino turun dan memberi giliran kepada Lala.
+Bersabar menunggu giliran.
+Rekod baharu!
+Membasuh muka (dengan niat)
+Qof
+Wau
+Maksudnya: Dengan nama Allah, aku bertawakal kepada Allah; tiada daya dan kekuatan melainkan dengan Allah.
+Maksudnya: Segala puji bagi Allah yang menghidupkan kami setelah mematikan kami, dan kepada-Nya kami kembali.
+Maksudnya: Wahai Tuhanku, ampunkanlah aku dan kedua ibu bapaku.
+Susun huruf hijaiyah mengikut urutan, bermula dengan Alif.
+Susun huruf hijaiyah mengikut urutan, bermula dengan Zho.
+Susun nama nabi mengikut urutan, bermula dengan Nabi Ismail.
+Tho
+Ya
+Apakah rukun Islam yang keempat?
+Apakah rukun Islam yang kelima?
+Apakah rukun Islam yang ketiga?
+Maksudnya: Segala puji bagi Allah.
+Maksudnya: Ya Allah, aku berlindung kepada-Mu daripada syaitan lelaki dan perempuan.
+Huruf Zho
+Sijil pencapaian A, B, C Ceria untuk Abang.
+Sijil pencapaian Dunia Nombor untuk Abang.
+Sijil pencapaian Warna dan Bentuk untuk Abang.
+Sijil pencapaian Teka Bunyi untuk Abang.
+Sijil pencapaian Pazel Pintar untuk Abang.
+Sijil pencapaian Ingatan Hebat untuk Abang.
+Sijil pencapaian Seni dan Mewarna untuk Abang.
+Sijil pencapaian Cari Bayang untuk Abang.
+Sijil pencapaian Maze Pengembaraan untuk Abang.
+Sijil pencapaian Kehidupan Harian untuk Abang.
+Sijil pencapaian Bijak Mengelaskan untuk Abang.
+Sijil pencapaian Si Cilik Soleh untuk Abang.
+Sijil pencapaian Dunia Haiwan untuk Abang.
+Sijil pencapaian Asah Minda untuk Abang.
+Sijil pencapaian Misi Pengembaraan untuk Abang.
+Sijil pencapaian A, B, C Ceria untuk Adik.
+Sijil pencapaian Dunia Nombor untuk Adik.
+Sijil pencapaian Warna dan Bentuk untuk Adik.
+Sijil pencapaian Teka Bunyi untuk Adik.
+Sijil pencapaian Pazel Pintar untuk Adik.
+Sijil pencapaian Ingatan Hebat untuk Adik.
+Sijil pencapaian Seni dan Mewarna untuk Adik.
+Sijil pencapaian Cari Bayang untuk Adik.
+Sijil pencapaian Maze Pengembaraan untuk Adik.
+Sijil pencapaian Kehidupan Harian untuk Adik.
+Sijil pencapaian Bijak Mengelaskan untuk Adik.
+Sijil pencapaian Si Cilik Soleh untuk Adik.
+Sijil pencapaian Dunia Haiwan untuk Adik.

@@ -1,226 +1,196 @@
-[warmly] Selesaikan sepuluh level di Hutan Haiwan dahulu, ya.
+[cheerfully] Daun dan itik getah timbul!
 
 
-Bandar Warna, level satu.
+Bulu burung dan epal timbul!
 
 
-Bandar Warna, level dua.
+Span dan bulu burung timbul!
 
 
-Cari bentuk segi empat sama!
+Kelapa timbul!
 
 
-Bandar Warna, level tiga.
+Epal timbul!
 
 
-Bandar Warna, level empat.
+Epal tidak melekat pada magnet.
 
 
-Apa yang datang seterusnya?
+Peniti diperbuat daripada besi, jadi ia melekat pada magnet!
 
 
-Bandar Warna, level lima.
+Kertas tidak melekat pada magnet.
 
 
-Bandar Warna, level enam.
+Gunting diperbuat daripada besi, jadi ia melekat pada magnet!
 
 
-Bandar Warna, level tujuh.
+Itik getah tidak melekat pada magnet.
 
 
-Cari bentuk bintang!
+Gelas tidak melekat pada magnet.
 
 
-Bandar Warna, level lapan.
+Paku diperbuat daripada besi, jadi ia melekat pada magnet!
 
 
-Bandar Warna, level sembilan.
+Klip kertas diperbuat daripada besi, jadi ia melekat pada magnet!
 
 
-Bandar Warna, level sepuluh.
+Kayu tidak melekat pada magnet.
 
 
-Bandar Warna, level sebelas.
+Bola plastik tidak melekat pada magnet.
 
 
-Cari benda berwarna oren!
+Skru diperbuat daripada besi, jadi ia melekat pada magnet!
 
 
-Bandar Warna, level dua belas.
+Pemadam tidak melekat pada magnet.
 
 
-Cari bentuk hati!
+Sepana melekat pada magnet!
 
 
-Bandar Warna, level tiga belas.
+Paku melekat pada magnet!
 
 
-Bandar Warna, level empat belas.
+Peniti dan klip kertas melekat pada magnet!
 
 
-Bandar Warna, level lima belas.
+Sepana dan skru melekat pada magnet!
 
 
-Berapa pisang?
+Klip kertas melekat pada magnet!
 
 
-Bandar Warna, level enam belas.
+Alhamdulillah, wuduk kamu sudah sempurna!
 
 
-Bandar Warna, level tujuh belas.
+Tertib!
 
 
-Kutip tiga segi empat sama!
+Semua langkah tersusun dengan betul.
 
 
-Bandar Warna, level lapan belas.
+Selepas itu, basuh tapak tangan.
 
 
-Bandar Warna, level sembilan belas.
+Selepas itu, berkumur.
 
 
-Kutip tiga hati!
+Selepas itu, basuh tangan kiri hingga siku.
 
 
-Bandar Warna, level dua puluh.
+Selepas itu, sapu sebahagian kepala.
 
 
-Bandar Warna, level dua puluh satu.
+Selepas itu, sapu telinga.
 
 
-Cari bentuk bulan sabit!
+Selepas itu, basuh tangan kanan hingga siku.
 
 
-Bandar Warna, level dua puluh dua.
+Selepas itu, baca doa selepas wuduk.
 
 
-Kutip empat bulan sabit!
+Selepas itu, basuh kaki kanan hingga buku lali.
 
 
-Bandar Warna, level dua puluh tiga.
+Basuh kaki kiri hingga buku lali ialah rukun wuduk.
 
 
-Bandar Warna, level dua puluh empat.
+Basuh tangan kanan hingga siku ialah rukun wuduk.
 
 
-Kutip tiga segi tiga!
+Basuh kaki kanan hingga buku lali ialah rukun wuduk.
 
 
-Bandar Warna, level dua puluh lima.
+Sapu sebahagian kepala ialah rukun wuduk.
 
 
-Cari nombor sembilan!
+Basuh tangan kiri hingga siku ialah rukun wuduk.
 
 
-Bandar Warna, level dua puluh enam.
+Basuh muka dan berniat ialah rukun wuduk.
 
 
-Bandar Warna, level dua puluh tujuh.
+Checkpoint!
 
 
-Bandar Warna, level dua puluh lapan.
+Kalau jatuh, kamu mula semula di sini.
 
 
-Bandar Warna, level dua puluh sembilan.
+Kamu sampai ke trofi!
 
 
-Bandar Warna, level tiga puluh.
+Wah!
 
 
-Kutip empat segi tiga!
+Jalan Batu kamu sama seperti pelan.
 
 
-Bandar Warna, level tiga puluh satu.
+Arkitek hebat!
 
 
-Bandar Warna, level tiga puluh dua.
+Huruf el kamu sama seperti pelan.
 
 
-Bandar Warna, level tiga puluh tiga.
+Pagar Kayu kamu sama seperti pelan.
 
 
-Bandar Warna, level tiga puluh empat.
+Bunga Merah kamu sama seperti pelan.
 
 
-Bandar Warna, level tiga puluh lima.
+Menara Batu kamu sama seperti pelan.
 
 
-Berapa kumbang?
+Meja kamu sama seperti pelan.
 
 
-Cari bentuk segi tiga!
+Kerusi kamu sama seperti pelan.
 
 
-Bandar Warna, level tiga puluh enam.
+Pokok kamu sama seperti pelan.
 
 
-Bandar Warna, level tiga puluh tujuh.
+Kereta kamu sama seperti pelan.
 
 
-Bandar Warna, level tiga puluh lapan.
+Roket kamu sama seperti pelan.
 
 
-Bandar Warna, level tiga puluh sembilan.
+Rumah Kecil kamu sama seperti pelan.
 
 
-Bandar Warna, level empat puluh.
+Piramid kamu sama seperti pelan.
 
 
-Bandar Warna, level empat puluh satu.
+Lampu Isyarat kamu sama seperti pelan.
 
 
-Bandar Warna, level empat puluh dua.
+Jambatan kamu sama seperti pelan.
 
 
-Bandar Warna, level empat puluh tiga.
+Kek Hari Jadi kamu sama seperti pelan.
 
 
-Berapa pensel?
+Robot kamu sama seperti pelan.
 
 
-Bandar Warna, level empat puluh empat.
+Surau Kecil kamu sama seperti pelan.
 
 
-Kutip tiga bulatan!
+Kapal kamu sama seperti pelan.
 
 
-Bandar Warna, level empat puluh lima.
+Menara Jam kamu sama seperti pelan.
 
 
-Berapa kek cawan?
+Rumah Dua Tingkat kamu sama seperti pelan.
 
 
-Bandar Warna, level empat puluh enam.
+Rumah Kampung kamu sama seperti pelan.
 
 
-Cari nombor sepuluh!
-
-
-Bandar Warna, level empat puluh tujuh.
-
-
-Bandar Warna, level empat puluh lapan.
-
-
-Kutip dua bujur!
-
-
-Bandar Warna, level empat puluh sembilan.
-
-
-Bandar Warna, level lima puluh.
-
-
-Taman Dinosor.
-
-
-Dinosor comel, telur dan gunung berapi.
-
-
-Selesaikan sepuluh level di Bandar Warna dahulu, ya.
-
-
-Taman Dinosor, level satu.
-
-
-Taman Dinosor, level dua.
+Istana Kecil kamu sama seperti pelan.
