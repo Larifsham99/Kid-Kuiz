@@ -1,4 +1,4 @@
-2560/2650 ayat diletakkan (2463 sepadan terus, 97 diisi antara jiran); 90 tiada dalam audio
+2554/2650 ayat diletakkan (2457 sepadan terus, 97 diisi antara jiran); 96 tiada dalam audio
 
 ISI    0.20  skrip: Aummm!  |  didengar: Ayaaa.
 ISI    0.20  skrip: Mooo!  |  didengar: Muuuuh.
@@ -108,6 +108,12 @@ TOLAK  0.00  skrip: Bangunan mainan, lampu isyarat dan jalan pelangi.  |  dideng
 TOLAK  0.00  skrip: Selesaikan sepuluh level di Bandar Warna dahulu, ya.  |  didengar: 
 TOLAK  0.00  skrip: Kutip dua segi tiga!  |  didengar: 
 TOLAK  0.00  skrip: Angkasawan naik apa ke angkasa?  |  didengar: 
+TOLAK  1.00  skrip: Negeri Gula-gula, level dua puluh lima.  |  didengar: Negeri Gula Gula Lv. 25.
+TOLAK  0.98  skrip: Negeri Gula-gula, level dua puluh enam.  |  didengar: Negeri Gula Gula Lv. 26.
+TOLAK  1.00  skrip: Negeri Gula-gula, level dua puluh tujuh.  |  didengar: Negeri Gula Gula Lv. 27.
+TOLAK  1.00  skrip: Negeri Gula-gula, level dua puluh lapan.  |  didengar: Negeri Gula Gula Lv. 28.
+TOLAK  1.00  skrip: Negeri Gula-gula, level dua puluh sembilan.  |  didengar: Negeri Gula Gula Lv. 29.
+TOLAK  0.96  skrip: Negeri Gula-gula, level tiga puluh.  |  didengar: Negeri Gula Gula Lv. 30.
 TOLAK  0.00  skrip: Berapa epal?  |  didengar: 
 TOLAK  0.00  skrip: Tapak Binaan Cilik, level dua puluh enam.  |  didengar: 
 TOLAK  0.00  skrip: Tapak Binaan Cilik, level dua puluh tujuh.  |  didengar: 
