@@ -29,11 +29,15 @@ def nombor(n):
     if n < 1000: h = 'seratus' if n // 100 == 1 else f'{SATU[n // 100]} ratus'; return h + (f' {nombor(n % 100)}' if n % 100 else '')
     return str(n)
 
+HURUF = {'a': 'ei', 'b': 'bi', 'c': 'si', 'd': 'di', 'e': 'i', 'f': 'ef', 'g': 'ji', 'h': 'heish', 'i': 'ai', 'j': 'jei', 'k': 'kei', 'l': 'el', 'm': 'em', 'n': 'en', 'o': 'o', 'p': 'pi', 'q': 'kiu', 'r': 'ar', 's': 'es', 't': 'ti', 'u': 'yu', 'v': 'vi', 'w': 'dabel yu', 'x': 'eks', 'y': 'wai', 'z': 'zed'}
+
 def norm(s):
     s = s.lower()
     s = re.sub(r'\d+', lambda m: ' ' + nombor(m.group()) + ' ', s)
     s = s.replace('-', ' ')
+    s = re.sub(r'\blv\b', 'level', s)
     s = re.sub(r"[^a-z\s]", ' ', s)
+    s = ' '.join(HURUF.get(w, w) if len(w) == 1 else w for w in s.split())
     return re.sub(r'\s+', ' ', s).strip()
 
 def script_lines(path):
@@ -80,24 +84,93 @@ def main():
     # buang token kosong (tanda baca sahaja)
     idx = [k for k, t in enumerate(wt) if t]
     W = [W[k] for k in idx]; wt = [wt[k] for k in idx]
-    res, p = [], 0
+    from collections import defaultdict, Counter
+    import bisect
+
+    def place(LI, WI):
+        """Padan senarai baris LI dengan perkataan WI (kedua-dua tersusun). Pulangkan {li: (i, m, skor)} dalam indeks global."""
+        sw = [wt[j] for j in WI]
+        tri = defaultdict(list)
+        for j in range(len(sw) - 2): tri[(sw[j], sw[j + 1], sw[j + 2])].append(j)
+        cand = []
+        for q, li in enumerate(LI):
+            T = norm(lines[li]).split()
+            if len(T) < 3: continue
+            votes = Counter()
+            for o in range(len(T) - 2):
+                for j in tri.get((T[o], T[o + 1], T[o + 2]), []): votes[j - o] += 1
+            if not votes: continue
+            st, v = votes.most_common(1)[0]
+            if v >= max(1, (len(T) - 2) * 0.5) and list(votes.values()).count(v) == 1: cand.append((q, st, v))
+        bw, pv = [0] * len(cand), [-1] * len(cand)
+        for x in range(len(cand)):
+            bw[x] = cand[x][2]
+            for y in range(max(0, x - 400), x):
+                if cand[y][0] < cand[x][0] and cand[y][1] < cand[x][1] and bw[y] + cand[x][2] > bw[x]: bw[x], pv[x] = bw[y] + cand[x][2], y
+        anch = {}
+        if cand:
+            x = max(range(len(cand)), key=lambda z: bw[z])
+            while x >= 0: anch[cand[x][0]] = cand[x][1]; x = pv[x]
+        ak = sorted(anch)
+        out, p = {}, 0
+        for q, li in enumerate(LI):
+            L = norm(lines[li]); n = max(1, len(L.split()))
+            best = (0.0, None, None)
+            nx = bisect.bisect_right(ak, q)
+            limit = anch[ak[nx]] if nx < len(ak) else len(sw)
+            rng = range(max(p, anch[q] - 3), min(len(sw), anch[q] + 4)) if q in anch else range(p, min(len(sw), limit, p + 60))
+            for i in rng:
+                for m in range(max(1, n - 2), n + 4):
+                    if i + m > len(sw): break
+                    if WI[i + m - 1] - WI[i] != m - 1: break  # mesti perkataan bersebelahan dalam audio
+                    sc = SequenceMatcher(None, L, ' '.join(sw[i:i + m])).ratio() - (i - p) * 0.004
+                    if sc > best[0]: best = (sc, i, m)
+            sc, i, m = best
+            if i is not None and (sc >= 0.62 or (n <= 2 and sc >= 0.5)):
+                out[li] = (WI[i], m, sc); p = i + m
+        return out
+
+    # pusingan 1: semua baris; pusingan 2: baris yang belum diletakkan dalam audio yang belum digunakan
+    # (susunan bahagian dalam audio mungkin berbeza daripada skrip)
+    got = place(list(range(len(lines))), list(range(len(W))))
+    print(f'pusingan 1: {len(got)} ayat')
+    for rnd in (2, 3):
+        used = set()
+        for i, m, _ in got.values(): used.update(range(i, i + m))
+        LI = [li for li in range(len(lines)) if li not in got]
+        WI = [j for j in range(len(W)) if j not in used]
+        more = place(LI, WI)
+        got.update(more)
+        print(f'pusingan {rnd}: +{len(more)} ayat')
+        if not more: break
+    # pusingan akhir: carian seluruh audio yang belum digunakan, hanya padanan yang sangat jelas & unik
+    used = set()
+    for i, m, _ in got.values(): used.update(range(i, i + m))
+    added = 0
+    for li in range(len(lines)):
+        if li in got: continue
+        L = norm(lines[li]); n = max(1, len(L.split()))
+        if len(L) < 6: continue
+        scores = []
+        for i in range(len(W)):
+            if i in used: continue
+            for m in range(max(1, n - 1), n + 3):
+                if i + m > len(W) or any((i + q) in used for q in range(m)): break
+                scores.append((SequenceMatcher(None, L, ' '.join(wt[i:i + m])).ratio(), i, m))
+        if not scores: continue
+        scores.sort(reverse=True)
+        sc, i, m = scores[0]
+        second = next((s2 for s2, i2, m2 in scores[1:] if abs(i2 - i) > 2), 0)
+        if sc >= 0.85 and sc - second >= 0.04:
+            got[li] = (i, m, sc); used.update(range(i, i + m)); added += 1
+    print(f'pusingan akhir (carian penuh): +{added} ayat')
+    res = []
     for li, line in enumerate(lines):
-        L = norm(line); n = max(1, len(L.split()))
-        best = (0.0, None, None)
-        for i in range(p, min(len(W), p + 45)):
-            for m in range(max(1, n - 2), n + 4):
-                if i + m > len(W): break
-                c = ' '.join(wt[i:i + m])
-                sc = SequenceMatcher(None, L, c).ratio() - (i - p) * 0.004
-                if sc > best[0]: best = (sc, i, m)
-        sc, i, m = best
-        short = n <= 2
-        ok = i is not None and (sc >= 0.62 or (short and sc >= 0.5))
-        if ok:
+        if li in got:
+            i, m, sc = got[li]
             res.append({'k': li, 'ok': True, 'score': round(sc, 3), 'a': W[i][0], 'b': W[i + m - 1][1], 'heard': ' '.join(w[2].strip() for w in W[i:i + m]), 'i': i, 'm': m})
-            p = i + m
         else:
-            res.append({'k': li, 'ok': False, 'score': round(sc, 3), 'heard': ' '.join(w[2].strip() for w in W[i:i + m]) if i is not None else ''})
+            res.append({'k': li, 'ok': False, 'score': 0, 'heard': ''})
     # isi celah: ayat yang transkripnya kurang jelas (bunyi haiwan, nama huruf, sebutan lain)
     # diletakkan pada perkataan di antara dua ayat jiran yang sudah disahkan, ikut panjang ayat.
     k = 0
@@ -108,8 +181,11 @@ def main():
         run = res[s:k]
         wa = res[s - 1]['i'] + res[s - 1]['m'] if s > 0 else 0
         wb = res[k]['i'] if k < len(res) else len(W)
-        words = list(range(wa, wb))
-        if not words: continue
+        usedw = set()
+        for r0 in res:
+            if r0['ok']: usedw.update(range(r0['i'], r0['i'] + r0['m']))
+        words = [j for j in range(wa, wb) if j not in usedw]
+        if not words or wb - wa > 12 * (k - s) + 6: continue  # celah terlalu besar: susunan audio berbeza, jangan teka
         ln = [max(1, len(norm(lines[r['k']]))) for r in run]
         wl = [max(1, len(wt[j])) for j in words]
         nR, nW = len(run), len(words)
@@ -132,8 +208,8 @@ def main():
             if j > j0:
                 cand = ' '.join(wt[words[q]] for q in range(j0, j))
                 sim = SequenceMatcher(None, norm(lines[r['k']]), cand).ratio()
-                lenok = abs(sum(wl[j0:j]) + (j - j0 - 1) - ln[t - 1]) / ln[t - 1] < 0.6
-                if sim >= 0.3 or lenok:
+                onom = bool(re.search(r'(.)\1\1', lines[r['k']].lower())) and j - j0 <= 2  # bunyi: "Mooo!", "Aummm!"
+                if sim >= 0.4 or onom:
                     r.update({'ok': True, 'filled': True, 'score': round(sim, 3), 'a': W[words[j0]][0], 'b': W[words[j - 1]][1], 'heard': ' '.join(W[words[q]][2].strip() for q in range(j0, j)), 'i': words[j0], 'm': j - j0})
             j = j0
     # titik potong akhir
