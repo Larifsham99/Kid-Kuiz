@@ -1,82 +1,4 @@
-[warmly] Selamat petang, Intan Payung!
-
-
-Selamat malam, Intan Payung!
-
-
-Ini Laluan Bijak, Intan Payung!
-
-
-[gently] Itu Heish.
-
-
-Itu Aiskrim.
-
-
-Itu Pic.
-
-
-Cari huruf Heish.
-
-
-Jom rehatkan mata, Abang!
-
-
-Jom rehatkan mata, Adik!
-
-
-Jom rehatkan mata, Beybi!
-
-
-Jom rehatkan mata, Manja!
-
-
-Jom rehatkan mata, Intan Payung!
-
-
-[cheerfully] Jim.
-
-
-Tsa.
-
-
-Ain.
-
-
-Dhod.
-
-
-Api!
-
-
-i.
-
-
-Heish.
-
-
-Jip Hutan.
-
-
-Pelekat wau.
-
-
-[softly] Bila kita baca doa ini?
-
-
-Kho.
-
-
-Terus tidur.
-
-
-Maksudnya: Wahai Tuhanku, tambahkanlah ilmuku.
-
-
-Maksudnya: Aku memohon keampunan-Mu.
-
-
-Maksudnya: Dengan nama-Mu ya Allah, aku mati dan aku hidup.
+[softly] Maksudnya: Dengan nama-Mu ya Allah, aku mati dan aku hidup.
 
 
 Maksudnya: Dengan nama Allah.
@@ -151,9 +73,6 @@ i untuk Epal.
 Heish untuk Harimau.
 
 
-Hai Kakak!
-
-
 Jom dapatkan versi penuh Bijaku!
 
 
@@ -181,9 +100,6 @@ Priiit!
 Prok, prok, prok!
 
 
-Selamat datang ke Bijaku, Kakak!
-
-
 Semua cabaran hari ini sudah selesai.
 
 
@@ -206,9 +122,6 @@ Wai untuk Yoyo.
 
 
 Zed untuk Zirafah.
-
-
-Selamat datang ke Bijaku, Adik!
 
 
 Ini Laluan Bijak, Adik!
@@ -278,3 +191,51 @@ Dino mahu beli oren lima ringgit.
 
 
 Mimi mahu beli madu lima ringgit.
+
+
+Bobo mahu beli madu empat ringgit.
+
+
+Coco mahu beli telur tujuh ringgit.
+
+
+Dino mahu beli oren enam ringgit.
+
+
+Mimi mahu beli oren lapan ringgit.
+
+
+Dino mahu beli pisang tiga ringgit.
+
+
+Lala mahu beli teh sembilan ringgit.
+
+
+Mimi mahu beli lobak merah tiga ringgit.
+
+
+Dino mahu beli tembikai tiga ringgit.
+
+
+Lala mahu beli beras empat ringgit.
+
+
+Bobo mahu beli lobak merah lima ringgit.
+
+
+Mimi mahu beli roti lapan ringgit.
+
+
+Lala mahu beli kurma lapan ringgit.
+
+
+Coco mahu beli tembikai dua ringgit.
+
+
+Coco mahu beli kelapa sembilan ringgit.
+
+
+Mimi mahu beli madu lapan ringgit.
+
+
+Lala mahu beli lobak merah sepuluh ringgit.

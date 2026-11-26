@@ -1,91 +1,75 @@
-Kawan baru itu memakai cermin mata.
-Pakcik jiran sedang lalu di hadapan rumah.
-Mimi terjumpa sebatang pensel di lantai.
-Pensel itu milik Lala.
-Azan berkumandang.
-Sudah masuk waktu solat.
-Bobo sedang bermain.
-Dino mengambil nasi yang terlalu banyak.
-Dino sudah kenyang.
-Apa yang terbaik untuk lain kali?
-Ayah memanggil Lala dari dapur.
-Bagaimana Lala patut menjawab?
-Mimi ada bola baharu.
-Coco juga mahu bermain.
-Ada tabung derma di masjid.
-Ibu memberi Coco sekeping syiling.
-Apa yang Coco mahu buat?
-Bobo baru pulang dari bermain di luar.
-Tangan Bobo kotor.
-Apa yang Bobo buat sebelum makan?
-Dino sedang bermain buaian.
-Lala juga mahu naik buaian.
-Selamat datang ke Taman Akhlak!
-Jom pilih kebaikan, dan kebun kamu akan mekar.
-Cuba cari warna biru.
-Cuba cari warna coklat.
-Cuba cari warna hijau.
-Cuba cari warna hitam.
-Cuba cari warna kuning.
-Cuba cari warna merah jambu.
-Cuba cari warna merah.
-Cuba cari warna oren.
-Cuba cari warna putih.
-Cuba cari warna ungu.
-Ini warna biru.
-Ini warna hijau.
-Ini warna hitam.
-Hmm, kalau begitu, ada orang yang rasa sedih.
-Cuba pilih yang lain, ya.
-Hmm, kita makan dengan tangan kanan, ya.
-Hmm, taman jadi kotor.
-Hmm, air jadi membazir.
-Hmm, itu tidak benar.
-Hmm, kucing jadi takut dan sakit.
-Hmm, nanti Mimi penat esok.
-Hmm, kawan boleh jatuh sakit.
-Hmm, nanti ada orang tersadung.
-Hmm, pokok jadi rosak.
-Hmm, itu bukan milik kita.
-Hmm, waktu solat sudah tiba.
-Hmm, makanan jadi membazir.
-Hmm, hari ini kita mahu bersedekah.
-Hmm, kuman boleh masuk ke perut.
-Wisel
-Feri
-Zho
-satu ringgit.
-Betul, cukup-cukup!
-Tepat sekali!
-dua ringgit.
-tiga ringgit.
-empat ringgit.
-lima ringgit.
-tujuh ringgit.
-enam ringgit.
-lapan ringgit.
-sembilan ringgit.
-sepuluh ringgit.
-dua belas ringgit.
-tiga belas ringgit.
-sebelas ringgit.
-lima belas ringgit.
-enam belas ringgit.
-empat belas ringgit.
-Biru campur kuning, jadi hijau!
-Merah campur kuning, jadi oren!
-Merah campur biru, jadi ungu!
-Merah campur putih, jadi merah jambu!
-Kayu timbul di atas air!
-Kunci tenggelam ke dasar!
-Bola plastik timbul di atas air!
-Sepana tenggelam ke dasar!
-Daun timbul di atas air!
-Kelapa timbul di atas air!
-Batu tenggelam ke dasar!
-Itik getah timbul di atas air!
-Telur tenggelam ke dasar!
-Botol plastik kosong timbul di atas air!
-Gunting tenggelam ke dasar!
-Pensel timbul di atas air!
-Tepat!
+Basuh tangan kanan hingga siku ialah rukun wuduk.
+Basuh kaki kanan hingga buku lali ialah rukun wuduk.
+Sapu sebahagian kepala ialah rukun wuduk.
+Basuh tangan kiri hingga siku ialah rukun wuduk.
+Basuh muka dan berniat ialah rukun wuduk.
+Checkpoint!
+Kalau jatuh, kamu mula semula di sini.
+Kamu sampai ke trofi!
+Wah!
+Jalan Batu kamu sama seperti pelan.
+Arkitek hebat!
+Huruf L kamu sama seperti pelan.
+Pagar Kayu kamu sama seperti pelan.
+Bunga Merah kamu sama seperti pelan.
+Menara Batu kamu sama seperti pelan.
+Meja kamu sama seperti pelan.
+Kerusi kamu sama seperti pelan.
+Pokok kamu sama seperti pelan.
+Kereta kamu sama seperti pelan.
+Roket kamu sama seperti pelan.
+Rumah Kecil kamu sama seperti pelan.
+Piramid kamu sama seperti pelan.
+Lampu Isyarat kamu sama seperti pelan.
+Jambatan kamu sama seperti pelan.
+Kek Hari Jadi kamu sama seperti pelan.
+Robot kamu sama seperti pelan.
+Surau Kecil kamu sama seperti pelan.
+Kapal kamu sama seperti pelan.
+Menara Jam kamu sama seperti pelan.
+Rumah Dua Tingkat kamu sama seperti pelan.
+Rumah Kampung kamu sama seperti pelan.
+Istana Kecil kamu sama seperti pelan.
+Kereta Api kamu sama seperti pelan.
+Pokok Besar kamu sama seperti pelan.
+Roket Besar kamu sama seperti pelan.
+Piramid Tangga kamu sama seperti pelan.
+Robot Besar kamu sama seperti pelan.
+Taman Bunga kamu sama seperti pelan.
+Kapal Layar Besar kamu sama seperti pelan.
+Istana Mawar kamu sama seperti pelan.
+Red!
+Yellow!
+Green!
+Blue!
+Brown!
+Purple!
+Pink!
+Orange!
+Itu warna putih.
+White!
+Itu warna hitam.
+Black!
+Bola sampai ke penamat!
+Si Bulat sampai dengan selamat!
+Bobo solat bersama ayah.
+Apabila azan, kita bersiap untuk solat.
+Tiada makanan dibazirkan.
+Ambil makanan secukupnya.
+Jangan membazir.
+Ayah gembira mendengar jawapan yang sopan.
+Kita bercakap dengan sopan kepada ibu bapa.
+Main bersama lebih seronok!
+Berkongsi mainan dengan kawan.
+Sedekah membantu orang lain.
+Bersedekah membantu orang yang memerlukan.
+Tangan bersih, badan sihat!
+Kebersihan sebahagian daripada iman.
+Basuh tangan sebelum makan.
+Dino turun dan memberi giliran kepada Lala.
+Bersabar menunggu giliran.
+Rekod baharu!
+Membasuh muka (dengan niat)
+Qof
+Wau
+Maksudnya: Dengan nama Allah, aku bertawakal kepada Allah; tiada daya dan kekuatan melainkan dengan Allah.

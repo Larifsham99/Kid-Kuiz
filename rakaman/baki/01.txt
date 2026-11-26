@@ -1,37 +1,7 @@
-[warmly] Assalamualaikum, Abang!
-
-
-Assalamualaikum, Adik!
-
-
-Assalamualaikum, Kakak!
-
-
-Assalamualaikum, Beybi!
-
-
-Assalamualaikum, Manja!
-
-
-Assalamualaikum, Intan Payung!
-
-
-[cheerfully] Huruf Heish.
-
-
-Hai Abang!
-
-
-Selamat datang ke Bijaku, Abang!
-
-
-Pandainya, Abang!
+[cheerfully] Pandainya, Abang!
 
 
 Terbaik, Abang!
-
-
-Hai Adik!
 
 
 Pandainya, Adik!
@@ -46,34 +16,16 @@ Pandainya, Kakak!
 Terbaik, Kakak!
 
 
-Hai Beybi!
-
-
-Selamat datang ke Bijaku, Beybi!
-
-
 Pandainya, Beybi!
 
 
 Terbaik, Beybi!
 
 
-Hai Manja!
-
-
-Selamat datang ke Bijaku, Manja!
-
-
 Pandainya, Manja!
 
 
 Terbaik, Manja!
-
-
-Hai Intan Payung!
-
-
-Selamat datang ke Bijaku, Intan Payung!
 
 
 Pandainya, Intan Payung!
@@ -88,19 +40,10 @@ Terbaik, Intan Payung!
 Ini huruf Heish.
 
 
-Jom cari huruf Heish!
-
-
-Mana satu lagi huruf Heish?
-
-
 Teksi.
 
 
 Gambar mana yang bermula dengan Heish?
-
-
-Jom surih huruf Heish guna jari.
 
 
 Tangan terbuka.
@@ -110,9 +53,6 @@ Unta tinggal di mana, ya?
 
 
 Level juara!
-
-
-Cari gambar yang bermula dengan huruf Heish!
 
 
 Jom eja wau.
@@ -263,3 +203,78 @@ Selamat pagi, Intan Payung!
 
 
 Selamat tengah hari, Intan Payung!
+
+
+Selamat petang, Intan Payung!
+
+
+Selamat malam, Intan Payung!
+
+
+Ini Laluan Bijak, Intan Payung!
+
+
+[gently] Itu Heish.
+
+
+Itu Aiskrim.
+
+
+Itu Pic.
+
+
+Cari huruf Heish.
+
+
+Jom rehatkan mata, Abang!
+
+
+Jom rehatkan mata, Adik!
+
+
+Jom rehatkan mata, Beybi!
+
+
+Jom rehatkan mata, Manja!
+
+
+Jom rehatkan mata, Intan Payung!
+
+
+[cheerfully] Jim.
+
+
+Tsa.
+
+
+Ain.
+
+
+Dhod.
+
+
+Api!
+
+
+i.
+
+
+Jip Hutan.
+
+
+Pelekat wau.
+
+
+[softly] Bila kita baca doa ini?
+
+
+Kho.
+
+
+Terus tidur.
+
+
+Maksudnya: Wahai Tuhanku, tambahkanlah ilmuku.
+
+
+Maksudnya: Aku memohon keampunan-Mu.

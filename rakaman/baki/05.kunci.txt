@@ -1,47 +1,9 @@
-Basuh muka dan berniat
-Basuh tangan kanan hingga siku
-Basuh kaki kiri hingga buku lali
-Susun lima langkah ini ikut urutan yang betul!
-Masukkan air ke hidung
-Berkumur
-Susun enam langkah ini ikut urutan yang betul!
-Susun tujuh langkah ini ikut urutan yang betul!
-Selepas baca bismillah, apa langkah seterusnya?
-Selepas basuh tapak tangan, apa langkah seterusnya?
-Selepas basuh tangan kanan hingga siku, apa langkah seterusnya?
-Selepas basuh tangan kiri hingga siku, apa langkah seterusnya?
-Selepas sapu sebahagian kepala, apa langkah seterusnya?
-Selepas basuh muka dan berniat, apa langkah seterusnya?
-Selepas basuh kaki kiri hingga buku lali, apa langkah seterusnya?
-Selepas sapu telinga, apa langkah seterusnya?
-Antara tiga ini, yang mana wajib dalam wuduk?
-Bantu robot ambil bintang!
-Tekan anak panah.
-Kemudian tekan Jalan.
-Bawa robot ke bintang.
-Susun anak panah, kemudian tekan Jalan!
-Ada halangan di papan.
-Susun anak panah supaya robot sampai ke bintang tanpa terlanggar!
-Kutip semua bateri dahulu, kemudian bawa robot ke bintang.
-Tekan anak panah untuk melompat!
-Bawa watak kamu ke trofi.
-Jangan jatuh ke dalam air!
-Lompat ke trofi!
-Kutip permata biru kalau boleh.
-Blok retak akan runtuh.
-Jangan berhenti di atasnya, terus lompat!
-Pulau Lava!
-Tunggu platform kayu datang dekat, lompat naik, kemudian lompat turun di blok seterusnya.
 Hati-hati dengan duri dan lava!
 Tunggu masa yang sesuai, baru lompat.
 Pulau Awan!
 Pijak spring merah untuk melompat jauh ke hadapan.
 Cabaran terakhir!
 Platform, duri, spring dan blok retak.
-Jom bina!
-Pilih blok.
-Kemudian tekan pulau.
-Ikut gambar pelan, ya.
 Bina Huruf L seperti pelan!
 Bina Pagar Kayu!
 Ada dua tingkat.
@@ -68,3 +30,47 @@ Lihat model 3D, kemudian bina Menara Jam!
 Lihat model 3D, kemudian bina Rumah Dua Tingkat!
 Cabaran Arkitek!
 Binaan lebih besar.
+Putar paparan dan teliti setiap tingkat.
+Cabaran Arkitek: bina Istana Kecil!
+Cabaran Arkitek: bina Kereta Api!
+Cabaran Arkitek: bina Pokok Besar!
+Cabaran Arkitek: bina Roket Besar!
+Cabaran Arkitek: bina Piramid Tangga!
+Cabaran Arkitek: bina Robot Besar!
+Cabaran Arkitek: bina Taman Bunga!
+Cabaran Arkitek: bina Kapal Layar Besar!
+Cabaran Arkitek: bina Istana Mawar!
+Tekan gambar yang berwarna merah.
+Tekan gambar yang berwarna kuning.
+Tekan gambar yang berwarna hijau.
+Tekan gambar yang berwarna biru.
+Tekan gambar yang berwarna coklat.
+Tekan gambar yang berwarna ungu.
+Tekan gambar yang berwarna merah jambu.
+Tekan gambar yang berwarna oren.
+Tekan gambar yang berwarna putih.
+Tekan gambar yang berwarna hitam.
+Bobo sedang bermain.
+Dino mengambil nasi yang terlalu banyak.
+Dino sudah kenyang.
+Apa yang terbaik untuk lain kali?
+Ayah memanggil Lala dari dapur.
+Bagaimana Lala patut menjawab?
+Mimi ada bola baharu.
+Coco juga mahu bermain.
+Ada tabung derma di masjid.
+Ibu memberi Coco sekeping syiling.
+Apa yang Coco mahu buat?
+Bobo baru pulang dari bermain di luar.
+Tangan Bobo kotor.
+Apa yang Bobo buat sebelum makan?
+Dino sedang bermain buaian.
+Lala juga mahu naik buaian.
+Selamat datang ke Taman Akhlak!
+Jom pilih kebaikan, dan kebun kamu akan mekar.
+Cuba cari warna biru.
+Cuba cari warna coklat.
+Cuba cari warna hijau.
+Cuba cari warna hitam.
+Cuba cari warna kuning.
+Cuba cari warna merah jambu.

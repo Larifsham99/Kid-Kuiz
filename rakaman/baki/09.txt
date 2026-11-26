@@ -1,262 +1,148 @@
-[cheerfully] Kereta Api kamu sama seperti pelan.
+[cheerfully] Sijil pencapaian Bijak Mengelaskan untuk Kakak.
 
 
-Pokok Besar kamu sama seperti pelan.
+Sijil pencapaian Si Cilik Soleh untuk Kakak.
 
 
-Roket Besar kamu sama seperti pelan.
+Sijil pencapaian Dunia Haiwan untuk Kakak.
 
 
-Piramid Tangga kamu sama seperti pelan.
+Sijil pencapaian Asah Minda untuk Kakak.
 
 
-Robot Besar kamu sama seperti pelan.
+Sijil pencapaian Misi Pengembaraan untuk Kakak.
 
 
-Taman Bunga kamu sama seperti pelan.
+Sijil pencapaian ei, bi, si Ceria untuk Beybi.
 
 
-Kapal Layar Besar kamu sama seperti pelan.
+Sijil pencapaian Dunia Nombor untuk Beybi.
 
 
-Istana Mawar kamu sama seperti pelan.
+Sijil pencapaian Warna dan Bentuk untuk Beybi.
 
 
-Red!
+Sijil pencapaian Teka Bunyi untuk Beybi.
 
 
-Yellow!
+Sijil pencapaian Pazel Pintar untuk Beybi.
 
 
-Green!
+Sijil pencapaian Ingatan Hebat untuk Beybi.
 
 
-Blue!
+Sijil pencapaian Seni dan Mewarna untuk Beybi.
 
 
-Brown!
+Sijil pencapaian Cari Bayang untuk Beybi.
 
 
-Purple!
+Sijil pencapaian Maze Pengembaraan untuk Beybi.
 
 
-Pink!
+Sijil pencapaian Kehidupan Harian untuk Beybi.
 
 
-Orange!
+Sijil pencapaian Bijak Mengelaskan untuk Beybi.
 
 
-Itu warna putih.
+Sijil pencapaian Si Cilik Soleh untuk Beybi.
 
 
-White!
+Sijil pencapaian Dunia Haiwan untuk Beybi.
 
 
-Itu warna hitam.
+Sijil pencapaian Asah Minda untuk Beybi.
 
 
-Black!
+Sijil pencapaian Misi Pengembaraan untuk Beybi.
 
 
-Bola sampai ke penamat!
+Sijil pencapaian ei, bi, si Ceria untuk Manja.
 
 
-Si Bulat sampai dengan selamat!
+Sijil pencapaian Dunia Nombor untuk Manja.
 
 
-Assalamualaikum, Datuk!
+Sijil pencapaian Warna dan Bentuk untuk Manja.
 
 
-Datuk tersenyum gembira.
+Sijil pencapaian Teka Bunyi untuk Manja.
 
 
-Apabila berjumpa, kita memberi salam.
+Sijil pencapaian Pazel Pintar untuk Manja.
 
 
-Bobo makan dengan tangan kanan.
+Sijil pencapaian Ingatan Hebat untuk Manja.
 
 
-Sebelum makan, baca Bismillah.
+Sijil pencapaian Seni dan Mewarna untuk Manja.
 
 
-Kita makan dengan tangan kanan.
+Sijil pencapaian Cari Bayang untuk Manja.
 
 
-Dino gembira.
+Sijil pencapaian Maze Pengembaraan untuk Manja.
 
 
-Terima kasih, Coco!
+Sijil pencapaian Kehidupan Harian untuk Manja.
 
 
-Berkongsi membuatkan kawan gembira.
+Sijil pencapaian Bijak Mengelaskan untuk Manja.
 
 
-Taman kekal bersih dan cantik!
+Sijil pencapaian Si Cilik Soleh untuk Manja.
 
 
-Buang sampah ke dalam tong sampah.
+Sijil pencapaian Dunia Haiwan untuk Manja.
 
 
-Air tidak membazir.
+Sijil pencapaian Asah Minda untuk Manja.
 
 
-Pandai, Dino!
+Sijil pencapaian Misi Pengembaraan untuk Manja.
 
 
-Jangan membazir air.
+Sijil pencapaian ei, bi, si Ceria untuk Intan Payung.
 
 
-Bobo memaafkan Lala.
+Sijil pencapaian Dunia Nombor untuk Intan Payung.
 
 
-Mereka bina bersama-sama!
+Sijil pencapaian Warna dan Bentuk untuk Intan Payung.
 
 
-Apabila bersalah, kita minta maaf.
+Sijil pencapaian Teka Bunyi untuk Intan Payung.
 
 
-Terima kasih, Mimi.
+Sijil pencapaian Pazel Pintar untuk Intan Payung.
 
 
-Ibu sayang Mimi!
+Sijil pencapaian Ingatan Hebat untuk Intan Payung.
 
 
-Kita tolong ibu bapa di rumah.
+Sijil pencapaian Seni dan Mewarna untuk Intan Payung.
 
 
-Ayah bangga kerana Bobo jujur.
+Sijil pencapaian Cari Bayang untuk Intan Payung.
 
 
-Kita sentiasa berkata benar.
+Sijil pencapaian Maze Pengembaraan untuk Intan Payung.
 
 
-Kucing makan dengan gembira.
+Sijil pencapaian Kehidupan Harian untuk Intan Payung.
 
 
-Meow!
+Sijil pencapaian Bijak Mengelaskan untuk Intan Payung.
 
 
-Kita sayang haiwan.
+Sijil pencapaian Si Cilik Soleh untuk Intan Payung.
 
 
-Sabar menunggu giliran.
+Sijil pencapaian Dunia Haiwan untuk Intan Payung.
 
 
-Hebat, Dino!
+Sijil pencapaian Asah Minda untuk Intan Payung.
 
 
-Kita beratur dan tunggu giliran.
-
-
-Nenek tersenyum.
-
-
-Sama-sama, sayang.
-
-
-Apabila menerima sesuatu, ucapkan terima kasih.
-
-
-Mimi membaca doa, kemudian tidur dengan tenang.
-
-
-Sebelum tidur, kita membaca doa.
-
-
-Kawan menjawab, Yarhamukallah.
-
-
-Tutup mulut ketika bersin dan ucap Alhamdulillah.
-
-
-Coco dapat belajar banyak perkara!
-
-
-Kita mendengar ketika guru bercakap.
-
-
-Terima kasih, Lala.
-
-
-Dino rasa lebih baik.
-
-
-Kita menolong kawan yang dalam kesusahan.
-
-
-Bilik jadi kemas dan selamat!
-
-
-Selepas bermain, kita kemas semula.
-
-
-Masjid tenang.
-
-
-Semua orang dapat beribadah.
-
-
-Di masjid, kita tenang dan beradab.
-
-
-Nenek gembira dikunjungi cucu.
-
-
-Kita menziarahi saudara yang sakit.
-
-
-Adik berhenti menangis dan tersenyum.
-
-
-Kita sayang dan menjaga adik.
-
-
-Pokok segar semula.
-
-
-Bunga pun mekar!
-
-
-Kita menjaga tumbuhan ciptaan Allah.
-
-
-Mereka jadi kawan baik!
-
-
-Jangan mengejek.
-
-
-Semua orang boleh jadi kawan.
-
-
-Pakcik membalas senyuman.
-
-
-Senyum itu sedekah.
-
-
-Senyuman kepada orang lain ialah satu kebaikan.
-
-
-Kamu amanah!
-
-
-Kita pulangkan barang milik orang lain.
-
-
-Bobo solat bersama ayah.
-
-
-Apabila azan, kita bersiap untuk solat.
-
-
-Tiada makanan dibazirkan.
-
-
-Ambil makanan secukupnya.
-
-
-Jangan membazir.
-
-
-Ayah gembira mendengar jawapan yang sopan.
+Sijil pencapaian Misi Pengembaraan untuk Intan Payung.

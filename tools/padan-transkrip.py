@@ -36,6 +36,7 @@ def norm(s):
     s = re.sub(r'\d+', lambda m: ' ' + nombor(m.group()) + ' ', s)
     s = s.replace('-', ' ')
     s = re.sub(r'\blv\b', 'level', s)
+    s = re.sub(r'\bbaby\b', 'beybi', s)  # panggilan 'Baby' dieja Beybi dalam skrip
     s = re.sub(r"[^a-z\s]", ' ', s)
     s = ' '.join(HURUF.get(w, w) if len(w) == 1 else w for w in s.split())
     return re.sub(r'\s+', ' ', s).strip()

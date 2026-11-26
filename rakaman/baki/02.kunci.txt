@@ -1,29 +1,3 @@
-Selamat petang, Intan Payung!
-Selamat malam, Intan Payung!
-Ini Laluan Bijak, Intan Payung!
-Itu H.
-Itu Aiskrim.
-Itu Pic.
-Cari huruf H.
-Jom rehatkan mata, Abang!
-Jom rehatkan mata, Adik!
-Jom rehatkan mata, Beybi!
-Jom rehatkan mata, Manja!
-Jom rehatkan mata, Intan Payung!
-Jim
-Tsa
-Ain
-Dhod
-Api!
-E
-H
-Jip Hutan
-Pelekat wau
-Bila kita baca doa ini?
-Kho
-Terus tidur
-Maksudnya: Wahai Tuhanku, tambahkanlah ilmuku.
-Maksudnya: Aku memohon keampunan-Mu.
 Maksudnya: Dengan nama-Mu ya Allah, aku mati dan aku hidup.
 Maksudnya: Dengan nama Allah.
 Manusia salji
@@ -49,7 +23,6 @@ Aiskrim
 Datang lagi esok ya!
 E untuk Epal
 H untuk Harimau
-Hai Kakak!
 Jom dapatkan versi penuh Bijaku!
 Jom rehatkan mata, Kakak!
 Jom teroka Dunia Bijaku!
@@ -59,7 +32,6 @@ Permainan ini sedang dikunci oleh ibu bapa.
 Pilih satu pulau.
 Priiit!
 Prok, prok, prok!
-Selamat datang ke Bijaku, Kakak!
 Semua cabaran hari ini sudah selesai.
 Tamatkan semua level Asah Minda untuk mendapat sijil.
 Tik, tok, tik, tok!
@@ -68,7 +40,6 @@ Wiu, wiu!
 Wuuu,
 Y untuk Yoyo
 Z untuk Zirafah
-Selamat datang ke Bijaku, Adik!
 Ini Laluan Bijak, Adik!
 Setiap hari, ikut tiga langkah.
 Tekan bulatan yang bersinar untuk mula.
@@ -92,3 +63,19 @@ Coco mahu beli nanas empat ringgit.
 Bobo mahu beli mangga lima ringgit.
 Dino mahu beli oren lima ringgit.
 Mimi mahu beli madu lima ringgit.
+Bobo mahu beli madu empat ringgit.
+Coco mahu beli telur tujuh ringgit.
+Dino mahu beli oren enam ringgit.
+Mimi mahu beli oren lapan ringgit.
+Dino mahu beli pisang tiga ringgit.
+Lala mahu beli teh sembilan ringgit.
+Mimi mahu beli lobak merah tiga ringgit.
+Dino mahu beli tembikai tiga ringgit.
+Lala mahu beli beras empat ringgit.
+Bobo mahu beli lobak merah lima ringgit.
+Mimi mahu beli roti lapan ringgit.
+Lala mahu beli kurma lapan ringgit.
+Coco mahu beli tembikai dua ringgit.
+Coco mahu beli kelapa sembilan ringgit.
+Mimi mahu beli madu lapan ringgit.
+Lala mahu beli lobak merah sepuluh ringgit.

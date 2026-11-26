@@ -1,13 +1,3 @@
-Mimi mahu beli lobak merah satu ringgit, dan mi satu ringgit.
-Dino mahu beli sayur lima ringgit, dan kuih empat ringgit.
-Mimi mahu beli gula lima ringgit, dan madu lapan ringgit.
-Dino mahu beli epal lima ringgit, dan telur sembilan ringgit.
-Lala mahu beli mi tiga ringgit, dan nanas lima ringgit.
-Mimi mahu beli oren enam ringgit, dan mi lapan ringgit.
-Lala mahu beli oren enam ringgit, dan beras enam ringgit.
-Dino mahu beli madu lapan ringgit, dan telur tujuh ringgit.
-Dino mahu beli anggur enam ringgit, dan tembikai tiga ringgit.
-Coco mahu beli roti tujuh ringgit, dan gula tiga ringgit.
 Lala mahu beli teh satu ringgit, dan mangga lapan ringgit.
 Coco mahu beli kek empat ringgit, dan lobak merah empat ringgit.
 Mimi mahu beli sayur tujuh ringgit, dan anggur dua ringgit.
@@ -41,21 +31,6 @@ Klip kertas.
 Skru.
 Pemadam.
 Benda mana yang akan melekat pada magnet?
-Jom belajar berwuduk!
-Mula dengan membaca Bismillah.
-Basuh kedua-dua tapak tangan, tiga kali.
-Berkumur-kumur, tiga kali.
-Masukkan sedikit air ke hidung, kemudian hembus.
-Tiga kali.
-Basuh muka tiga kali, sambil berniat di dalam hati: Sahaja aku mengangkat hadas kecil kerana Allah Taala.
-Basuh tangan kanan hingga ke siku, tiga kali.
-Sekarang tangan kiri pula, hingga ke siku.
-Sapu sebahagian kepala dengan tangan yang basah.
-Sapu kedua-dua telinga.
-Basuh kaki kanan hingga ke buku lali, tiga kali.
-Akhir sekali, kaki kiri hingga ke buku lali.
-Wuduk sudah selesai.
-Jom baca doa selepas wuduk.
 Tertib ialah salah satu rukun wuduk.
 Susun tiga langkah ini ikut urutan yang betul!
 Baca Bismillah
@@ -67,3 +42,31 @@ Basuh kaki kanan hingga buku lali
 Sapu sebahagian kepala
 Susun empat langkah ini ikut urutan yang betul!
 Basuh tangan kiri hingga siku
+Basuh muka dan berniat
+Basuh tangan kanan hingga siku
+Basuh kaki kiri hingga buku lali
+Susun lima langkah ini ikut urutan yang betul!
+Masukkan air ke hidung
+Berkumur
+Susun enam langkah ini ikut urutan yang betul!
+Susun tujuh langkah ini ikut urutan yang betul!
+Selepas baca bismillah, apa langkah seterusnya?
+Selepas basuh tapak tangan, apa langkah seterusnya?
+Selepas basuh tangan kanan hingga siku, apa langkah seterusnya?
+Selepas basuh tangan kiri hingga siku, apa langkah seterusnya?
+Selepas sapu sebahagian kepala, apa langkah seterusnya?
+Selepas basuh muka dan berniat, apa langkah seterusnya?
+Selepas basuh kaki kiri hingga buku lali, apa langkah seterusnya?
+Selepas sapu telinga, apa langkah seterusnya?
+Antara tiga ini, yang mana wajib dalam wuduk?
+Bawa robot ke bintang.
+Susun anak panah, kemudian tekan Jalan!
+Ada halangan di papan.
+Susun anak panah supaya robot sampai ke bintang tanpa terlanggar!
+Kutip semua bateri dahulu, kemudian bawa robot ke bintang.
+Lompat ke trofi!
+Kutip permata biru kalau boleh.
+Blok retak akan runtuh.
+Jangan berhenti di atasnya, terus lompat!
+Pulau Lava!
+Tunggu platform kayu datang dekat, lompat naik, kemudian lompat turun di blok seterusnya.

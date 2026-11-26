@@ -1,232 +1,244 @@
-[warmly] Putar paparan dan teliti setiap tingkat.
+[gently] Cuba cari warna merah.
 
 
-Cabaran Arkitek: bina Istana Kecil!
+Cuba cari warna oren.
 
 
-Cabaran Arkitek: bina Kereta Api!
+Cuba cari warna putih.
 
 
-Cabaran Arkitek: bina Pokok Besar!
+Cuba cari warna ungu.
 
 
-Cabaran Arkitek: bina Roket Besar!
+Ini warna biru.
 
 
-Cabaran Arkitek: bina Piramid Tangga!
+Ini warna hijau.
 
 
-Cabaran Arkitek: bina Robot Besar!
+Ini warna hitam.
 
 
-Cabaran Arkitek: bina Taman Bunga!
+Hmm, waktu solat sudah tiba.
 
 
-Cabaran Arkitek: bina Kapal Layar Besar!
+Hmm, makanan jadi membazir.
 
 
-Cabaran Arkitek: bina Istana Mawar!
+Hmm, hari ini kita mahu bersedekah.
 
 
-Jom jadi Pemburu Warna!
+Hmm, kuman boleh masuk ke perut.
 
 
-Tekan Buka kamera.
+[cheerfully] Wisel.
 
 
-Tekan gambar yang berwarna merah.
+Feri.
 
 
-Tekan gambar yang berwarna kuning.
+Zho.
 
 
-Tekan gambar yang berwarna hijau.
+Satu ringgit.
 
 
-Tekan gambar yang berwarna biru.
+Betul, cukup-cukup!
 
 
-Tekan gambar yang berwarna coklat.
+Tepat sekali!
 
 
-Tekan gambar yang berwarna ungu.
+Dua ringgit.
 
 
-Tekan gambar yang berwarna merah jambu.
+Tiga ringgit.
 
 
-Tekan gambar yang berwarna oren.
+Empat ringgit.
 
 
-Tekan gambar yang berwarna putih.
+Lima ringgit.
 
 
-Tekan gambar yang berwarna hitam.
+Tujuh ringgit.
 
 
-Pegang telefon dengan selesa, seperti sedang membaca.
+Enam ringgit.
 
 
-Tok, tok, tok!
+Lapan ringgit.
 
 
-Datuk datang ke rumah.
+Sembilan ringgit.
 
 
-Mimi nampak Datuk di pintu.
+Sepuluh ringgit.
 
 
-Apa yang Mimi patut buat?
+Dua belas ringgit.
 
 
-Nasi sudah terhidang.
+Tiga belas ringgit.
 
 
-Bobo lapar.
+Sebelas ringgit.
 
 
-Bobo mahu mula makan.
+Lima belas ringgit.
 
 
-Bagaimana Bobo patut makan?
+Enam belas ringgit.
 
 
-Coco ada dua keping biskut.
+Empat belas ringgit.
 
 
-Dino tidak ada bekal hari ini.
+Biru campur kuning, jadi hijau!
 
 
-Apa yang Coco patut buat?
+Merah campur kuning, jadi oren!
 
 
-Lala habis minum air kotak.
+Merah campur biru, jadi ungu!
 
 
-Kotak kosong ada di tangan Lala.
+Merah campur putih, jadi merah jambu!
 
 
-Di mana Lala patut buang kotak itu?
+Kayu timbul di atas air!
 
 
-Dino sudah siap basuh tangan.
+Kunci tenggelam ke dasar!
 
 
-Tetapi air paip masih mengalir.
+Bola plastik timbul di atas air!
 
 
-Apa yang Dino patut buat?
+Sepana tenggelam ke dasar!
 
 
-Bobo membina menara blok yang tinggi.
+Daun timbul di atas air!
 
 
-Alamak!
+Kelapa timbul di atas air!
 
 
-Lala terlanggar menara itu.
+Batu tenggelam ke dasar!
 
 
-Apa yang Lala patut buat?
+Itik getah timbul di atas air!
 
 
-Ibu membawa banyak pinggan.
+Telur tenggelam ke dasar!
 
 
-Pinggan itu berat.
+Botol plastik kosong timbul di atas air!
 
 
-Bola Bobo terkena pasu bunga.
+Gunting tenggelam ke dasar!
 
 
-Pasu itu pecah.
+Pensel timbul di atas air!
 
 
-Ayah bertanya, siapa yang pecahkan pasu?
+Tepat!
 
 
-Apa yang Bobo patut jawab?
+Daun dan itik getah timbul!
 
 
-Ada seekor kucing kecil di taman.
+Bulu burung dan epal timbul!
 
 
-Kucing itu kelihatan lapar.
+Span dan bulu burung timbul!
 
 
-Ramai orang sedang beratur untuk membayar.
+Kelapa timbul!
 
 
-Dino mahu membayar juga.
+Epal timbul!
 
 
-Nenek memberi Lala sebuah hadiah.
+Epal tidak melekat pada magnet.
 
 
-Hadiah itu berbalut cantik.
+Peniti diperbuat daripada besi, jadi ia melekat pada magnet!
 
 
-Apa yang Lala patut katakan?
+Kertas tidak melekat pada magnet.
 
 
-Hari sudah malam.
+Gunting diperbuat daripada besi, jadi ia melekat pada magnet!
 
 
-Mimi sudah gosok gigi dan mahu tidur.
+Itik getah tidak melekat pada magnet.
 
 
-Apa yang Mimi buat sebelum tidur?
+Gelas tidak melekat pada magnet.
 
 
-Hidung Bobo gatal.
+Paku diperbuat daripada besi, jadi ia melekat pada magnet!
 
 
-Bobo mahu bersin.
+Klip kertas diperbuat daripada besi, jadi ia melekat pada magnet!
 
 
-Apa yang Bobo patut buat?
+Kayu tidak melekat pada magnet.
 
 
-Cikgu sedang bercerita di hadapan kelas.
+Bola plastik tidak melekat pada magnet.
 
 
-Kawan-kawan duduk dengan baik.
+Skru diperbuat daripada besi, jadi ia melekat pada magnet!
 
 
-Dino berlari, kemudian terjatuh.
+Pemadam tidak melekat pada magnet.
 
 
-Lutut Dino sakit.
+Sepana melekat pada magnet!
 
 
-Dino sudah selesai bermain.
+Paku melekat pada magnet!
 
 
-Mainan bersepah di atas lantai.
+Peniti dan klip kertas melekat pada magnet!
 
 
-Bobo ikut ayah ke masjid.
+Sepana dan skru melekat pada magnet!
 
 
-Ramai orang sedang beribadah.
+Klip kertas melekat pada magnet!
 
 
-Bagaimana Bobo patut berkelakuan?
+Tertib!
 
 
-Nenek sedang demam.
+Semua langkah tersusun dengan betul.
 
 
-Ibu mengajak Coco pergi menziarahi nenek.
+Selepas itu, basuh tapak tangan.
 
 
-Adik menangis kerana mainannya hilang.
+Selepas itu, berkumur.
 
 
-Daun pokok bunga di taman layu.
+Selepas itu, basuh tangan kiri hingga siku.
 
 
-Hari sangat panas.
+Selepas itu, sapu sebahagian kepala.
 
 
-Ada kawan baru di kelas.
+Selepas itu, sapu telinga.
+
+
+Selepas itu, basuh tangan kanan hingga siku.
+
+
+Selepas itu, baca doa selepas wuduk.
+
+
+Selepas itu, basuh kaki kanan hingga buku lali.
+
+
+Basuh kaki kiri hingga buku lali ialah rukun wuduk.
